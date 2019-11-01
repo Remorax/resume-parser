@@ -1,0 +1,137 @@
+
+DARSHINI K. SHAH
+
+Address:
+						                                                    
+B/5, Kirti Appt., Nr.Shankarda Hall,
+Rannapark, Ghatlodia,
+Ahmedabad, Gujarat
+Cell: +91 8980633888/ +91 7331120806
+Email: meetdarshinishah@gmail.com
+Experience summary
+	•	4.5+ years of strong experience in (IT Field) software design, development and implementation using software development methodologies.
+	•	Expertise in Project analysis, Database design, Software development, Coding,
+	•	Proven ability to work efficiently in independent and team environment, Effective interpersonal skill to participate in a team and achieve organizational goal.
+	•	Excellent interpersonal skills, excellent ability to provide solutions for various problems faced during the project.
+	•	Successfully demonstrated an ability to learn and implement new technologies to solve the ever changing business requirements and integrate different systems with different languages.
+	•	Flexible and always open to learn new technologies at fast pace
+	•	Experienced in application development using Google API, Web API
+Software/Languages/Databases
+Programming Languages
+C# 
+Operating Systems
+Windows 7,8
+RDBMS
+SQL Server 2005 / 2008.
+Web Technologies
+ASP.Net, HTML, Jquery, Javascript, CSS, Web API
+Servers
+IIS Server 7.5
+IDE Tools Used
+Visual Studio 2010,2008,2013
+Education 
+MCA-2011 with 70.25% from L.J.I.C.A - Gujarat University
+B.COM-2008 with 65.56% from H.A.C.C - Gujarat University
+12thCommerce-2005 with 82.5%– GSHEB
+S.S.C-2003 with 72% - GSEB
+Certification 
+70-480: Programming in HTML5 with JavaScript and CSS3
+70-486: Developing ASP.NET MVC Web Applications
+
+Scrum Master – March 2016, Scrum Alliance
+Work Experience
+
+Company
+Gateway Technolabs Pvt. Ltd.
+Duration
+July 2011 to Nov 2015
+Designation
+Senior Software Engineer
+
+
+Company
+Infosys Ltd. Hyderabad
+Duration
+Nov 2015 till present
+Designation
+Technology Analyst
+Project Experience
+
+Project
+Commercial Vehicle Industry Online i-Catalogue
+Duration
+Sep 2011 – May 2013
+Project Synopsis
+Worked on Live Web Application of a leading commercial vehicle industry. This web application content is available in 15 to 17 languages right now. All languages, countries all are managed by Admin. This project is also including CMS. Admin can manage all the data regarding their Products, Categories and Users. Client’s customer can view category wise products and also create wish list of his/her desired products. The web application also contains URL Rewriting for SEO.
+Role
+Software Developer
+Responsibilities
+	•	Design and documentation of System
+	•	Coordinate with Client and understood Requirements
+	•	Development
+	•	Monitor Quality Assurance Team
+Tools/Technologies
+Visual Studio 2005, ASP.NET 2.0, CSS, Javascript
+
+
+Project
+Transaction Management – Payment Gateway
+Duration
+May 2011 to Nov 2015
+Project Synopsis
+Worked on Live Web Application for company which is providing Payment gateway facility to its user. This web application is currently available in different languages and theme chosen by user as our site pages going to be integrated with their web application. This payment gateway support multiple currencies and different time zones. Basically client has already working system in ASP and we are migrating into .NET and add new features in migrated application.
+Role
+Senior Software Developer
+Responsibilities
+	•	Design and documentation of System
+	•	Coordinate with Client and understood Requirements
+	•	Development
+Tools/Technologies
+HTML, C# ASP.Net 4.0 with MVC4 and Kendo, SQL Server 2008
+
+Project
+Dealer Management for Automobile Company
+Duration
+Sep 2015 to Nov 2015
+Project Synopsis
+Worked on Live Module of Dealer Management for Automobile company. This module was responsible to get and manage and provide dealer’s information
+Role
+Scrum Master
+Responsibilities
+	•	Understand the requirement and create User story/ Product Backlog items for that
+	•	Define sprint & Estimation
+	•	Validate User Story
+	•	Help team for Technical/Functional support
+	•	Client Communication
+Tools/Technologies
+TFS 2015, ASP.NET 4.5, MVC 5, CSS, Javascript, Web API
+
+
+Project
+Microsoft Product
+Duration
+Nov 2015 till present
+Project Synopsis
+Working on Live Application for Microsoft product which has features like Automation of TFS management, managing Products Orders/Agreement/Announcement/Notify other team for any probable or predefined risk or issues other module owners. 
+Role
+Technology Analyst
+Responsibilities
+	•	Design and documentation of System
+	•	Development
+Tools/Technologies
+HTML, Angular JS, Javascript
+Achievements
+    I was onsite for 4 months and my client satisfaction is my achievements.
+Personal Details
+	
+Father’s Name
+Kaushikkumar Shah
+Nationality
+Indian
+Birth Date
+3rd August,1988
+Marital Status
+Single
+PAN Number
+CXKPS8678D
+

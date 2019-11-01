@@ -1,0 +1,78 @@
+PRIYA THANNEERMALAI
+Software Development Engineer                                           Assistant System Engineer                                                  pritanir1@gmail.com /+919820664813                            Tata Consultancy Services Ltd                                              
+Summary	
+
+2 years experienced .NET Developer with excellent communication and presentation skills in TATA Consultancy Services Ltd. working on Core Banking Solution.
+Computer skills
+
+
+
+
+
+
+
+
+
+
+
+
+Framework- .NET Framework 4.0,1.1, 2.0.
+ Programming Skills-
+HTML, XML. ASP.NET, JavaScript, CSS, Bootstrap.
+C#, VB.NET, MVC, MSSQL, PLSQL.
+Software	
+Database: Microsoft SQL Server, ORACLE
+Microsoft Visual Studio, Version Control Tools: PVCS and GIT. 
+TRAINING
+ent
+Tata Consultancy Service- Initial Learning Program (ILP)                                     (SEPT2014-DEC2014)
+Successfully completed a well-designed three months training in TCS-ILP (Trivandrum) in which technical as well as business skills were polished as needed by the industry.
+Performed role as a team lead of 6 associates to develop an ‘E-Recruitment’ software application which included managing, organizing, distributing work with impressive UI design development and data handling. Used Ajax, jQuery,C#.net and bootstrap for this purposes.
+Learnt how to practically implement the SDLC from requirement gathering to testing, debugging, documentation apart from enhancing presentation skills and client communication.
+Business Communication Training-
+Proactively attended training in which our email writing, client communication, business writing skills were polished.
+ B.E. Projects							              (JAN 2013-APR 2014)
+Worked on a final year project ‘3D Eyewear For Product Visualization’ under ‘Reliance Digital’.
+Completed a project on ‘instant health care’ system designed to make ordering of medical items more quick and efficient.
+Attended workshops on ethical hacking, network security and augmented reality.
+
+Experience
+
+Tata Consultancy Service- Developer in CDC                                                   (DEC 2014-Present)
+Currently working in Common Development Centre in BFSI domain on CBS (Core Banking Solutions) application (Bancs24-BancsLink) for 6 reputed nationalized banks.
+Developed and tested APIs for new modules introduced by banks including government schemes PMJBY, PMSBY, KVP, Signature Upload, Form 15G/15H, Etc. 
+Provide comprehensive solutions to issues from the client site (production issues) including site visits.
+Working on ASBA (Application Supported By Blocked Amount) application primarily used for subscription of IPOs and Debt Securities through bank.
+Involved in requirement gathering, analysis, client call meetings, feasibility study, change identification, development, unit and regression testing, deployment, creation of user manual and other documentation, site support for major functionalities.
+Having responsibility as the CML (Crisis Management Lead) for BCP (Business Continuity Plan) in current project which includes making reports, taking and restoring backups of the entire project components, disaster and risk management drills.
+Used version control tools GIT and PVCS for maintaining version of components at all sites.
+Trained new site members in CBS as well as ASBA and currently performing code review of team mates along with development.
+Undertaken the responsibility of learning, analysis, implementation of MVC and angular JS framework in a new tracker tool in which development is in progress.
+Education
+YEAR
+DEGREE
+UNIVERSITY
+PERCENTAGE
+2010-2014
+BE(IT)
+Father Agnels’ Institue Of Technology (University Of Mumbai)
+73.7
+2010
+HSC
+Maharashtra State board
+87
+2008
+SSC
+Maharashtra State board
+90.92
+TECHNICAL LEADERSHIP ACTIVITIES AND AWARDS
+Appreciated wih TCS Gems and “Technical Excellence” Award for full front end analysis, development and client communication for Inventory Maintenance issue.
+Appreciated with TCS Gems and ‘On the Spot’ Award for proactively developing and implementing a new ‘FE Promos’ tool used for file transfer.
+Received appreciation mail from clients and project manager for interactive, uncluttered, user-centric UI and prompt resolution of critical issues. 
+Received appreciation mail from management for presenting ASBA application to different TCS banking projects with functionality and technicality.
+Presented Technical Paper On “3D Eyewear For Product Visualization” in a national conference at Sinhagad Institute,Pune and published the same in an international journal.
+CO-CURRICULAR ACHIEVEMENTS
+
+Held the President Of CSI (Computer Society Of India) post during final year engineering and headed a team of 25 to organize events, coding competitions, seminars, workshops. Also won inter-college competitions in CSI.
+Held the post of President Of Genesis committee, a forum aimed at organizing personality development seminars, workshops, competitions, interactions and headed a team of 15 during engineering academics.
+Won Elocution, Debates and Group Discussions during engineering academics. Also presented a new business establishment project in a State level Inter-Collegiate Economics festival.

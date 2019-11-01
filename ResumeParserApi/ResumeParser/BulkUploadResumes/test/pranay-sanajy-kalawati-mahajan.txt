@@ -1,0 +1,139 @@
+PRANAY SANJAY KALAWATI MAHAJAN
+e-mail : mrpranaymahajan304@gmail.com
+mob : 9579954060
+Career Objective
+Seeking an opportunity which utilize my Technical as well as Creative Knowledge and Potential to the maximum as
+well as enable me to show my talent, team work and help me to polish my skills.
+Professional Profile
+A dynamic professional, having 3+ years of experience in the analysis, design, development, implementation and
+management of full life cycle commercial applications, currently associated with NIMS Solutions Pvt. Ltd.
+Amravati as lead Software Engineer; Expertise in C#, ASP .NET, SQL Server 2005/08, ADO .NET and intermediate
+in other .Net Technologies ( Web services, AJAX), Bootstrap and JQuery.
+Technical Skills
+Operating Systems : Windows Xp, Windows 7, 8.
+Languages : C#, Asp.net, C, CPP, CSS, HTML, JQuery, Bootstrap.
+Database : Oracle (9i/10g), MySQL, Access, SQL Server (2005/2008/2012).
+Development Tool : MS-Visual Studio (2005/10/12).
+Key Skills
+Object Oriented Analysis/ Database / Design.
+Software Development / Programming / Software Architecture / Data Structure / Data Backup & Storage.
+Solid management skill, demonstrated proficiency in leading and monitoring individuals to maximize level of
+productivity.
+Academic Projects
+Title: Intranet File Sharing and Messaging.
+Languages: Java, SQL, PL-SQL, XML.
+Tools: Notepad, MY-SQL.
+Role: Developer, Database design and Framework design.
+Description: This is a window based application with java as front end tool and MySQL as back end
+tool, it provide service of sharing files, media files, confidential file securely and
+messaging between with available connections.
+Title: E-Learning System Based On Learner Psychology.
+Languages: Asp.Net, C#, SQL-Server, JQuery, Bootstrap.
+Tools: MS-VS 2010, SQL-Server 2008.
+Role: Framework design, Developer, Database Design.
+Description: This is a web based application with ASP.Net as front end tool and SQL Server as back
+end tool, it provide service of online learning which provide content to learner according
+to their ability and psychology, keeping a track of all records e.g. - Performance, Online
+test, current affairs, etc.
+Title: Document Server System
+Languages: C#, ASP.Net, JavaScript, CSS, HTML.
+Tools: MS-VS 2010, SQL Server.
+Role: Developer and Database Design.
+Description: Document Server System is intranet application to share, editing, storing confidential
+files and document in easy and secure way.
+Employment History
+ Lead Software Developer at NIMS Solutions Pvt. Ltd, Amravati, MH – Oct - 2015 to Jul - 2016.
+ Software Developer at CCIT Amravati, MH - Nov 2012 to May 2015.
+Professional Experience
+Title: Database Backup and Migration System.
+Role: Developer.
+Languages: Java, SQL.
+Tools: Notepad
+Description: This application is used to take backup and migrating data from one database to any
+other database and it keeps track of all backups and migration securely.
+Contribution: Created user interface of application.
+Developed the functionality of backup and migration of DB.
+Implemented validation as per business logic.
+Performed unit testing of application and maintained staging environment.
+Title: Hybrid IDE
+Role: Developer and Database analyst.
+Languages: C#, SQL, PLSQL.
+Tools: MS-Visual Studio 2010.
+Description: This project is easy to use, maintenance free and deals with developing applications
+using any languages with any database.
+Contribution: Writing store procedures and queries in PLSQL
+Writing backend code for the application in C#.
+Creating, Monitoring and debugging the Jobs, Stored Procedures.
+Title: E-Shiksha
+Role: Developer.
+Languages: Asp.NET, C#, SQL, PLSQL, JQuery, Bootstrap.
+Tools: MS-VS 2010, SQL Server 2008/12 and IIS, MS-TF
+Description: This project is made for Educational institution where the student can check their day to
+day activities that are planned for them e.g. Utilization, attendance, finance, exam
+schedule, exam scores, performance, policies etc. Students or parents can raise any type
+requests here. There are 4 modules in the project: - Exam module, Attendance module,
+finance module, Student module, Parent module and Admin module.
+Contribution: Designed UI of the application
+Writing store procedures and queries in PLSQL
+Writing backend code for the application in ASP.net using C#, Bootstrap and JQuery.
+Title: Associates
+Role: Database design, Developer.
+Languages: Asp.NET, C#, SQL, PLSQL, JQuery, Bootstrap.
+Tools: MS-VS 2010, SQL Server 2008 and IIS, MS-TF
+Description: This project is made for property valuator where customer or bank sends request for
+valuation of property and send photocopy of documents, according to this valuator
+can valuate property at different level and produce final report.
+Contribution: Designed UI of the application
+Writing store procedures and queries in PLSQL
+Writing backend code for the application in ASP.net using C#, Bootstrap and JQuery.
+Qualification
+ Completed MSc. (Comp. Sci.) with 63.34% from H.V.P.M. College, Amravati in 2015.
+ Completed PGDCS (Comp. Sci.) with 64.58% from S.G.B. University, Amravati in 2013.
+ Completed BCA. (Comp. Application) with 63.72% from Harikisan Maloo. College, Amravati in 2012.
+ Completed H.S.C. with 51.33% from Panchfulabai Harne Junior College, Anjangaon Surji, Amravati in 2006.
+ Completed S.S.C. with 64.80% from Sitabai Sangai High School, Anjangaon Surji, Amravati in 2004.
+Research Work
+Title: Cloud Computing Data Security With Third Party Auditor (TPA).
+Description: Cloud is kind of centralized database where many organizations/clients store their data,
+retrieve data and possibly modify data. Cloud is a model where user is provided services
+by CSP (Cloud Service Provider) on pay per use base. Data stored and retrieved in such a
+way may not be fully trustworthy so here concept of TPA (Third Party Auditor) is used.
+TPA makes task of client easy by verifying integrity of data stored on behalf of client. We
+provide two clouds one for encryption and decryption namely trusted third party which
+will provide security services and second one is for only storage. The software is only
+responsible for Encryption/decryption, computing/verifying Hash of data and does not
+store any data in trusted third party that is security cloud.
+Title: A Proposed Architecture for E-learning System to Address Learner’s Psychology.
+Description: This paper introduces the current E-learning systems and then analyses the learner
+behavior and psychology and describes the architecture of E-learning which is based on
+psychology of learner. Psychology is a scientific study of human mind and behavior.
+Educational Psychology is the application of psych & psychological principles, methods to
+study of human development, motivation, instruction, assessment and related issues
+that influence the interaction of teaching & learning. We have tried to introduce Elearning system based on learner psychology and make an active research and
+exploration for it from the following aspects architecture, learner behavior and
+psychology, construction methods and interface with system.
+Awards And Achievements
+Participant in National Level Competition Blind Programming & Web Page Development.
+Participant in National Level Research activities.
+Participant in Programming Competition and secured First Position.
+Participant in one day workshop of Ethical Hacking.
+Worked for committees in national level Apps Fest organized by Microsoft India in Amravati.
+Languages Known
+English, Hindi and Marathi.
+Other Interests
+Internet Surfing, Riding Bike.
+Declaration
+I hereby declare that all the information given above, by me is correct to the best of my knowledge & belief.
+Date :
+Place : Pune Pranay Sanjay Kalawati Mahajan
+
+Appreciated wih TCS Gems and “Technical Excellence” Award for full front end analysis, development and client communication for Inventory Maintenance issue.
+Appreciated with TCS Gems and ‘On the Spot’ Award for proactively developing and implementing a new ‘FE Promos’ tool used for file transfer.
+Received appreciation mail from clients and project manager for interactive, uncluttered, user-centric UI and prompt resolution of critical issues. 
+Received appreciation mail from management for presenting ASBA application to different TCS banking projects with functionality and technicality.
+Presented Technical Paper On “3D Eyewear For Product Visualization” in a national conference at Sinhagad Institute,Pune and published the same in an international journal.
+CO-CURRICULAR ACHIEVEMENTS
+
+Held the President Of CSI (Computer Society Of India) post during final year engineering and headed a team of 25 to organize events, coding competitions, seminars, workshops. Also won inter-college competitions in CSI.
+Held the post of President Of Genesis committee, a forum aimed at organizing personality development seminars, workshops, competitions, interactions and headed a team of 15 during engineering academics.
+Won Elocution, Debates and Group Discussions during engineering academics. Also presented a new business establishment project in a State level Inter-Collegiate Economics festival.

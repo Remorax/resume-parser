@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="129" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.9.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-IN; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">2015-04-30T08:13:00Z</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Ninja</m>
+<m key="dc.date">2015-04-30T08:13:00Z</m>
+<m key="dc.format">application/x-abiword</m>
+<m key="dc.title">Curriculum Vitae</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="4" edit-time="717" last-saved="1430390975" uid="ebb984ea-ef24-11e4-9b8e-e5c3985b97d0">
+<version id="4" started="1430390287" uid="97710d98-ef26-11e4-9b8e-e5c3985b97d0" auto="0" top-xid="0"/>
+</history>
+<styles>
+<s type="P" name="Title" followedby="Normal" props="font-family:Cambria; font-size:26pt; dom-dir:ltr; margin-bottom:15pt; lang:en-US; line-height:1.0; color:000080; text-align:left"/>
+<s type="P" name="Normal" followedby="Normal" props="text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.1; text-align:left; bgcolor:transparent; lang:en-US; dom-dir:ltr; margin-bottom:10pt; font-weight:normal; text-decoration:none; font-variant:normal; color:000000; text-position:normal; font-size:11pt; margin-right:0pt; font-style:normal; widows:2; font-family:Times New Roman"/>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="font-family:Cambria; dom-dir:ltr; font-weight:bold; lang:en-US; text-align:left; margin-top:24pt; color:808080; keep-with-next:1; margin-bottom:3pt; line-height:1.0; font-size:14pt"/>
+<s type="P" name="List Paragraph" followedby="List Paragraph" props="font-family:Times New Roman; margin-left:0.5000in; font-size:10pt; dom-dir:ltr; lang:en-US; line-height:1.0; text-align:left"/>
+<s type="P" name="Footer" followedby="Footer" props="font-family:Times New Roman; font-size:10pt; tabstops:3.2500in/C,6.5000in/C; dom-dir:ltr; lang:en-US; line-height:1.0; text-align:left"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="Normal" props="font-family:Cambria; dom-dir:ltr; font-weight:bold; lang:en-US; text-align:left; margin-top:10pt; color:808080; keep-with-next:1; margin-bottom:3pt; line-height:1.0; font-size:13pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; dom-dir:ltr; font-style:italic; font-weight:bold; lang:en-US; margin-top:10pt; text-align:left; keep-with-next:1; margin-bottom:3pt; line-height:1.1; font-size:11pt"/>
+<s type="P" name="Heading 6" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:11pt; dom-dir:ltr; lang:en-US; line-height:1.1; text-align:left; font-style:italic; margin-top:10pt"/>
+<s type="P" name="Heading 7" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:11pt; dom-dir:ltr; lang:en-US; line-height:1.1; text-align:left; font-style:italic; margin-top:10pt"/>
+<s type="P" name="Heading 8" basedon="Normal" followedby="Normal" props="margin-top:10pt; font-size:10pt; dom-dir:ltr; lang:en-US; line-height:1.1; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Heading 9" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:10pt; dom-dir:ltr; lang:en-US; line-height:1.1; text-align:left; font-style:italic; margin-top:10pt"/>
+<s type="P" name="Subtitle" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; margin-bottom:10pt; lang:en-US; line-height:1.1; text-align:left; font-style:italic"/>
+<s type="P" name="Footnote Text" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:10pt; dom-dir:ltr; lang:en-US; line-height:1.0; text-position:normal; text-align:left"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:11pt; dom-dir:ltr; margin-bottom:3pt; lang:en-US; font-weight:bold; line-height:1.1; text-align:left; keep-with-next:1; margin-top:10pt"/>
+<s type="P" name="Normal (Web)" followedby="Normal (Web)" props="margin-top:5pt; font-size:12pt; dom-dir:ltr; margin-bottom:5pt; lang:en-US; line-height:1.0; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Table Grid" basedon="Table Normal" followedby="Normal" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:en-US; orphans:0; text-align:left; widows:0"/>
+<s type="P" name="Header" followedby="Header" props="font-family:Times New Roman; font-size:10pt; tabstops:3.2500in/C,6.5000in/C; dom-dir:ltr; lang:en-US; line-height:1.0; text-align:left"/>
+<s type="P" name="No Spacing" followedby="Normal" props="text-align:left; lang:en-US; font-size:10pt; line-height:1.0; font-family:Times New Roman; dom-dir:ltr"/>
+<s type="P" name="Heading 5" basedon="Normal" followedby="Normal" props="margin-top:10pt; font-size:11pt; dom-dir:ltr; lang:en-US; line-height:1.1; text-align:left; font-family:Times New Roman"/>
+<s type="P" name="Table Normal" followedby="Normal" props="font-family:Times New Roman; font-size:10pt; dom-dir:ltr; lang:en-US; orphans:0; text-align:left; font-style:italic; widows:0"/>
+<s type="P" name="Plain Text" basedon="Normal" followedby="Normal" props="text-align:left; lang:en-US; font-size:10pt; line-height:1.0; font-family:Courier New; dom-dir:ltr"/>
+<s type="P" name="Quote" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:11pt; dom-dir:ltr; margin-bottom:10pt; lang:en-US; line-height:1.1; text-align:left; font-style:italic"/>
+<s type="P" name="Intense Quote" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; dom-dir:ltr; font-style:italic; margin-left:0.6500in; lang:en-US; font-weight:bold; text-align:left; margin-top:10pt; margin-right:0.6500in; margin-bottom:14pt; line-height:1.1; font-size:11pt"/>
+<s type="P" name="Endnote Text" basedon="Normal" followedby="Normal" props="font-family:Times New Roman; font-size:10pt; dom-dir:ltr; lang:en-US; line-height:1.0; text-position:normal; text-align:left"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+<l id="1001" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+<l id="1003" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+<l id="1004" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+<l id="1005" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+<l id="1006" parentid="0" type="5" start-value="1" list-delim="%L" list-decimal="."/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section footer="9" xid="1" props="page-margin-right:0.6250in; section-restart-value:1; page-margin-left:1.0000in; page-margin-header:0.5000in; section-space-after:0.0000in; dom-dir:ltr; page-margin-footer:0.8083in; page-margin-top:0.7500in; page-margin-bottom:1.9312in">
+<p style="Title" xid="2" props="text-align:center; line-height:1.0; margin-bottom:15pt; dom-dir:ltr"><c props="lang:en-US; font-size:26pt; font-family:Cambria; color:000080">Curriculum Vitae</c></p>
+<p style="Normal" xid="3" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                               Srinidhi.E   </c></p>
+<p style="Normal" xid="4" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                                  No.21,ottravaadai street </c></p>
+<p style="Normal" xid="5" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                              Puzhal</c></p>
+<p style="Normal" xid="6" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                               Chennai-60006                          </c></p>
+<p style="Normal" xid="7" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                               +91 9940675154</c></p>
+<p style="Normal" xid="8" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:14pt; font-family:Times New Roman; font-weight:bold">                                                                                              Sri03.rdx@gmail.com</c></p>
+<p level="1" listid="1000" parentid="0" style="Heading 1" xid="9" props="margin-top:24pt; margin-left:0.5000in; start-value:1; dom-dir:ltr; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol; list-style:Bullet List"><field type="list_label" xid="10" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Educational Qualification:</c></p>
+<p style="Normal" xid="11" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<table xid="12" props="table-column-props:1.5514in/1.6715in/1.6979in/1.2667in/1.5514in/1.6715in/1.6979in/1.2667in/1.5514in/1.6715in/1.6979in/1.2667in/1.5514in/1.6715in/1.6979in/1.2667in/1.5514in/1.6715in/1.6979in/1.2667in/; table-column-leftpos:0.0625in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="13" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:1; top-attach:0">
+<p style="Normal" xid="14" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="15" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; font-size:12pt; font-family:Times New Roman; text-decoration:underline">QUALIFICATION</c></p>
+</cell>
+<cell xid="16" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:1; top-attach:0">
+<p style="Normal" xid="17" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="18" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; font-size:12pt; font-family:Times New Roman; text-decoration:underline">YEAR OF PASSING</c></p>
+</cell>
+<cell xid="19" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:1; top-attach:0">
+<p style="Normal" xid="20" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="21" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; font-size:12pt; font-family:Times New Roman; text-decoration:underline">PERCENTAGE</c></p>
+</cell>
+<cell xid="22" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:4; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:3; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:1; top-attach:0">
+<p style="Normal" xid="23" props="text-align:center; line-height:1.1; dom-dir:ltr"></p>
+<p style="Normal" xid="24" props="text-align:center; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; font-size:12pt; font-family:Times New Roman; text-decoration:underline">EDUCATIONAL INSTITUTION</c></p>
+</cell>
+<cell xid="25" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:2; top-attach:1">
+<p style="Normal" xid="26" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">MBA- MASTER OF BUSINESS ADMINISTRATION</c></p>
+<p style="Normal" xid="27" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="28" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">(FINANCE &amp; MARKETING)</c></p>
+</cell>
+<cell xid="29" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:2; top-attach:1">
+<p style="Normal" xid="30" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">2012-2014</c></p>
+<p style="Normal" xid="31" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+</cell>
+<cell xid="32" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:2; top-attach:1">
+<p style="Normal" xid="33" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">68% </c></p>
+</cell>
+<cell xid="34" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:4; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:3; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:2; top-attach:1">
+<p style="Normal" xid="35" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">DR.MGR EDUCATIONAL AND RESEARCH INSTITUTE UNIVERSITY</c></p>
+</cell>
+<cell xid="36" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:3; top-attach:2">
+<p style="Normal" xid="37" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="38" props="text-align:left; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">          B.COM</c></p>
+</cell>
+<cell xid="39" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:3; top-attach:2">
+<p style="Normal" xid="40" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="41" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">2012</c></p>
+</cell>
+<cell xid="42" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:3; top-attach:2">
+<p style="Normal" xid="43" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="44" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">57%</c></p>
+</cell>
+<cell xid="45" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:4; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:3; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:3; top-attach:2">
+<p style="Normal" xid="46" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="47" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">PACHAYAPPA’S COLLEGE, CHN-30.</c></p>
+</cell>
+<cell xid="48" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:4; top-attach:3">
+<p style="Normal" xid="49" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="50" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">12TH STANDARD</c></p>
+</cell>
+<cell xid="51" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:4; top-attach:3">
+<p style="Normal" xid="52" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="53" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">2008</c></p>
+</cell>
+<cell xid="54" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:4; top-attach:3">
+<p style="Normal" xid="55" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="56" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">75%</c></p>
+</cell>
+<cell xid="57" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:4; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:3; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:4; top-attach:3">
+<p style="Normal" xid="58" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="59" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">ST.ANTHONY’S MATRIC H.S.S, CHN-66.</c></p>
+</cell>
+<cell xid="60" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:5; top-attach:4">
+<p style="Normal" xid="61" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="62" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">10TH STANDARD</c></p>
+</cell>
+<cell xid="63" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:5; top-attach:4">
+<p style="Normal" xid="64" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="65" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">2006</c></p>
+</cell>
+<cell xid="66" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:5; top-attach:4">
+<p style="Normal" xid="67" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="68" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">67%</c></p>
+</cell>
+<cell xid="69" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:4; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:000000; left-attach:3; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:5; top-attach:4">
+<p style="Normal" xid="70" props="text-align:center; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="71" props="text-align:center; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">ST. ANTHONY’S MATRIC H.S.S, CHN-66.</c></p>
+</cell>
+</table>
+<p style="Heading 1" xid="72" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">ADDITIONAL QUALIFICATION</c><c props="lang:en-US; font-weight:bold; font-size:14pt; font-family:Cambria; color:808080">:</c></p>
+<p level="1" listid="1001" parentid="0" style="List Paragraph" xid="73" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="74" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Diploma in Computer Application </c></p>
+<p level="1" listid="1001" parentid="0" style="List Paragraph" xid="75" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="76" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Completed summer project in PUTHIYA THALAIMURAI in ekatuthangal..</c></p>
+<p style="List Paragraph" xid="77" props="text-align:left; line-height:1.0; dom-dir:ltr; margin-left:0.5000in"></p>
+<p style="List Paragraph" xid="78" props="text-align:left; line-height:1.0; dom-dir:ltr; margin-left:0.5000in"></p>
+<p style="Heading 1" xid="83" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Basic Skills:</c></p>
+<p level="1" listid="1003" parentid="0" style="List Paragraph" xid="84" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="85" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Good communication.</c></p>
+<p level="1" listid="1003" parentid="0" style="List Paragraph" xid="86" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="87" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Computer knowledge in Basic</c></p>
+<p level="1" listid="1003" parentid="0" style="List Paragraph" xid="88" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="89" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Co-operative in a group</c></p>
+<p style="Heading 1" xid="90" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Qualities &amp; Strengths:</c></p>
+<p level="1" listid="1004" parentid="0" style="List Paragraph" xid="91" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="92" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Sincere &amp; Dedicated</c></p>
+<p level="1" listid="1004" parentid="0" style="List Paragraph" xid="93" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="94" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Optimistic &amp; Extrovert</c></p>
+<p level="1" listid="1004" parentid="0" style="List Paragraph" xid="95" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="96" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Confident, Enthusiastic &amp; Self Intiative.</c></p>
+<p style="Heading 1" xid="97" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Extra- Curricular Activitie</c></p>
+<p level="1" listid="1005" parentid="0" style="List Paragraph" xid="98" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5312in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="99" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Basketball player</c></p>
+<p style="Heading 1" xid="100" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Personal Profile:</c></p>
+<p style="Normal" xid="101" props="text-align:left; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Name: Srinidhi.E</c></p>
+<p style="Normal" xid="102" props="text-align:left; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Father’s Name: Eagan.A</c></p>
+<p style="Normal" xid="103" props="text-align:left; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Date of Birth: 06- 01 - 1990</c></p>
+<p style="Normal" xid="104" props="text-align:left; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Marital Status: Single</c></p>
+<p style="Normal" xid="105" props="text-align:left; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Languages: </c></p>
+<p level="1" listid="1006" parentid="0" style="List Paragraph" xid="106" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="107" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">English: Read, Write &amp; Speak</c></p>
+<p level="1" listid="1006" parentid="0" style="List Paragraph" xid="108" props="list-style:Bullet List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.2500in; line-height:1.0; text-align:left; field-font:Symbol"><field type="list_label" xid="109" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:en-US; font-size:13pt; font-family:Times New Roman">Tamil: Read, Write &amp; Speak.</c></p>
+<p style="Heading 1" xid="110" props="text-align:left; margin-top:24pt; line-height:1.0; dom-dir:ltr"><c props="lang:en-US; font-weight:bold; text-decoration:underline; font-family:Times New Roman; color:808080; font-size:14pt">Declaration:</c></p>
+<p style="Normal" xid="111" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p style="Normal" xid="112" props="text-align:justify; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">     I, Srinidhi.E, do hereby declare that all the particulars mentioned above are true to the best of my knowledge and belief. I will work with dedication, hard work and positive attitude towards the successful completion of the responsibilities which I am entrusted.</c></p>
+<p style="Normal" xid="113" props="text-align:justify; line-height:1.1; dom-dir:ltr"></p>
+<p style="Normal" xid="114" props="text-align:justify; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Date:</c></p>
+<p style="Normal" xid="115" props="text-align:justify; line-height:1.1; dom-dir:ltr"><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">Place: Chennai                                                                                   (</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman; font-weight:bold">Srinidhi.E</c><c props="lang:en-US; font-size:12pt; font-family:Times New Roman">)</c></p>
+<p style="Normal" xid="116" props="text-align:justify; line-height:1.1; dom-dir:ltr"></p>
+<p style="Normal" xid="117" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p style="Normal" xid="118" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p style="Normal" xid="119" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p style="Normal" xid="120" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p style="List Paragraph" xid="121" props="text-align:left; line-height:1.0; dom-dir:ltr; margin-left:0.5000in"></p>
+<p style="Normal" xid="122" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+<p xid="123"></p>
+<p xid="124"></p>
+</section>
+<section type="footer" id="9" xid="125">
+<p style="Normal" xid="126" props="text-align:left; line-height:1.0; dom-dir:ltr"></p>
+<p style="Footer" xid="127" props="text-align:left; tabstops:3.2500in/C,6.5000in/C; line-height:1.0; dom-dir:ltr"></p>
+<p style="Footer" xid="128" props="text-align:left; tabstops:3.2500in/C,6.5000in/C; line-height:1.0; dom-dir:ltr"></p>
+<p style="Normal" xid="129" props="text-align:left; line-height:1.1; margin-bottom:10pt; dom-dir:ltr"></p>
+</section>
+</abiword>

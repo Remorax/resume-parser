@@ -1,0 +1,72 @@
+	
+
+ASHOK KUMAR
+Phone:    8860683940/8802949841
+E-mail:   ashokjangid1990@gmail.com
+
+Career Objectives:
+In quest of a position where my knowledge and skills are best utilized for the growth of the organization where I work. At the same time it helps me to develop both professionally as well as on a personal level.
+Academic/professional Qualifications:
+Examination
+Institute
+Board/
+University
+Year
+Result (%)
+B. Tech(ECE)
+Marwar Engineering College & Research Center,Jodhpur
+R.T.U.
+2012
+68.28
+XII
+Mayur Nobels Academy,Barmer
+R.B.S.E.
+2008
+72.31
+X
+Bal Mandir Sec. School,Barmer
+R.B.S.E.
+2006
+87.83
+
+Technical Skills:
+	•	A+ , N+ , CCNA, MCITP. 
+Training during B.Tech:
+	•	30 days Training on B.S.N.L.
+	•	Indusrial tour on Secure Meter, NTPC, Shri Cement  in 2011.
+Industrial Training: 
+	•	Organization: CMC NOIDA    
+Scope: Acquired knowledge in Computer Hardware(A+) & Networking(N+).	
+MCITP:  Active Directory , DHCP server, DNS,  Remote Desktop,  Remote                                                                                                                                   Assistance, IIS.
+CCNA: VLAN switching, Protocols ( OSPF , EIGRP, RIP v1,v2 ) ,Static Routing ,
+Frame-relay concept, IPv6,  NAT, Subneting, Port Security.
+ 
+
+
+
+
+Proficiency:
+	•	Computer: Elementry knowledge of C,MATLAB.
+	•	Comfortable with the following operating systems:
+      Windows Family OS (98, XP, Win7),Win Server 2008,LINUX.
+Project details:
+	•	Project Title: Automatic Street Light Controller (7 Sem.)
+Details: Automatic Street Light Control System uses transistor as a switch to switch ON and OFF the street light automatically. By using this system manual works are removed. It automatically switches ON lights when the sunlight goes below the visible region of our eyes. It automatically switches OFF lights under illumination by sunlight. This is done by a sensor called Light Dependant Resistor (LDR) which senses the light actually like our eyes. By using this system energy consumption is also reduced.
+
+	•	Project Title: Real Time Vehicle Tracking System Using Gps and Gsm. (8 Sem.)
+Details: The main aim of the project is to design and develop an advanced vehicle tracking system in the real time environment. The user can send a STATUS message from his cell phone and as soon as the GSM module gets the message, it will check for the user’s authentication and if found to be valid, it will immediately send the details of the locations like the latitude and the longitude using GPS module. So the user can get to know the exact location of the vehicle. At the same time message will be sent to a personal computer where user can get the exact location of vehicle pointed out on the Google maps.
+
+Responsibility: Idea conceived, circuit designed and fully built by myself.(Submitted                                 as per the curriculum of RTU, Kota).
+Activities:
+	•	 Active member of professional associations- ISTE, IETE.
+	•	 Have attended Enterprenureship Camp organised by Dept. Of Science & tech.	
+Personal Profile:
+	•	Date of Birth:            15 Oct. 1990
+	•	Father’s Name:          Mota Ram Jangid
+	•	Address:                    Moolchand Awana Building-1,Near Rishabh Jewellers,
+                                  Indira Market,Sector-27,Noida(U.P.)
+	•	Mobile:                      +918860683940
+Declaration:
+            I hereby declare that the information furnished above is true to the best of my knowledge.
+	
+                                                                   ASHOK KUMAR

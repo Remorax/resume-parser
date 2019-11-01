@@ -1,0 +1,115 @@
+Ashu Sharma
+Bachelor of Technology                                                                                 +918875577988, 9610420242
+Information Technology                                                                                                asmikku@gmail.com
+Rajasthan College of Engg. for Women, Jaipur
+       
+
+
+Year/Duration
+Degree / Certificate
+ Institute / University
+Grades
+2009-2013
+B. Tech (Information Technology)
+Rajasthan Technical University, Kota
+72.00 %
+2008-09
+Inter-mediate Class XII
+Govt. Sr. Sec. School, Paota [RBSE Board]
+76.46 %
+2006-07
+Matriculation Class X
+Govt. Sr. Sec. School, Paota [RBSE Board]
+79.83 %
+  Academic Details                                                                                                       
+
+  Objective                                                                                                                     
+
+To pursue a challenging and satisfying career in technology world that can leverage considerable   experience and be a part towards the goals of organization that gives me a scope to enhance my knowledge and skills to cope up with the latest technological changes.
+
+
+ Technical Skills                                                                                                        
+
+	•	Programming Languages :  Java, Sound Knowledge of OOP, HTML5
+	•	Software Packages : NetBeans IDE, VMware
+	•	Platforms :  Windows
+
+Sound knowledge of Networking
+
+Certification and Recognitions
+
+	•	Certification in Networking from DUCAT, Jaipur
+	•	Certification in Java from NIIT Technologies, Jaipur
+	•	Certification acquired from BHEL, Haridwar in Summer Internship 
+	•	Certification in HTML5 from NIIT Technologies, Jaipur
+Projects Undertaken
+
+	•	Network Establishment in a Domain:
+                    A network consists of two or more computers that are linked in order to share resources (such as printers and CD-ROMs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.
+
+Key Features Included:
+	•	Development of College Office with Three Other Building including Hostel, Library & various technologies building
+	•	Formation of one Domain including Domain Controller.
+	•	Domain Controller Based Security & management
+	•	All Campus communication  made by Cisco Routers & Switches
+	•	DNS Server Based Network.
+	•	IP address to some clients inside each department
+	•	Security system to this network and group policy
+	•	Programming and configuration of these routers
+                                                                                                                                                         Team Size: 2 
+                                                                                                                                                   Role: Developer 
+                                                                                                                                             Duration: 2 Months
+                                                                                                                          Technology Used: Networking
+
+“My role was to configure the all routers and switches connection. I was involved in the programming of these routers. Also involved in applying the Group Policy to the clients. 
+Apart from these I was also involved in the development of DFDs and ER Diagrams”
+
+	•	Cluster Server: 
+                   It is basically configuration of Network Load Balancing Server (CLUSTER SERVER) having its main Server and 2 additional server to Manage the Load on Main Website.
+
+Key Features Included:
+	•	Creation of one main Server to manage the load in Network.
+	•	Manage the load on web site through network load balancing.
+	•	Cluster Server Configuration with additional Server
+                                                                                                                                                                                                                                                   
+                                                                                                                                                          Team Size: 1  
+                                    
+                                                                                                                                             Duration: 2 Months
+                                                                                                                          Technology Used: Networking
+
+Seminars and Conferences
+
+	•	Attended ENTREPRENEURSHIP AWARENESS CAMP” Conducted  by MNIT(JAIPUR)
+	•	“CLOUD COMPUTING & INFORMATION SECURITY CCIS 2012” in association of ISTE & CSI
+	•	“National Workshop on Animation and Effect Concept used in Media Industries” Conducted by RCEW
+	
+Achievements (Scholastic and Co-curricular)
+	•	Represented school on the State level in Table Tennis Tournament
+	•	Secured 2nd rank in State level Table Tennis Tournament
+	•	Secured 1st  rank in District level Table Tennis Tournament
+	•	Won scholarship in SANSKRIT SHIKSHA SANSTHAN Scholarship exam
+	•	Won GARGI PRIZE at SSC & HSC level
+	•	Got 1st  prize in Prayer writing competition in “ABHIVYAKTI”
+ 
+Hobbies
+
+	•	 Travelling
+	•	 Listening to Music
+	•	 Playing Table Tennis
+	•	 Writing 
+
+Personal Details
+Date of Birth                    –                  08th Mar, 1993
+Father’s Name                 –                  Mr. Durga Dutt Bhardwaj
+Mother’s Name               –                  Mrs. Hemlata Sharma
+Nationality                        –                 Indian
+Gender                              –                 Female
+Marital Status                  –                 Single
+Mailing Address              –                 Adarsh Nagar, Near Modi Mandir, Paota (Jaipur) – 303106, India
+
+Declaration
+
+I certify that the above particulars are true to the best of my knowledge and belief.
+
+                                      
+Date:                                                                                                              Ashu Sharma

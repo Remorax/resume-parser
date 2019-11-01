@@ -1,0 +1,205 @@
+{
+    "status": true,
+    "data": {
+        "CandidateData": [
+            {
+                "QualificationsDetails": {
+                    "HighestQualificationDegree": "M.Sc",
+                    "QualificationData": [
+                        {
+                            "University": "Maharishi Dayanand University",
+                            "Institution": "Maharishi Dayanand University",
+                            "Degree": "B.E.",
+                            "PassingYear": "2008"
+                        },
+                        {
+                            "University": "None",
+                            "Institution": "None",
+                            "Degree": "M.Sc",
+                            "PassingYear": "2013"
+                        }
+                    ]
+                },
+                "PersonnelDetails": [
+                    {
+                        "ResumeInPlainText": "",
+                        "City": "",
+                        "Contact1": "9999866219",
+                        "Contact2": "",
+                        "PanNo": "",
+                        "Gender": "",
+                        "CandidateName": "",
+                        "EmailId1": "hp68710@gmail.com",
+                        "State": "",
+                        "EmailId2": "",
+                        "DateOfBirth": "",
+                        "Country": "",
+                        "SourcingDetails": "",
+                        "Address": "",
+                        "PassportNo": "",
+                        "ResumeFileType": ""
+                    }
+                ],
+                "SkillSetDetails": [
+                    {
+                        "Skillused": {
+                            "months": 90,
+                            "lastused": "Jan-2016"
+                        },
+                        "skillname": "JIRA",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 194,
+                            "lastused": "May-2016"
+                        },
+                        "skillname": "ITIL",
+                        "frequency": 4
+                    },
+                    {
+                        "Skillused": {
+                            "months": 90,
+                            "lastused": "Jan-2016"
+                        },
+                        "skillname": "database",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 90,
+                            "lastused": "Jan-2016"
+                        },
+                        "skillname": "documentation",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 48,
+                            "lastused": "Jul-2012"
+                        },
+                        "skillname": "Programming",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 48,
+                            "lastused": "Jul-2012"
+                        },
+                        "skillname": "focus",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 48,
+                            "lastused": "Jul-2012"
+                        },
+                        "skillname": "Oracle",
+                        "frequency": 6
+                    },
+                    {
+                        "Skillused": {
+                            "months": 90,
+                            "lastused": "Jan-2016"
+                        },
+                        "skillname": "basic",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 26,
+                            "lastused": "Dec-2013"
+                        },
+                        "skillname": "SAS",
+                        "frequency": 1
+                    },
+                    {
+                        "Skillused": {
+                            "months": 48,
+                            "lastused": "Jul-2012"
+                        },
+                           "skillname": "Siebel",
+                        "frequency": 3
+                    },
+                    {
+                        "Skillused": {
+                            "months": 48,
+                            "lastused": "Jul-2012"
+                        },
+                        "skillname": "CRM",
+                        "frequency": 3
+                    }
+                ],
+                "EmployementsHistoryDetails": {
+                    "EmployementHistoryData": [
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "university of texas at dallas",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "dec 2013"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "maharishi dayanand university",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "june 2008"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "pmi",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "july 2013"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "itil foundation",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "june 2013"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "project management institute",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "may 2016"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "sas institute ut dallas",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "dec 2013"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "dallas",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "jan 2016"
+                        },
+                        {
+                            "ToPeriod": "july 2012",
+                            "Organization": "enterprise solutions",
+                            "FunctionalArea": "",
+                            "Designation": "analyst",
+                            "FromPeriod": "aug 2008"
+                        },
+                        {
+                            "ToPeriod": "None",
+                            "Organization": "matrix",
+                            "FunctionalArea": "",
+                            "Designation": "None",
+                            "FromPeriod": "None"
+                        }
+                    ],
+                    "ExperienceInMonths": ""
+                },
+                "SrNo": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,1316 @@
+<degrees>
+  
+  <ISCEDLevels>
+    <level value="2" iscedvalue="2">
+      <v>ssc</v>
+    </level>
+    <level value="3" iscedvalue="3">
+      <v>hsc</v>
+    </level>
+    <level value="4" iscedvalue="4">
+      <v>ITI</v>
+    </level>
+    <level value="5" iscedvalue="5">
+      <v>diploma</v>
+    </level>
+    <level value="6" iscedvalue="6">
+      <v>bachelor</v>
+    </level>
+    <level value="7" iscedvalue="7">
+      <v>master</v>
+      <v>post graduation</v>
+      <v>post graduation diploma</v>
+      <v>pgd</v>
+    </level>
+    <level value="8" iscedvalue="8">
+      <v>doctrate</v>
+      <v>phd</v>
+    </level>
+  </ISCEDLevels>
+
+  <d key="S.S.C." level="2">
+    <v>S.S.C.</v>
+    <v>S.S.C</v>
+    <v>Secondary School Certificate</v>
+  </d>
+  <d key="H.S.C." level="3">
+    <v>H.S.C.</v>
+    <v>H.S.C</v>
+    <v>Higher Secondary School Certificate</v>
+    <v>Higher Secondary Certificate</v>
+  </d>
+  <d key="B.Arch" level="6">
+    <v>Bachelor in architecture</v>
+    <v>Bachelor of architecture</v>
+    <v>Bachelors in architecture</v>
+    <v>B.Arch</v>
+  </d>
+  <d key="B.C.A." level="6">
+    <v>B.C.A.</v>
+  </d>
+  <d key="B.C.S." level="6">
+    <v>B.C.S.</v>
+    <v>Bachelor Of Computer Science</v>
+    <v>B.C.S</v>
+    <v>bca</v>
+  </d>
+  <d key="B.C.A." level="6">
+    <v>Bachelor in Computer Applications</v>
+    <v>Bachelor Of Computer Applications</v>
+    <v>B.C.A.</v>
+    <v>B. C. A.</v>
+    <v>B.C.A</v>
+  </d>
+  <d key="B.Com" level="6">
+    <v>Bachelors in commerce</v>
+    <v>Bachelor in commerce</v>
+    <v>Bachelor of commerce</v>
+    <v>B.Com</v>
+    <v>B. Com</v>
+    <v>BCOM</v>
+    <v>Bcom</v>
+    <v>B.COM</v>
+    <v>B Com.</v>
+    <v>B.Com.</v>
+    <v>B. Com.</v>
+    <v>B COM</v>
+    <v>B.com</v>
+  </d>
+  <d key="B.D.S." level="6">
+    <v>Bachelor in dental science</v>
+    <v>Bachelor of dental science</v>
+    <v>Bachelors in dental science</v>
+    <v>B.D.S.</v>
+    <v>BDS</v>
+    <v>B.D.S</v>
+  </d>
+  <d key="B.E." level="6">
+    <v>Bachelors in engineering</v>
+    <v>Bachelors in engg.</v>
+    <v>Bachelor in engineering</v>
+    <v>Bachelor in engg.</v>
+    <v>Bachelor of engineering</v>
+    <v>Bachelor of engg.</v>
+    <v>B.E.</v>
+    <v>B.E</v>
+    <v>B. E.</v>
+    <v>BE</v>
+    <v>B. E</v>
+  </d>
+  <d key="B.Ed" level="6">
+    <v>Bachelor in education</v>
+    <v>Bachelors in education</v>
+    <v>Bachelor of education</v>
+    <v>B.Ed</v>
+  </d>
+  <d key="B.Pharm" level="6">
+    <v>Bachelor in pharmacy</v>
+    <v>Bachelor of pharmacy</v>
+    <v>Bachelors in pharmacy</v>
+    <v>B.Pharm</v>
+    <v>B.Pharma</v>
+  </d>
+  <d key="B.Planning" level="6">
+    <v>Bachelor in planning</v>
+    <v>Bachelor of planning</v>
+    <v>B.Planning</v>
+    <v>B Planning</v>
+    <v>B.Plan.</v>
+  </d>
+  <d key="B.Sc" level="6">
+    <v>Bachelors in science</v>
+    <v>Bachelor in science</v>
+    <v>Bachelor of science</v>
+    <v>B.Sc</v>
+    <v>Bsc</v>
+    <v>BSc</v>
+    <v>B Sc.</v>
+    <v>B.Sc.</v>
+    <v>B Sc</v>
+    <v>B.sc</v>
+    <v>B. Sc</v>
+  </d>
+  <d key="B.Tech." level="6">
+    <v>Bachelors in technology</v>
+    <v>Bachelors in tech.</v>
+    <v>Bachelor in technology</v>
+    <v>Bachelor in tech.</v>
+    <v>Bachelor of technology</v>
+    <v>Bachelor of tech.</v>
+    <v>B.Tech.</v>
+    <v>B.Tech</v>
+    <v>B. Tech</v>
+    <v>B.TECH</v>
+    <v>B.TECH.</v>
+    <v>B. TECH</v>
+    <v>BTech</v>
+    <v>B-TECH</v>
+    <v>B TECH</v>
+  </d>
+  <d key="BGL" level="6">
+    <v>Bachelor of General Law</v>
+    <v>Bachelor in General Law</v>
+    <v>BGL</v>
+  </d>
+  <d key="BHM" level="6">
+    <v>Bachelor in Hotel Management</v>
+    <v>BHM</v>
+    <v>B H M</v>
+  </d>
+  <d key="BL/LLB" level="6">
+    <v>Bachelor in Law</v>
+    <v>Bachelor of Law</v>
+    <v>BL/LLB</v>
+    <v>LLB</v>
+    <v>L L B</v>
+  </d>
+  <d key="BVSC" level="6">
+    <v>Bachelor in Veterinary Science</v>
+    <v>Bachelor of Veterinary Science</v>
+    <v>BVSC</v>
+  </d>
+  <d key="BIT" level="6">
+    <v>Bachelors in Information Technology</v>
+    <v>Bachelors of Information Technology</v>
+    <v>BIT</v>
+  </d>
+  <d key="Diploma Course in Culture and Tourism" level="5">
+    <v>Diploma Course in Culture and Tourism</v>
+  </d>
+  <d key="Diploma Course in Multimodal Transport &amp; Logistics Management" level="5">
+    <v>Diploma Course in Multimodal Transport &amp; Logistics Management</v>
+  </d>
+  <d key="Diploma Course in Rail Transport &amp; Management" level="5">
+    <v>Diploma Course in Rail Transport &amp; Management</v>
+  </d>
+  <d key="Diploma Course in Retail Management" level="5">
+    <v>Diploma Course in Retail Management</v>
+  </d>
+  <d key="Diploma course in Transport Economics &amp; Management" level="5">
+    <v>Diploma course in Transport Economics &amp; Management</v>
+  </d>
+  <d key="Diploma in Accommodation Operation" level="5">
+    <v>Diploma in Accommodation Operation</v>
+  </d>
+  <d key="Diploma in Accounting" level="5">
+    <v>Diploma in Accounting</v>
+  </d>
+  <d key="Diploma in Accounting and Taxation" level="5">
+    <v>Diploma in Accounting and Taxation</v>
+  </d>
+  <d key="Diploma in Acting" level="5">
+    <v>Diploma in Acting</v>
+  </d>
+  <d key="Diploma in Administrative Drafting &amp; Reporting in Hindi" level="5">
+    <v>Diploma in Administrative Drafting &amp; Reporting in Hindi</v>
+  </d>
+  <d key="Diploma in Anesthesia" level="5">
+    <v>Diploma in Anesthesia</v>
+    <v>D.A</v>
+  </d>
+  <d key="Diploma in Apparel Merchanding &amp; Marketing " level="5">
+    <v>Diploma in Apparel Merchanding &amp; Marketing</v>
+    <v>AMM</v>
+  </d>
+  <d key="Diploma in Applied Design" level="5">
+    <v>Diploma in Applied Design</v>
+  </d>
+  <d key="Diploma in Applied Electronics" level="5">
+    <v>Diploma in Applied Electronics</v>
+  </d>
+  <d key="Diploma in Archives &amp;a Documentation" level="5">
+    <v>Diploma in Archives &amp; Documentation</v>
+  </d>
+  <d key="Diploma in Audio &amp; Video Production" level="5">
+    <v>Diploma in Audio &amp; Video Production</v>
+  </d>
+  <d key="Diploma in Automobile Engineering" level="5">
+    <v>Diploma in Automobile Engineering</v>
+  </d>
+  <d key="Diploma in Ayurvedic Medicine" level="5">
+    <v>Diploma in Ayurvedic Medicine</v>
+    <v>D.Ay.M</v>
+  </d>
+  <d key="Diploma in Banking and Finance" level="5">
+    <v>Diploma in Banking and Finance</v>
+  </d>
+  <d key="Diploma in Basic WebTechnology" level="5">
+    <v>Diploma in Basic WebTechnology</v>
+  </d>
+  <d key="Diploma in Chemical Engineering" level="5">
+    <v>Diploma in Chemical Engineering</v>
+  </d>
+  <d key="Diploma in Chemical Process, Instrumentation and Cltr" level="5">
+    <v>Diploma in Chemical Process, Instrumentation and Cltr</v>
+  </d>
+  <d key="Diploma in Chest Diseases" level="5">
+    <v>Diploma in Chest Diseases</v>
+    <v>D.C.D</v>
+  </d>
+  <d key="Diploma in Child Health" level="5">
+    <v>Diploma in Child Health</v>
+    <v>D.C.H</v>
+  </d>
+  <d key="Diploma in Cinematography" level="5">
+    <v>Diploma in Cinematography</v>
+  </d>
+  <d key="Diploma in Civil Engineering" level="5">
+    <v>Diploma in Civil Engineering</v>
+  </d>
+  <d key="Diploma in Clinical Pathology" level="5">
+    <v>Diploma in Clinical Pathology</v>
+    <v>D.C.P</v>
+  </d>
+  <d key="Diploma in Clinical Research" level="5">
+    <v>Diploma in Clinical Research</v>
+  </d>
+  <d key="Diploma in Clinical Pathology &amp; Microbiology" level="5">
+    <v>Diploma in Clinical Pathology &amp; Microbiology</v>
+    <v>D.C.P.M</v>
+  </d>
+  <d key="Diploma in Communication &amp; Media Development" level="5">
+    <v>Diploma in Communication &amp; Media Development</v>
+  </d>
+  <d key="Diploma in Communication Engineering" level="5">
+    <v>Diploma in Communication Engineering</v>
+  </d>
+  <d key="Diploma in communication, journalism and public relations" level="5">
+    <v>Diploma in communication, journalism and public relations</v>
+  </d>
+  <d key="Diploma in Communicative English" level="5">
+    <v>Diploma in Communicative English</v>
+  </d>
+  <d key="Diploma in Comp. Hardware Maintenance &amp; Network Tech." level="5">
+    <v>Diploma in Comp. Hardware Maintenance &amp; Network Tech.</v>
+  </d>
+  <d key="Diploma in Computer Animation" level="5">
+    <v>Diploma in Computer Animation</v>
+  </d>
+  <d key="Diploma in Computer Applications" level="5">
+    <v>Diploma in Computer Applications</v>
+    <v>Diploma in Computer Application</v>
+    <v>D.C.A.</v>
+    <v>D.C.A</v>
+  </d>
+  <d key="Diploma in Computer Engineering" level="5">
+    <v>Diploma in Computer Engineering</v>
+  </d>
+  <d key="Diploma in Computer Language" level="5">
+    <v>Diploma in Computer Language</v>
+  </d>
+  <d key="Diploma in Computer Programming" level="5">
+    <v>Diploma in Computer Programming</v>
+  </d>
+  <d key="Diploma in Computer Technology" level="5">
+    <v>Diploma in Computer Technology</v>
+  </d>
+  <d key="Diploma in Computers in Office Management" level="5">
+    <v>Diploma in Computers in Office Management</v>
+  </d>
+  <d key="Diploma in Construction Mgt." level="5">
+    <v>Diploma in Construction Mgt.</v>
+    <v>Diploma in Construction Management</v>
+  </d>
+  <d key="Diploma in Cookery" level="5">
+    <v>Diploma in Cookery</v>
+  </d>
+  <d key="Diploma in Creative Writing in English" level="5">
+    <v>Diploma in Creative Writing in English</v>
+  </d>
+  <d key="Diploma in Creative Writing in Hindi" level="5">
+    <v>Diploma in Creative Writing in Hindi</v>
+  </d>
+  <d key="Diploma in Cruise Galley Operations" level="5">
+    <v>Diploma in Cruise Galley Operations</v>
+  </d>
+  <d key="Diploma in Dairy Mgt." level="5">
+    <v>Diploma in Dairy Mgt.</v>
+    <v>Diploma in Dairy Management</v>
+  </d>
+  <d key="Diploma in Dermatology &amp; Sexually Transmitted Diseases" level="5">
+    <v>Diploma in Dermatology &amp; Sexually Transmitted Diseases</v>
+    <v>D.D. &amp; S.T.D</v>
+  </d>
+  <d key="Diploma in Dermatology and Venereal Diseases" level="5">
+    <v>Diploma in Dermatology and Venereal Diseases</v>
+    <v>D.D.V.D</v>
+  </d>
+  <d key="Diploma in Dietetics and Public Health Nutrition " level="5">
+    <v>Diploma in Dietetics and Public Health Nutrition</v>
+    <v>DDPHN</v>
+  </d>
+  <d key="Diploma in Direction" level="5">
+    <v>Diploma in Direction</v>
+  </d>
+  <d key="Diploma in Direction &amp; Screen Play Writing" level="5">
+    <v>Diploma in Direction &amp; Screen Play Writing</v>
+  </d>
+  <d key="Diploma in Direction, Acting, Videography, Film Editing" level="5">
+    <v>Diploma in Direction, Acting, Videography, Film Editing</v>
+  </d> 
+  <d key="Diploma in Dramatic Arts" level="5">
+    <v>Diploma in Dramatic Arts</v>
+  </d>
+  <d key="Diploma in Early Childhood Care and Education" level="5">
+    <v>Diploma in Early Childhood Care and Education</v>
+  </d>
+  <d key="Diploma in Electrical Engineering" level="5">
+    <v>Diploma in Electrical Engineering</v>
+  </d>
+  <d key="Diploma in Electronics and Communication Engineering" level="5">
+    <v>Diploma in Electronics and Communication Engineering</v>
+  </d>
+  <d key="Diploma in Electronics and TeleCommunication Engineering" level="5">
+    <v>Diploma in Electronics and TeleCommunication Engineering</v>
+  </d>
+  <d key="Diploma in Export &amp; Import Management" level="5">
+    <v>Diploma in Export &amp; Import Management</v>
+    <v>DEIM</v>
+  </d>
+  <d key="Diploma in Family Planning" level="5">
+    <v>Diploma in Family Planning</v>
+    <v>D.F.P</v>
+  </d>
+  <d key="Diploma in Fashion Design" level="5">
+    <v>Diploma in Fashion Design</v>
+  </d>
+  <d key="Diploma in Fashion Design &amp; Boutique Management" level="5">
+    <v>Diploma in Fashion Design &amp; Boutique Management</v>
+  </d>
+  <d key="Diploma in Film Directing, Film Acting" level="5">
+    <v>Diploma in Film Directing, Film Acting</v>
+  </d>
+  <d key="Diploma in Film Making" level="5">
+    <v>Diploma in Film Making</v>
+  </d>
+  <d key="Diploma in Film Processing" level="5">
+    <v>Diploma in Film Processing</v>
+  </d>
+  <d key="Diploma in Film Studies" level="5">
+    <v>Diploma in Film Studies</v>
+  </d>
+  <d key="Diploma in Financial Management" level="5">
+    <v>Diploma in Financial Management</v>
+  </d>
+  <d key="Diploma in folkloristic and journalism" level="5">
+    <v>Diploma in folkloristic and journalism</v>
+  </d>
+  <d key="Diploma in Food &amp; beverage Service" level="5">
+    <v>Diploma in Food &amp; beverage Service</v>
+  </d>
+  <d key="Diploma in Food Production " level="5">
+    <v>Diploma in Food Production</v>
+    <v>DFP</v>
+  </d>
+  <d key="Diploma in Freehand Animation" level="5">
+    <v>Diploma in Freehand Animation</v>
+  </d>
+  <d key="Diploma in Front office / Reception Operation" level="5">
+    <v>Diploma in Front office / Reception Operation</v>
+  </d>
+  <d key="Diploma in Fruit Production" level="5">
+    <v>Diploma in Fruit Production</v>
+  </d>
+  <d key="Diploma in Functional Arabic" level="5">
+    <v>Diploma in Functional Arabic</v>
+  </d>
+  <d key="Diploma in Fundamental &amp; Audio Visual Education" level="5">
+    <v>Diploma in Fundamental &amp; Audio Visual Education</v>
+  </d>
+  <d key="Diploma in Garment Manufacturing Technology " level="5">
+    <v>Diploma in Garment Manufacturing Technology</v>
+    <v>GMT</v>
+  </d>
+  <d key="Diploma in Garment Technology" level="5">
+    <v>Diploma in Garment Technology</v>
+  </d>
+  <d key="Diploma in General Electronics" level="5">
+    <v>Diploma in General Electronics</v>
+  </d>
+  <d key="Diploma in Gynaecology and Obstetrics" level="5">
+    <v>Diploma in Gynaecology and Obstetrics</v>
+    <v>D.G.O</v>
+  </d>
+  <d key="Diploma in Health Education" level="5">
+    <v>Diploma in Health Education</v>
+    <v>D.H.S</v>
+  </d>
+  <d key="Diploma in Health Statistics" level="5">
+    <v>Diploma in Health Statistics</v>
+    <v>D.H.S</v>
+  </d>
+  <d key="Diploma in HIV and Family Education" level="5">
+    <v>Diploma in HIV and Family Education</v>
+  </d>
+  <d key="Diploma in Homoeopathic Medicine &amp; Surgery" level="5">
+    <v>Diploma in Homoeopathic Medicine &amp; Surgery</v>
+    <v>D.H.M.S</v>
+  </d>
+  <d key="Diploma in Horticulture Nursery Mgt" level="5">
+    <v>Diploma in Horticulture Nursery Mgt</v>
+  </d>
+  <d key="Diploma in Hospital Administration" level="5">
+    <v>Diploma in Hospital Administration</v>
+  </d>
+  <d key="Diploma in Hospitality Management" level="5">
+    <v>Diploma in Hospitality Management</v>
+  </d>
+  <d key="Diploma in Hotel &amp; Tourism Management" level="5">
+    <v>Diploma in Hotel &amp; Tourism Management</v>
+  </d>
+  <d key="Diploma in Hotel Management" level="5">
+    <v>Diploma in Hotel Management</v>
+  </d>
+  <d key="Diploma in Hotel Operation, Catering &amp; Applied Nutrition" level="5">
+    <v>Diploma in Hotel Operation, Catering &amp; Applied Nutrition</v>
+  </d>
+  <d key="Diploma in Industrial Electronics" level="5">
+    <v>Diploma in Industrial Electronics</v>
+  </d>
+  <d key="Diploma in Industrial Health" level="5">
+    <v>Diploma in Industrial Health</v>
+    <v>D.I.H</v>
+  </d>
+  <d key="Diploma in Industrial Hygiene" level="5">
+    <v>Diploma in Industrial Hygiene</v>
+  </d>
+  <d key="Diploma in Industrial Pollution &amp; Control" level="5">
+    <v>Diploma in Industrial Pollution &amp; Control</v>
+  </d>
+  <d key="Diploma in Industrial Safety" level="5">
+    <v>Diploma in Industrial Safety</v>
+  </d>
+  <d key="Diploma in Information Sciences" level="5">
+    <v>Diploma in Information Sciences</v>
+  </d>
+  <d key="Diploma in Information Technology" level="5">
+    <v>Diploma in Information Technology</v>
+  </d>
+  <d key="Diploma in Instrumentation Technology" level="5">
+    <v>Diploma in Instrumentation Technology</v>
+  </d>
+  <d key="Diploma in Insurance" level="5">
+    <v>Diploma in Insurance</v>
+  </d>
+  <d key="Diploma in Interior Design" level="5">
+    <v>Diploma in Interior Design</v>
+  </d>
+  <d key="Diploma in Interior Design and Decoration" level="5">
+    <v>Diploma in Interior Design and Decoration</v>
+  </d>
+  <d key="Diploma in interior design and decoration" level="5">
+    <v>Diploma in interior design and decoration</v>
+  </d>
+  <d key="Diploma in Interior Space Design and Management" level="5">
+    <v>Diploma in Interior Space Design and Management</v>
+  </d>
+  <d key="Diploma in International Business Management" level="5">
+    <v>Diploma in International Business Management&amp;gt;</v>
+  </d>
+  <d key="Diploma in Journalism" level="5">
+    <v>Diploma in Journalism</v>
+  </d>
+  <d key="Diploma in Kannada" level="5">
+    <v>Diploma in Kannada</v>
+  </d>
+  <d key="Diploma in Labour Law" level="5">
+    <v>Diploma in Labour Law</v>
+  </d>
+  <d key="Diploma in Law of Taxation" level="5">
+    <v>Diploma in Law of Taxation</v>
+  </d>
+  <d key="Diploma in Leather Technology" level="5">
+    <v>Diploma in Leather Technology</v>
+  </d>
+  <d key="Diploma in Leather Technology " level="5">
+    <v>Diploma in Leather Technology</v>
+  </d>
+  <d key="Diploma in Library &amp; Information Science" level="5">
+    <v>Diploma in Library &amp; Information Science</v>
+  </d>
+  <d key="Diploma in Library and Information Sciences" level="5">
+    <v>Diploma in Library and Information Sciences</v>
+  </d>
+  <d key="Diploma in Library Science" level="5">
+    <v>Diploma in Library Science</v>
+    <v>DLSc</v>
+  </d>
+  <d key="Diploma in Licentiate in Tropical Medicine &amp; Hygiene" level="5">
+    <v>Diploma in Licentiate in Tropical Medicine &amp; Hygiene</v>
+    <v>D.L.T.M &amp; H.</v>
+  </d>
+  <d key="Diploma in Maintenance Engg. &amp; Mgt." level="5">
+    <v>Diploma in Maintenance Engg. &amp; Mgt.</v>
+  </d>
+  <d key="Diploma in Management" level="5">
+    <v>Diploma in Management</v>
+  </d>
+  <d key="Diploma in mass communication and journalism" level="5">
+    <v>Diploma in mass communication and journalism</v>
+  </d>
+  <d key="Diploma in Mass Media" level="5">
+    <v>Diploma in Mass Media</v>
+  </d>
+  <d key="Diploma in MassCommunication" level="5">
+    <v>Diploma in MassCommunication</v>
+    <v>DMC</v>
+  </d>
+  <d key="Diploma in Mechanical Engineering " level="5">
+    <v>Diploma in Mechanical Engineering</v>
+  </d>
+  <d key="Diploma in Mechanical Engineering" level="5">
+    <v>Diploma in Mechanical Engineering</v>
+  </d>
+  <d key="Diploma in Media Communication" level="5">
+    <v>Diploma in Media Communication</v>
+  </d>
+  <d key="Diploma in Media Planning and Buying" level="5">
+    <v>Diploma in Media Planning and Buying</v>
+  </d>
+  <d key="Diploma in Medical Laboratory" level="5">
+    <v>Diploma in Medical Laboratory</v>
+    <v>D.M.L.T</v>
+  </d>
+  <d key="Diploma in Medical Laboratory Technology" level="5">
+    <v>Diploma in Medical Laboratory Technology</v>
+  </d>
+  <d key="Diploma in Medical Radiation Therapy" level="5">
+    <v>Diploma in Medical Radiation Therapy</v>
+    <v>D.M.R.T</v>
+  </d>
+  <d key="Diploma in Medical Radio Diagnosis" level="5">
+    <v>Diploma in Medical Radio Diagnosis</v>
+    <v>D.M.R.D</v>
+  </d>
+  <d key="Diploma in Medical Radiology" level="5">
+    <v>Diploma in Medical Radiology</v>
+    <v>D.M.R</v>
+  </d>
+  <d key="Diploma in Medical Radiology &amp; Electrology" level="5">
+    <v>Diploma in Medical Radiology &amp; Electrology</v>
+    <v>D.M.R.E</v>
+  </d>
+  <d key="Diploma in Motion Picture Photography" level="5">
+    <v>Diploma in Motion Picture Photography</v>
+  </d>
+  <d key="Diploma in Mushroom Technology" level="5">
+    <v>Diploma in Mushroom Technology</v>
+  </d>
+  <d key="diploma in Nuclear Medicine Technology" level="5">
+    <v>diploma in Nuclear Medicine Technology</v>
+  </d>
+  <d key="Diploma in Nursing Education and Administration" level="5">
+    <v>Diploma in Nursing Education and Administration</v>
+  </d>
+  <d key="Diploma in Office Automation" level="5">
+    <v>Diploma in Office Automation</v>
+  </d>
+  <d key="Diploma in Office Management &amp; House Keeping" level="5">
+    <v>Diploma in Office Management &amp; House Keeping</v>
+  </d>
+  <d key="Diploma in Operation Research" level="5">
+    <v>Diploma in Operation Research</v>
+  </d>
+  <d key="Diploma in Ophthalmic Medicine and Surgery" level="5">
+    <v>Diploma in Ophthalmic Medicine and Surgery</v>
+    <v>D.O.M.S</v>
+  </d>
+  <d key="Diploma in Ophthalmology" level="5">
+    <v>Diploma in Ophthalmology</v>
+    <v>D.O</v>
+  </d>
+  <d key="Diploma in Ophthalmology" level="5">
+    <v>Diploma in Ophthalmology</v>
+    <v>D.O</v>
+  </d>
+  <d key="Diploma in Optometry" level="5">
+    <v>Diploma in Optometry</v>
+  </d>
+  <d key="Diploma in Orthopedics" level="5">
+    <v>Diploma in Orthopedics</v>
+    <v>D.Orth/Ortho</v>
+  </d>
+  <d key="Diploma in Paediatrics" level="5">
+    <v>Diploma in Paediatrics</v>
+    <v>D.Paed</v>
+  </d>
+  <d key="Diploma in Pattern Making &amp; Garment Contruction " level="5">
+    <v>Diploma in Pattern Making &amp; Garment Contruction</v>
+    <v>PMGC</v>
+  </d>
+  <d key="Diploma in Photography" level="5">
+    <v>Diploma in Photography</v>
+  </d>
+  <d key="Diploma in Plastic Technology" level="5">
+    <v>Diploma in Plastic Technology</v>
+  </d>
+  <d key="Diploma in Population and Health Mgt." level="5">
+    <v>Diploma in Population and Health Mgt.</v>
+  </d>
+  <d key="Diploma in Primary Education" level="5">
+    <v>Diploma in Primary Education</v>
+  </d>
+  <d key="Diploma in Production and Industrial Engineering" level="5">
+    <v>Diploma in Production and Industrial Engineering</v>
+  </d>
+  <d key="Diploma in Production Engineering" level="5">
+    <v>Diploma in Production Engineering</v>
+    <v>D.P.E.</v>
+  </d>
+  <d key="Diploma in Production Mgt." level="5">
+    <v>Diploma in Production Mgt.</v>
+  </d>
+  <d key="Diploma in Professional Psychology" level="5">
+    <v>Diploma in Professional Psychology</v>
+  </d>
+  <d key="Diploma in Psychiatric Social Work" level="5">
+    <v>Diploma in Psychiatric Social Work</v>
+    <v>D.P.S.W</v>
+  </d>
+  <d key="Diploma in Psychological Medicine/Diploma in Psychiatric Medicine" level="5">
+    <v>Diploma in Psychological Medicine/Diploma in Psychiatric Medicine</v>
+    <v>D.P.M</v>
+  </d>
+  <d key="Diploma in Public Relations" level="5">
+    <v>Diploma in Public Relations</v>
+  </d>
+  <d key="Diploma in Radio diagnosis" level="5">
+    <v>Diploma in Radio diagnosis</v>
+    <v>D.R.D</v>
+  </d>
+  <d key="diploma in Radiography" level="5">
+    <v>diploma in Radiography</v>
+  </d>
+  <d key="Diploma in Refrigeration &amp; Air Conditioning" level="5">
+    <v>Diploma in Refrigeration &amp; Air Conditioning</v>
+  </d>
+  <d key="Diploma in Room Division Management " level="5">
+    <v>Diploma in Room Division Management</v>
+    <v>DRDM</v>
+  </d>
+  <d key="Diploma in rural journalism" level="5">
+    <v>Diploma in rural journalism</v>
+  </d>
+  <d key="Diploma in Sales Management" level="5">
+    <v>Diploma in Sales Management</v>
+  </d>
+  <d key="Diploma in Scenic Design" level="5">
+    <v>Diploma in Scenic Design</v>
+  </d>
+  <d key="Diploma in School Management" level="5">
+    <v>Diploma in School Management</v>
+  </d>
+  <d key="Diploma in Seed Production Technology" level="5">
+    <v>Diploma in Seed Production Technology</v>
+  </d>
+  <d key="Diploma in Skin, V D &amp; Leprosy" level="5">
+    <v>Diploma in Skin, V D &amp; Leprosy</v>
+    <v>D.S.VD &amp; L</v>
+  </d>
+  <d key="Diploma in Software Basics" level="5">
+    <v>Diploma in Software Basics</v>
+  </d>
+  <d key="Diploma in Sound Recording &amp; Sound Engineering" level="5">
+    <v>Diploma in Sound Recording &amp; Sound Engineering</v>
+  </d>
+  <d key="Diploma in Statistics" level="5">
+    <v>Diploma in Statistics</v>
+  </d>
+  <d key="Diploma in Sugar Technology" level="5">
+    <v>Diploma in Sugar Technology</v>
+  </d>
+  <d key="Diploma in Television, Radio, Print and Web journalism" level="5">
+    <v>Diploma in Television, Radio, Print and Web journalism</v>
+  </d>
+  <d key="Diploma in Textile Design" level="5">
+    <v>Diploma in Textile Design</v>
+  </d>
+  <d key="Diploma in Textile Designing &amp; CAD" level="5">
+    <v>Diploma in Textile Designing &amp; CAD</v>
+  </d>
+  <d key="Diploma in Textile Processing" level="5">
+    <v>Diploma in Textile Processing</v>
+  </d>
+  <d key="Diploma in Textile Technology " level="5">
+    <v>Diploma in Textile Technology</v>
+  </d>
+  <d key="Diploma in Tourism &amp; Destination Management" level="5">
+    <v>Diploma in Tourism &amp; Destination Management</v>
+  </d>
+  <d key="Diploma in Tourism &amp; Hotel Mgt." level="5">
+    <v>Diploma in Tourism &amp; Hotel Mgt.</v>
+  </d>
+  <d key="Diploma in Tourism Management " level="5">
+    <v>Diploma in Tourism Management</v>
+    <v>DTM</v>
+  </d>
+  <d key="Diploma in Tourism Studies" level="5">
+    <v>Diploma in Tourism Studies</v>
+  </d>
+  <d key="Diploma in Travel &amp; Tourism Industry Management" level="5">
+    <v>Diploma in Travel &amp; Tourism Industry Management</v>
+  </d>
+  <d key="Diploma in Travel Tourism &amp; Airlines Management" level="5">
+    <v>Diploma in Travel Tourism &amp; Airlines Management</v>
+  </d>
+  <d key="Diploma in Tropical Medicine &amp; Hygiene" level="5">
+    <v>Diploma in Tropical Medicine &amp; Hygiene</v>
+    <v>D.T.M &amp; H</v>
+  </d>
+  <d key="Diploma in Tuberculosis and Chest Diseases" level="5">
+    <v>Diploma in Tuberculosis and Chest Diseases</v>
+    <v>D.T.C.D</v>
+  </d>
+  <d key="Diploma in TV Direction &amp; Production" level="5">
+    <v>Diploma in TV Direction &amp; Production</v>
+  </d>
+  <d key="Diploma in TV Technology" level="5">
+    <v>Diploma in TV Technology</v>
+  </d>
+  <d key="Diploma in Vegetable Production" level="5">
+    <v>Diploma in Vegetable Production</v>
+  </d>
+  <d key="Diploma in Venereology" level="5">
+    <v>Diploma in Venereology</v>
+  </d>
+  <d key="Diploma in Video Camera &amp; Lighting" level="5">
+    <v>Diploma in Video Camera &amp; Lighting</v>
+  </d>
+  <d key="Diploma in Video Editing &amp; Sound Recording" level="5">
+    <v>Diploma in Video Editing &amp; Sound Recording</v>
+  </d>
+  <d key="Diploma in Vocational Rehabilitation and Counseling" level="5">
+    <v>Diploma in Vocational Rehabilitation and Counseling</v>
+  </d>
+  <d key="Diploma in Web &amp; Multimedia Technology" level="5">
+    <v>Diploma in Web &amp; Multimedia Technology</v>
+  </d>
+  <d key="Diploma in Youth Development Work" level="5">
+    <v>Diploma in Youth Development Work</v>
+  </d> 
+  <d key="FIII" level="6">
+    <v>Fellow of Insurance Institute of India</v>
+    <v>Fellow of Insurance Institute of India</v>
+    <v>FIII</v>
+    <v>F I I I</v>
+  </d>
+  <d key="ICAI" level="6">
+    <v>Institute of Cost Accountants Of India</v>
+    <v>Institute of Cost and Works Accountant</v>
+    <v>Institute of Cost and Works Accountants</v>
+    <v>The Institute of Cost and Works Accountants of India</v>
+    <v>Institute of Cost and Works Accountants of India</v>
+    <v>ICWA</v>
+    <v>ICWAI</v>
+    <v>I C W A</v>
+    <v>I C W A I</v>
+  </d>
+  <d key="M.A." level="7">
+    <v>Masters in arts</v>
+    <v>Master in arts</v>
+    <v>Master of arts</v>
+    <v>M.A.</v>
+    <v>M.A</v>
+  </d>
+  <d key="B.A." level="6">
+    <v>Bachelors in arts</v>
+    <v>Bachelor in arts</v>
+    <v>Bachelor of arts</v>
+    <v>B.A.</v>
+    <v>B.A</v>
+  </d>
+  <d key="M.Arch" level="7">
+    <v>Masters in architecture</v>
+    <v>Master in architecture</v>
+    <v>Master of architecture</v>
+    <v>M.Arch</v>
+  </d>
+  <d key="M.B.A." level="7">
+    <v>Masters in business adminisation</v>
+    <v>Masters in business administration</v>
+    <v>Masters in diploma business adminisation</v>
+    <v>Master in business adminisation</v>
+    <v>Master in business administration</v>
+    <v>Master in diploma business adminisation</v>
+    <v>Master of business adminisation</v>
+    <v>Master of business administration</v>
+    <v>Master of diploma business adminisation</v>
+    <v>Post-graduate Certificate in Business Management</v>
+    <v>Post Graduation Diploma in Master of Business Administration</v>
+    <v>M.B.A.</v>
+    <v>M. B. A.</v>
+    <v>M.B.A</v>
+    <v>MBA</v>
+    <v>Master in Management Studies</v>
+  </d>
+  <d key="PGDM" level="7">
+    <v>P.D.G.M.</v>
+    <v>P.D.G.M</v>
+    <v>PGDM</v>
+    <v>PGDPM&amp;IR</v>
+    <v>Post Graduate Diploma (Regular) course in Personnel Management</v> 
+    <v>Post Graduate Diploma Management</v> 
+  </d>
+  <d key="M.B.B.S." level="6">
+    <v>Bachelor of Medicine and Bachelor of Surgery</v>
+    <v>M.B.B.S.</v>
+    <v>M.B.B.S</v>
+    <v>MBBS</v>
+  </d>
+  <d key="M.C.A." level="7">
+    <v>Masters IN comuter application</v>
+    <v>Masters IN computer applications</v>
+    <v>Masters IN computer application</v>
+    <v>Masters IN computer application</v>
+    <v>MASTER IN comuter application</v>
+    <v>MASTER IN computer applications</v>
+    <v>MASTER IN computer application</v>
+    <v>MASTER IN computer application</v>
+    <v>MASTER of Computer Applications</v>
+    <v>Masters of comuter application</v>
+    <v>Masters of computer applications</v>
+    <v>Masters of computer application</v>
+    <v>Masters of computer application</v>
+    <v>M.C.A.</v>
+    <v>MCA</v>
+    <v>M.C.A</v>
+    <v>PGDCA</v>
+  </d>
+  <d key="M.Com" level="7">
+    <v>Masters in commerce</v>
+    <v>Master in commerce</v>
+    <v>Master of commerce</v>
+    <v>Master of Commerce</v>
+    <v>M.Com</v>
+    <v>M.Com.</v>
+    <v>M. Com.</v>
+    <v>M. Com</v>
+  </d>
+  <d key="M.D." level="8">
+    <v>Doctor of Medicine</v>
+    <v>M.D.</v>
+    <v>M.D</v>
+  </d>
+  <d key="M.E." level="7">
+    <v>Master of Technology</v>
+    <v>Masters in engineering</v>
+    <v>Masters in engg.</v>
+    <v>Masters in bach. engg.</v>
+    <v>Master in engineering</v>
+    <v>Master in engg.</v>
+    <v>Master in bach. engg.</v>
+    <v>Master of engineering</v>
+    <v>Master of engg.</v>
+    <v>Master of bach. engg.</v>
+    <v>M.E.</v>
+    <v>M.E</v>
+    <v>M.Tech.</v>
+    <v>M.Tech</v>
+    <v>MTech</v>
+    <v>M. Tech</v>
+  </d>
+  <d key="M.Ed" level="7">
+    <v>Masters in education</v>
+    <v>Master in education</v>
+    <v>Master of education</v>
+    <v>M.Ed</v>
+  </d>
+  <d key="M.Pharm" level="7">
+    <v>Masters in pharmacy</v>
+    <v>Master in pharmacy</v>
+    <v>Master of pharmacy</v>
+    <v>M.Pharm</v>
+  </d>
+  <d key="M.Phil" level="7">
+    <v>Masters in philosophy</v>
+    <v>Master in philosophy</v>
+    <v>Master of philosophy</v>
+    <v>M.Phil</v>
+    <v>MPhil</v>
+  </d>
+  <d key="M.C.S." level="7">
+    <v>M.C.S.</v>
+    <v>Master Of Computer Science</v>
+    <v>Master in Computer Science</v>
+    <v>MCS</v>
+    <v>M.C.S</v>
+  </d>
+  <d key="M.Sc" level="7">
+    <v>Masters in science</v>
+    <v>Master in science</v>
+    <v>Master of science</v>
+    <v>M.Sc</v>
+    <v>M.SC.</v>
+    <v>M.S.</v>
+
+  </d>
+  <d key="Master of Surgery" level="7">
+    <v>Master of Surgery</v>
+  </d>
+  <d key="Masters in Geo-informatics" level="7">
+    <v>Masters in Geo-informatics</v>
+  </d>
+  <d key="Masters in Human Resource" level="7">
+    <v>Masters in Human Resource</v>
+    <v>Masters of Human Resource</v>
+  </d>
+  <d key="MDS" level="7">
+    <v>Masters in dental science</v>
+    <v>Master in dental science</v>
+    <v>Master of dental science</v>
+    <v>MDS</v>
+  </d>
+  <d key="ML/LLM" level="7">
+    <v>Master in Law</v>
+    <v>Master of Law</v>
+    <v>ML/LLM</v>
+    <v>ML</v>
+    <v>LLM</v>
+  </d>
+  <d key="P G Diploma in Insurance Management" level="7">
+    <v>P G Diploma in Insurance Management</v>
+  </d>
+  <d key="P.G diploma in Child Psychology care &amp; Management" level="7">
+    <v>P.G diploma in Child Psychology care &amp; Management</v>
+  </d>
+  <d key="P.G Diploma in Computer Language" level="7">
+    <v>P.G Diploma in Computer Language</v>
+  </d>
+  <d key="PG Diploma in Accommodation Operation" level="7">
+    <v>PG Diploma in Accommodation Operation</v>
+  </d>
+  <d key="PG diploma in advertising and public relations" level="7">
+    <v>PG diploma in advertising and public relations</v>
+    <v>PG Diploma in Public Relations</v>
+  </d>
+  <d key="PG Diploma in Bakery Science &amp; Management" level="7">
+    <v>PG Diploma in Bakery Science &amp; Management</v>
+  </d>
+  <d key="PG Diploma in Business Administration " level="7">
+    <v>PG Diploma in Business Administration</v>
+  </d>
+  <d key="PG Diploma in Cargo Operation &amp; Management" level="7">
+    <v>PG Diploma in Cargo Operation &amp; Management</v>
+  </d>
+  <d key="PG diploma in corporate communication" level="7">
+    <v>PG diploma in corporate communication</v>
+  </d>
+  <d key="PG Diploma in Destination Management" level="7">
+    <v>PG Diploma in Destination Management</v>
+  </d>
+  <d key="PG Diploma in Environmental Education and Mgt" level="7">
+    <v>PG Diploma in Environmental Education and Mgt</v>
+  </d>
+  <d key="PG Diploma in Environmental Laws" level="7">
+    <v>PG Diploma in Environmental Laws</v>
+  </d>
+  <d key="PG Diploma in Environmental Mgt" level="7">
+    <v>PG Diploma in Environmental Mgt</v>
+  </d>
+  <d key="PG Diploma in Environmental Studies" level="7">
+    <v>PG Diploma in Environmental Studies</v>
+  </d>
+  <d key="PG Diploma in Financial Management" level="7">
+    <v>PG Diploma in Financial Management</v>
+  </d>
+  <d key="PG Diploma in Financial Markets &amp; Services" level="7">
+    <v>PG Diploma in Financial Markets &amp; Services</v>
+  </d>
+  <d key="PG Diploma in Financial Taxation Mgt" level="7">
+    <v>PG Diploma in Financial Taxation Mgt</v>
+  </d>
+  <d key="PG Diploma in Food &amp; Beverage Division Management" level="7">
+    <v>PG Diploma in Food &amp; Beverage Division Management</v>
+  </d>
+  <d key="PG Diploma in Guidence and Counselling" level="7">
+    <v>PG Diploma in Guidence and Counselling</v>
+  </d>
+  <d key="PG Diploma in Guiding &amp; Destination Management" level="7">
+    <v>PG Diploma in Guiding &amp; Destination Management</v>
+  </d>
+  <d key="PG Diploma in Higher Education" level="7">
+    <v>PG Diploma in Higher Education</v>
+  </d>
+  <d key="PG Diploma in Hospital &amp; Health Mgt" level="7">
+    <v>PG Diploma in Hospital &amp; Health Mgt</v>
+  </d>
+  <d key="PG Diploma in Hospitality Marketing &amp; Sales" level="7">
+    <v>PG Diploma in Hospitality Marketing &amp; Sales</v>
+  </d>
+  <d key="PG Diploma in Hotel/ Hospitality Management " level="7">
+    <v>PG Diploma in Hotel/ Hospitality Management</v>
+    <v>PGDHM</v>
+  </d>
+  <d key="PG Diploma in Human Rights" level="7">
+    <v>PG Diploma in Human Rights</v>
+  </d>
+  <d key="PG Diploma in Hydrogeology" level="7">
+    <v>PG Diploma in Hydrogeology</v>
+  </d>
+  <d key="PG Diploma in Industrial Chemistry" level="7">
+    <v>PG Diploma in Industrial Chemistry</v>
+  </d>
+  <d key="PG Diploma in Information Sciences" level="7">
+    <v>PG Diploma in Information Sciences</v>
+  </d>
+  <d key="PG Diploma in Information Sys. &amp; Computer Application" level="7">
+    <v>PG Diploma in Information Sys. &amp; Computer Application</v>
+  </d>
+  <d key="PG Diploma in Room Division Management" level="7">
+    <v>PG Diploma in Room Division Management</v>
+  </d>
+  <d key="PG Diploma in Tourism and Hotel Management" level="7">
+    <v>PG Diploma in Tourism and Hotel Management</v>
+    <v>PG Diploma in Tourism &amp; Hotelier Management</v>
+  </d>
+  <d key="PG Diploma in Travel &amp; Tourism Management" level="7">
+    <v>PG Diploma in Travel &amp; Tourism Management</v>
+    <v>PG Diploma in Tourism Management</v>
+  </d>
+  <d key="PG Diploma in Water Resource Engineering" level="7">
+    <v>PG Diploma in Water Resource Engineering</v>
+  </d>
+  <d key="Ph.D" level="7">
+    <v>Ph.D</v>
+    <v>P.H.D</v>
+    <v>phd</v>
+    <v>PH D</v>
+    <v>Doctor of Philosophy</v>
+    <v>Doctorate of Philosophy</v>
+    <v>Doctorate</v>
+  </d>
+  <d key="Post Diploma in Acting" level="7">
+    <v>Post Diploma in Acting</v>
+  </d>
+  <d key="Post Graduation Diploma in Banking" level="7">
+    <v>Post Graduation Diploma in Banking</v>
+  </d>
+  <d key="Post Graduate Diploma Course in Medical and Social Psychology" level="7">
+    <v>Post Graduate Diploma Course in Medical and Social Psychology</v>
+  </d>
+  <d key="Post Graduate Diploma in Actuarial Science" level="7">
+    <v>Post Graduate Diploma in Actuarial Science</v>
+  </d>
+  <d key="Post Graduate Diploma in Agricultural Business Management." level="7">
+    <v>Post Graduate Diploma in Agricultural Business Management.</v>
+    <v>P.G.D.A.B.M.</v>
+  </d>
+  <d key="Post Graduate Diploma in Agricultural Extension Management." level="7">
+    <v>Post Graduate Diploma in Agricultural Extension Management.</v>
+    <v>P.G.D.A.E.M.</v>
+  </d>
+  <d key="Post Graduate Diploma in Applied Design" level="7">
+    <v>Post Graduate Diploma in Applied Design</v>
+  </d>
+  <d key="Post graduate diploma in broadcasting journalism" level="7">
+    <v>Post graduate diploma in broadcasting journalism</v>
+  </d>
+  <d key="Post Graduate Diploma in Business Administration" level="7">
+    <v>Post Graduate Diploma in Business Administration</v>
+    <v>P.G.D.B.A</v>
+  </d>
+  <d key="Post Graduate Diploma in Business Management" level="7">
+    <v>Post Graduate Diploma in Business Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Clinical and Community psychology" level="7">
+    <v>Post Graduate Diploma in Clinical and Community psychology</v>
+  </d>
+  <d key="Post Graduate Diploma in Clinical Psychology" level="7">
+    <v>Post Graduate Diploma in Clinical Psychology</v>
+  </d>
+  <d key="Post Graduate Diploma in Communication" level="7">
+    <v>Post Graduate Diploma in Communication</v>
+  </d>
+  <d key="Post graduate Diploma in Computer Application" level="7">
+    <v>Post graduate Diploma in Computer Application</v>
+    <v>P. G. Diploma in Computer Applications</v>
+    <v>PGDCA</v>
+    <v>P G D C A</v>
+  </d>
+  <d key="Post graduate Diploma in Computer hardware" level="7">
+    <v>Post graduate Diploma in Computer hardware</v>
+  </d>
+  <d key="Post Graduate Diploma in Counseling and Guidance" level="7">
+    <v>Post Graduate Diploma in Counseling and Guidance</v>
+  </d>
+  <d key="Post Graduate Diploma in Counseling Psychology" level="7">
+    <v>Post Graduate Diploma in Counseling Psychology</v>
+  </d>
+  <d key="Post graduate diploma in dietetics" level="7">
+    <v>Post graduate diploma in dietetics</v>
+  </d>
+  <d key="Post Graduate Diploma in Documentary Film Production" level="7">
+    <v>Post Graduate Diploma in Documentary Film Production</v>
+  </d>
+  <d key="Post Graduate Diploma in Electronic Cinematography" level="7">
+    <v>Post Graduate Diploma in Electronic Cinematography</v>
+  </d>
+  <d key="Post Graduate Diploma in Event Management &amp; Public Relations" level="7">
+    <v>Post Graduate Diploma in Event Management &amp; Public Relations</v>
+    <v>Post Graduate Diploma in Event Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Film Direction" level="7">
+    <v>Post Graduate Diploma in Film Direction</v>
+  </d>
+  <d key="Post graduate Diploma in Finance" level="7">
+    <v>Post graduate Diploma in Finance</v>
+  </d>
+  <d key="Post graduate diploma in financial planning and management" level="7">
+    <v>Post graduate diploma in financial planning and management</v>
+  </d>
+  <d key="Post Graduate Diploma in Human Resource Development Psychology" level="7">
+    <v>Post Graduate Diploma in Human Resource Development Psychology</v>
+  </d>
+  <d key="Post Graduate Diploma in Human Resource Management" level="7">
+    <v>Post Graduate Diploma in Human Resource Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Information Technology" level="7">
+    <v>Post Graduate Diploma in Information Technology</v>
+  </d>
+  <d key="Post Graduate Diploma in International Business" level="7">
+    <v>Post Graduate Diploma in International Business</v>
+  </d>
+  <d key="Post Graduate Diploma in IT &amp; Management" level="7">
+    <v>Post Graduate Diploma in IT &amp; Management</v>
+  </d>
+  <d key="Post graduate diploma in journalism and communication" level="7">
+    <v>Post graduate diploma in journalism and communication</v>
+    <v>Post Graduate Diploma in Journalism &amp; Communication</v>
+    <v>Post graduate diploma in journalism</v>
+    <v>PG diploma in journalism</v>
+  </d>
+  <d key="Post graduate diploma in journalism, public relations and advertising" level="7">
+    <v>Post graduate diploma in journalism, public relations and advertising</v>
+  </d>
+  <d key="Post Graduate Diploma in Management" level="7">
+    <v>Post Graduate Diploma in Management</v>
+  </d>
+  <d key="Post graduate diploma in Marathi journalism" level="7">
+    <v>Post graduate diploma in Marathi journalism</v>
+  </d>
+  <d key="Post Graduate Diploma in Marketing &amp; Sales Management" level="7">
+    <v>Post Graduate Diploma in Marketing &amp; Sales Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Marketing Management" level="7">
+    <v>Post Graduate Diploma in Marketing Management</v>
+    <v>P.G.D.M.M.</v>
+  </d>
+  <d key="Post graduate diploma in mass communication and journalism" level="7">
+    <v>Post graduate diploma in mass communication and journalism</v>
+    <v>Post Graduate Diploma in Mass Communication &amp; Journalism</v>
+  </d>
+  <d key="Post Graduate Diploma in Mass Communication Film and Television" level="7">
+    <v>Post Graduate Diploma in Mass Communication Film and Television</v>
+  </d>
+  <d key="Post graduate diploma in mass media" level="7">
+    <v>Post graduate diploma in mass media</v>
+  </d>
+  <d key="Post Graduate Diploma in Multimedia Technology" level="7">
+    <v>Post Graduate Diploma in Multimedia Technology</v>
+  </d>
+  <d key="Post Graduate Diploma in Network Administration" level="7">
+    <v>Post Graduate Diploma in Network Administration</v>
+  </d>
+  <d key="Post Graduate Diploma in Post Production " level="7">
+    <v>Post Graduate Diploma in Post Production</v>
+  </d>
+  <d key="Post Graduate Diploma in Public Relations" level="7">
+    <v>Post Graduate Diploma in Public Relations</v>
+  </d>
+  <d key="Post Graduate Diploma in Public Relations and Advertising" level="7">
+    <v>Post Graduate Diploma in Public Relations and Advertising</v>
+  </d>
+  <d key="Post Graduate Diploma in Radio &amp; TV Journalism" level="7">
+    <v>Post Graduate Diploma in Radio &amp; TV Journalism</v>
+  </d>
+  <d key="Post Graduate Diploma in Rural &amp; Tribal Communication" level="7">
+    <v>Post Graduate Diploma in Rural &amp; Tribal Communication</v>
+  </d>
+  <d key="Post graduate Diploma in Rural Management" level="7">
+    <v>Post graduate Diploma in Rural Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Rural Management" level="7">
+    <v>Post Graduate Diploma in Rural Management</v>
+    <v>P.G.D.R.M.</v>
+  </d>
+  <d key="Post Graduate Diploma in Shipping &amp; Export Management" level="7">
+    <v>Post Graduate Diploma in Shipping &amp; Export Management</v>
+    <v>PG Diploma in Export Management</v>
+    <v>P.G.D.S.E.M.</v>
+  </d>
+  <d key="Post graduate Diploma in Software Development" level="7">
+    <v>Post graduate Diploma in Software Development</v>
+  </d>
+  <d key="Post Graduate Diploma in Software Marketing" level="7">
+    <v>Post Graduate Diploma in Software Marketing</v>
+  </d>
+  <d key="Post Graduate Diploma in Television &amp; Radio Production" level="7">
+    <v>Post Graduate Diploma in Television &amp; Radio Production</v>
+  </d>
+  <d key="Post Graduate Diploma in Video Production" level="7">
+    <v>Post Graduate Diploma in Video Production</v>
+  </d>
+  <d key="Post graduate diploma in Wealth Management" level="7">
+    <v>Post graduate diploma in Wealth Management</v>
+  </d>
+  <d key="Post Graduate Diploma in Web Services" level="7">
+    <v>Post Graduate Diploma in Web Services</v>
+  </d>
+  <d key="Post graduate diploma rural and tribal communication" level="7">
+    <v>Post graduate diploma rural and tribal communication</v>
+  </d>
+  <d key="Executive Human Resource Management" level="7">
+    <v>Executive Human Resource Management</v>
+    <v>EPHRM</v>
+  </d>
+  <d key="Masters in Personnel Management" level="7">
+    <v>Masters in Personnel Management</v>
+    <v>M.P.M.</v>
+  </d>
+  <d key="Masters In Labour Law &amp; Labour welfare" level="7">
+    <v>Masters In Labour Law &amp; Labour welfare</v>
+    <v>Masters In Labour Law</v>
+    <v>MLL</v>
+    <v>MLL &amp; LW</v>
+    <v>MLL&amp;LW</v>
+  </d>
+  <d key="DNIIT Programme" level="5">
+    <v>DNIIT Programme</v>
+    <v>Two years Diploma from NIIT</v>
+  </d>
+  <d key="Bachelor of Management Studies" level="6">
+    <v>Bachelor of Management Studies</v>
+    <v>Bachelor of Mgt. Studies</v>
+  </d>
+  <d key="Degree in Bachelor of Mass Media" level="6">
+    <v>Degree in Bachelor of Mass Media</v>
+  </d>
+  <d key="Bachelor of Business Administration" level="6">
+    <v>Bachelor of Business Administration</v>
+    <v>B.B.A.</v>
+    <v>B.B.A</v>
+  </d>
+  <d key="Diploma in Industrial Analytical Chemistry" level="6">
+    <v>Diploma in Industrial Analytical Chemistry</v>
+  </d>
+  <certi key="Certified Trainer" level="1">
+    <v>Certified Trainer</v>
+  </certi>
+  <certi key="Certified Value Coach" level="1">
+    <v>Certified Value Coach</v>
+  </certi>
+  <certi key="C.A." level="5">
+    <v>Chartered Accountant</v>
+    <v>Chartered Accountancy</v>
+    <v>C.A.</v>
+    <v>C.A</v>
+  </certi>
+  <certi key="C.S." level="5">
+    <v>Company Secretary</v>
+    <v>C.S.</v>
+    <v>C.S</v>
+  </certi>
+  <certi key="CA" level="1">
+    <v>CA</v>
+  </certi>
+</degrees>

@@ -1,0 +1,112 @@
+Ashok Sharma
+KadedeenKumbhar Chawl , Old Nagar das Road, Andheri (East ), Mumbai-400069
+Tel. 9594502183/9594006011 
+Email: ashokkumarnlm@gmail.com
+--------------------------------------------------------------------------------------------------------------------- Post: SoftwareDeveloper (3.5 Year Exp)
+Professional Experience:
+-Currently working as Software Developer for Mindgate Solution PVT. , in Mumbai from Sep 2015 to till date. -Worked  as Software Developer  for Mobilestyx LLP, in Mumbai from August 2014 to 15 Sep 2015. -Worked as a Software Developer and Database Support for Digital Gravity web SolutionPvt Ltd, Navi-Mumbai koperkhairane from August 2013 to July 2014.
+PROJECT DETAIL
+Sub-Broker Registration (AngelBroking),NRMS( Angelbroking )
+REMISIOR (AngelBroking),
+JLRMAXIMIZER, ATOM(IJP),TRACKET, D-TRACK,RMS
+
+SUB-BROKER REGISTRATION
+Client: Angel Broking Pvt .LTD
+Basic Description:
+	•	All sub broker registration done by this module.
+	•	This is first step of angel broking sub-broker registration
+	•	This project is  made in web application 
+	•	This is the project already made  , I am giving support and 50% development 
+
+Skills: Asp.net, C# ,Jquery,Ajex,Javascript, Web Services, MS SQL-2005/2008
+Role: Support and development Responsibility: full support and 50% development
+Team:1
+Duration:
+
+
+REMISIOR
+Client: Angel Broking Pvt .LTD
+Basic Description:
+	•	This application is used for brokerage calculation of sub broker and it’s clients 
+	•	Provide all details from start to end of sb brokerage details
+	•	Provide Sub broker’s   payout  
+	•	This is the project already made  , I am giving support and 50% development  
+
+Skills:classic asp , vb.net, Asp.net, C# ,Jquery,Ajex,Javascript, Web Services, MS SQL-2005/2008
+Role: Support and development Responsibility: full support and 50% development
+Team:1
+NRMS
+Client: Angel Broking Pvt .LTD
+Basic Description:
+	•	This is the most critical and very important project of angel broking 
+	•	This project contains all details of sub broker brokerage , all  transaction details ,sb balance ,square off 
+	•	90% of angel’s other application are dependent on this application 
+	•	This is the project already made  , I am giving support to resolve issue
+
+Skills:classic asp , vb.net, Asp.net, C# ,Jquery,Ajex,Javascript, Web Services,WCF,oracle , MS SQL-2005/2008
+Role: Support  Responsibility: to support our team in critical condition 
+Team:2
+
+JLRMAXIMIZER Client: Jaguar Land Rover Car Company
+Basic Description:
+	•	All Dealer  of Jaguar and Land Rover are using this Application,
+	•	Users are creating Quatation and Sending to their Customer  about Car.
+	•	Customer gives his/her interest and give feedback to purchase  that  Car.
+	•	Application have numbers of calcuation that are according to Company.
+	•	Dealer Can trace  their Sales employee performance.
+	•	Head of Company also can trace all performance.
+	•	Application giving various report to help their users
+	•	This project For ios, Android,Ipad,Desktop
+Skills: Asp.net, C# ,Jquery,Ajex,Javascript, Web Services, 3-Tire Architecture,MS SQL-2012
+Role: Software Developer. Responsibility: Handling whole project 
+Team:2 
+Duration:8 Month.
+ATOM(IJP) Client: ICICI Prudential
+Basic Description:
+	•	This Project was for Bank.
+	•	Application was for Bank Employee. 
+	•	Project included login part, taking data from oracle, employee Attendance from Mobile,
+	•	Taking data using web services and implement into our project and view to employee.
+	•	all type of employee help, like his leave history detail, he can apply for leave using mobile.
+	•	 This application was developed in asp.net with responsive pages. 
+	•	This project For ios, Android,Ipad,Desktop
+Skills: Asp.net, C# ,Jquery,Ajex,Javascript, Web Services, 3-Tire Architecture,MS SQL-2012
+Role: Software Developer. Responsibility:ALL 
+Team:2
+Duration:6 Month.
+
+D-TRACK
+Client: Digital Gravity Pvt. LTD
+Basic Description:
+	•	This Project was developed for Telecom Distributor.
+	•	The advantage of this project is that all type of Telecom Company can use this application for their distributor to increase business.
+	•	Distributor can trace his/her Field work employee
+	•	Head of Company also can trace all performance.
+	•	Application giving various report to help their users
+	•	This project For ios, Android,Ipad,Desktop
+Skills:
+Asp.net, C#, SQL, Web Services, Entity Framework, Store procedure Role: Database Support and Developer. Responsibility: handling backend part, making Store procedure to generate different type of report. Duration: 1Year.
+RMS(RetailerManagementSystem)
+Client :Local User
+Skills:VB.net,C#, SQL Role: Software Developer
+Duration: 2 Month.
+
+Technical Skills 
+Languages:ASP.NET, VB.NET, VISUAL BASIC,VISUALC#, C#,MVC
+Services: WCF,asp.net services
+Databases:MS-SQL2000, MS-SQL 2005, MS-SQL 2008, MS-SQL 2012 
+Concepts: OOPs, Database, Entity framework 3-Tire & N-Architecture, Web-Services  Technologies:.NET
+Other language:Javascript,ajex,jquery Operating Systems: Windows, Android, i-Phone
+
+Educational Qualification:  
+	•	Bsc-IT  From Oriental college of commerce and management, Mumbai University  with 66.25% (2011)
+	•	HSC From Ismile Yusuf College Pune board   with 59%(2008)
+	•	SSC From B.L.Ruia High school,Pune board  with 80%(2006)
+
+Personal Details: 
+Date of Birth        :               05/08/1989
+Father Name         :              Mr. Bhuwal P. Sharma
+Language Known:               English, Hindi
+Nationality           :               Indian	
+
+

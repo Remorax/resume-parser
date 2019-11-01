@@ -1,0 +1,143 @@
+Mahesh Laxman Kadam
+____________________________________________________________________________________________
+Address: B/403, Shree Vighnahar C.H.S,			Mobile: 7738944120	
+Kharegaon, Kalwa, Thane (W) - 400605			Email: kadammahesh70@gmail.com / rediff.com
+____________________________________________________________________________________________
+					
+      	
+CAREER OBJECTIVE:
+
+Looking for a challenging career which demands the best of my professional ability in terms of, resourceful, innovative, flexible, technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. 
+
+
+SYNOPSIS:
+
+2.9 years of Software Development experience, with strong analytical skills and a broad range of computer expertise in ASP.net, JQuery, Bootstrap, Worked on WCF and WEB API implementation and also on Bootstrap.
+
+
+PROFILE:
+
+	•	Analytical senior-level software developers with deep expertise in ASP.NET and JQuery technologies possess 2.9 + year hands on experience.
+	•	Versed in both agile and waterfall development techniques.
+	•	Able to communicate effectively with both technical and non-technical project stakeholders.
+	•	Expertise in current and emerging trends and techniques.
+	•	Proficient in coding and developing the new program.
+	•	An excellent problem-solver, able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues.
+
+
+EDUCATIONAL QUALIFICATIONS:
+
+	•	B. E in IT, 1st class with Distinction aggregate 67.86 % (Information Technology) from Shivaji University, Kolhapur in 2013.
+	•	Diploma in IT with 1st class aggregate 73.13% from Mumbai University in 2010.
+	•	SSC with 1st class aggregate 64.26% from Mumbai University in 2007.
+
+
+TECHNICAL EXPERTISE:
+
+	•	Languages			C#, ASP.NET, JQuery, Bootstrap, SQL, XML.
+	•	Frameworks		.NET 3.5, 4.0, JQuery 1.4 to 1.11.1
+	•	Management Software	TFS (Team Foundation Server), Word press. 
+	•	Software tools     		Microsoft office, Visual Studio, SQL R2
+	•	Databases			SQL, My Sql, Microsoft Access.
+	•	Operating Systems		Windows 9x/2000/XP/Win7-8/Linux/Unix.
+ 
+
+PROFESSIONAL EXPERIENCE / EMPLOYMENT DETAILS:
+
+	•	Currently working at Value Consulting as Senior Software Developer Sep 2013 to Present (2 year(s) - 8 month(s)) Working on a ASP.Net Application, JQuery and Bootstrap on i.e. HRMS, CRM and Finance Modules. Here we have developed all kinds of application i.e. ERP, Ecommerce Application, Point of Sales Application, with API Integration like FedEx, USPS etc. 
+	•	Previously worked with Energize Soft as IT Trainee May 2013 to Jul 2013 (0 year(s) - 2 month(s)) I worked as an IT Trainee Application Developer as well Junior Web Developer. Energize soft. is an SSI where custom applications are developed. 
+
+
+
+
+
+
+
+
+
+STRENGTHS:
+
+	•	Enthusiastic and can produce results under deadline constraints    
+	•	Ready to undergo any kind of training and transformation to enhance professional skills.
+	•	Ability to work hard with smartness and also having positive attitude towards my work.
+	•	Provide senior-level application development expertise to team responsible for rewriting and migrating platform to SQL and .NET.
+	•	Creating custom webpages housed within a .Net framework, using JQuery and Bootstrap.
+	•	Used object-oriented principles for Class (Entity) development to streamline efficiency and ensure a scalable and reusable architecture.
+	•	Wrote documentation for new and legacy applications.
+
+
+PROJECTS UNDERTAKEN:
+
+	•	Samruddhi Ecom
+
+Project Title: Samruddhi Ecom
+Client: Samruddhi Pvt. Ltd.
+Employment Type: Full-Time 
+Duration: Apr 2015 - Mar 2016 
+Project Location: Sangli, Maharashtra, India 
+Site: Offsite 
+Role: Sr. Programmer
+Team Size: 8
+Skill Used: Bootstrap for CSS, JQuery, JavaScript, Web Services, ASP.Net, SQL Server, LINQ,
+Role Description: Created the module for API Integration of Authorize.net and FedEx, USPS, UPS.  Also worked on Wallet Feature this is similar to the Paytm and Freecharge. Worked on Programs related to Shipment and Delivery, Shopping Cart, Wishlist, Product Catalog
+Project Details: Samruddhi Ecom was an E-commerce Application. As Samruddhi Pvt. Ltd was and Manufacturing Industry, they required an E-Commerce application to upload the Product Details and Sell the Products as well required the SME application, where we developed a module for Yoosme where Vendors and Suppliers can Register explicitly. This application has API integration for Payments i.e. Payment Gateway Authorize.net
+
+	•	Vanilla 
+
+Project Title: Vanilla
+Client: Business Pointers
+Employment Type: Full-Time 
+Duration: Nov 2013 - Mar 2016 
+Project Location: US Virginia 
+Site: Offsite 
+Role: Software Developer
+Team Size: 9
+Skill Used: jQuery, .Net, ASP.Net, BootStrap for UI
+Role Description: Was mainly Focused on Finance Module its accounting Features. Implementation of Quick Books in the Application. i.e. API Integration.
+Project Details: Vanilla is an ERP Application. The Project Included HRMS, CRM, Finance as Main Modules with other sub Modules as Project Management, Inventory, Production, Sales and Purchase. This application provides a wide range of User Experience Utilities, and with automated features.
+
+
+	•	MaDroid - GPS Based Navigator
+
+Project Title: MaDroid - GPS Based Navigator
+Client: University Level Project
+Employment Type: Part-Time 
+Duration: Jul 2012 - Feb 2013 
+Project Location: Offsite 
+Site: Offsite 
+Role: Project Leader
+Team Size: 4
+Skill Used: Android Developing toolkit SDK, Eclipse Juno for developing android application, Android API's 20.1 installation, Java references and hard core programming, ASP.NET to build web pages as well database server, and also XML.
+Role Description: I was playing a role of Project Leader, I was responsible for the efficient working of Android application, the timing and cost estimation was the prior for me.
+Project Details: MaDroid Based on GPS (Global Positioning System) (WORKING) This project developed in .NET and java using an Android SDK (Software Development Kit). MaDroid is an Android based application which can be used to STORE all LOG records of the GPS in external drive or internal drive. In which we developed the following modules Position Tracker (Latitude and Longitude) Path Planning (by entering Source and Destination locations) Pin pointing the position on Map (Satellite view, Street view, Traffic view) Storing Log records(internal drive or external drive and also on Remote server)
+
+
+                                         
+SUMMARY OF QUALIFICATIONS:
+
+	•	Possess expertise knowledge in Object-Oriented Analysis/Design and expertise in ASP.NET and JQuery technologies and Application Development.
+	•	Analytical thinker that consistently resolves ongoing issues or defeats.
+	•	Abilities to identify problem, analyze possible solutions and determine best course of action to meet objectives.
+
+
+	PERSONAL DETAILS
+
+Name				Kadam Mahesh Laxman 
+Date of Birth			29-09-1991
+Sex				Male
+Marital Status			Single
+Languages known		English, Hindi, Marathi, 
+Permanent Address		B/403, Shree Vighnahar C.H.S, Kharegaon, Kalwa, Thane (W) - 400605
+Hobbies		         Listening to music, learning technical trends, playing Guitar, badminton.
+
+
+SELF-ASSESSMENT:
+          I, hereby declare that the above information is correct to the best of my knowledge and belief.                                                                                                                                                                                           
+
+
+
+
+
+
+
+Mahesh Laxman Kadam

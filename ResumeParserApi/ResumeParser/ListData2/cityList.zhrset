@@ -1,0 +1,914 @@
+  <cities>
+    <c key="Agartala">
+      <v>agartala</v>
+    </c>
+    <c key="Agra">
+      <v>Agra</v>
+      <v>abhas</v>
+    </c>
+    <c key="Ahmedabad">
+      <v>ahemdabad</v>
+      <v>ahmadabad</v>
+      <v>ahmedabad</v>
+      <v>Ahmedabad</v>
+      <v>amdavad</v>
+    </c>
+    <c key="Aizawal">
+      <v>Aizawal</v>
+      <v>aizwal</v>
+    </c>
+    <c key="Ajman">
+      <v>Ajman</v>
+    </c>
+    <c key="Ajmer">
+      <v>Ajmer</v>
+    </c>
+    <c key="Akola">
+      <v>Akola</v>
+    </c>
+    <c key="Alappuzha / Alleppey">
+      <v>Alappuzha / Alleppey</v>
+    </c>
+    <c key="Aligarh">
+      <v>aligarh</v>
+      <v>Aligarh</v>
+    </c>
+    <c key="Allahabad">
+      <v>allahabad</v>
+      <v>Allahabad</v>
+    </c>
+    <c key="Ambala">
+      <v>Ambala</v>
+    </c>
+    <c key="Amravati">
+      <v>Amravati</v>
+    </c>
+    <c key="Amritsar">
+      <v>amritsar</v>
+      <v>Amritsar</v>
+    </c>
+    <c key="Anand">
+      <v>Anand</v>
+    </c>
+    <c key="Anantapur">
+      <v>Anantapur</v>
+    </c>
+    <c key="Anantnag">
+      <v>Anantnag</v>
+    </c>
+    <c key="Asansol">
+      <v>Asansol</v>
+    </c>
+    <c key="Aurangabad">
+      <v>aurangabad</v>
+      <v>Aurangabad</v>
+    </c>
+    <c key="Aurora">
+      <v>Aurora</v>
+    </c>
+    <c key="Bahgalpur">
+      <v>Bahgalpur</v>
+    </c>
+    <c key="Bangalore">
+      <v>bangalore</v>
+      <v>Bangalore</v>
+      <v>banglore</v>
+      <v>bengaluru</v>
+      <v>Bengaluru / Bangalore</v>
+    </c>
+    <c key="Baramulla">
+      <v>Baramulla</v>
+    </c>
+    <c key="Bareilly">
+      <v>Bareilly</v>
+    </c>
+    <c key="Baroda">
+      <v>baroda</v>
+      <v>Baroda</v>
+      <v>vadodara</v>
+      <v>Vadodara / Baroda</v>
+      <v>vadodra</v>
+    </c>
+    <c key="Batala">
+      <v>Batala</v>
+    </c>
+    <c key="Bathinda">
+      <v>Bathinda</v>
+    </c>
+    <c key="Beirut">
+      <v>Beirut</v>
+    </c>
+    <c key="Belgaum">
+      <v>Belgaum</v>
+    </c>
+    <c key="Bellary">
+      <v>Bellary</v>
+    </c>
+    <c key="Bhagalpur">
+      <v>Bhagalpur</v>
+    </c>
+    <c key="Bharuch">
+      <v>Bharuch</v>
+    </c>
+    <c key="Bhatinda">
+      <v>Bhatinda</v>
+    </c>
+    <c key="Bhavnagar">
+      <v>Bhavnagar</v>
+    </c>
+    <c key="Bhilai-Durg">
+      <v>Bhilai-Durg</v>
+    </c>
+    <c key="Bhilaigarh">
+      <v>Bhilaigarh</v>
+    </c>
+    <c key="Bhillai">
+      <v>Bhillai</v>
+    </c>
+    <c key="Bhiwani">
+      <v>Bhiwani</v>
+    </c>
+    <c key="Bhopal">
+      <v>bhopal</v>
+    </c>
+    <c key="Bhubaneshwar">
+      <v>bhubaneshwar</v>
+    </c>
+    <c key="Bhuj">
+      <v>Bhuj</v>
+    </c>
+    <c key="Bidar">
+      <v>Bidar</v>
+    </c>
+    <c key="Bikaner">
+      <v>Bikaner</v>
+    </c>
+    <c key="Bilaspur">
+      <v>Bilaspur</v>
+    </c>
+    <c key="Bokaro">
+      <v>bokaro</v>
+    </c>
+    <c key="Bongaigaon">
+      <v>Bongaigaon</v>
+    </c>
+    <c key="Budgam">
+      <v>Budgam</v>
+    </c>
+    <c key="Buldhana">
+      <v>Buldhana</v>
+    </c>
+    <c key="Burdwan">
+      <v>Burdwan</v>
+    </c>
+    <c key="Calicut">
+      <v>calicut</v>
+      <v>Calicut/ Kozhikode</v>
+    </c>
+    <c key="Chamba">
+      <v>Chamba</v>
+    </c>
+    <c key="Chandigarh">
+      <v>chandigarh</v>
+    </c>
+    <c key="Chandrapur">
+      <v>Chandrapur</v>
+    </c>
+    <c key="Chennai">
+      <v>chennai</v>
+    </c>
+    <c key="Cochin">
+      <v>cochin</v>
+      <v>Cochin / Kochi / Ernakulam</v>
+      <v>Cochin</v>
+      <v>Kochi</v>
+      <v>Ernakulam</v>
+    </c>
+    <c key="Coimbatore">
+      <v>coimbatore</v>
+    </c>
+    <c key="Cuddalore">
+      <v>Cuddalore</v>
+    </c>
+    <c key="Cuttack">
+      <v>cuttack</v>
+    </c>
+    <c key="Dadra &amp; Nagar Haveli - Silvass">
+      <v>Dadra &amp; Nagar Haveli - Silvassa</v>
+    </c>
+    <c key="Dalhousie">
+      <v>Dalhousie</v>
+    </c>
+    <c key="Daman">
+      <v>Daman</v>
+      <v>Daman &amp; Diu</v>
+    </c>
+    <c key="Davanagere">
+      <v>Davanagere</v>
+    </c>
+    <c key="Dehradun">
+      <v>dehradun</v>
+    </c>
+    <c key="Delhi">
+      <v>delhi</v>
+      <v>Delhi/ NCR</v>
+    </c>
+    <c key="Dhanbad">
+      <v>Dhanbad</v>
+    </c>
+    <c key="Dharamsala">
+      <v>Dharamsala</v>
+      <v>Dharamshala</v>
+      <v>Dharmasala</v>
+    </c>
+    <c key="Dharwad">
+      <v>Dharwad</v>
+    </c>
+    <c key="Dhubri">
+      <v>Dhubri</v>
+    </c>
+    <c key="Dhule">
+      <v>Dhule</v>
+    </c>
+    <c key="Dibrugarh">
+      <v>Dibrugarh</v>
+    </c>
+    <c key="Dimapur">
+      <v>dimapur</v>
+    </c>
+    <c key="Dispur">
+      <v>Dispur</v>
+    </c>
+    <c key="Doda">
+      <v>Doda</v>
+    </c>
+    <c key="durgapur">
+      <v>durgapur</v>
+    </c>
+    <c key="Ernakulam">
+      <v>ernakulam</v>
+    </c>
+    <c key="Erode">
+      <v>Erode</v>
+    </c>
+    <c key="Faizabad">
+      <v>Faizabad</v>
+    </c>
+    <c key="Faridabad">
+      <v>faridabad</v>
+    </c>
+    <c key="Faridkot">
+      <v>Faridkot</v>
+    </c>
+    <c key="Fatehabad">
+      <v>Fatehabad</v>
+    </c>
+    <c key="Fatehgarh Sahib">
+      <v>Fatehgarh Sahib</v>
+    </c>
+    <c key="Ferozepur">
+      <v>Ferozepur</v>
+    </c>
+    <c key="Gandhidham">
+      <v>Gandhidham</v>
+    </c>
+    <c key="Gandhinagar">
+      <v>gandhinagar</v>
+    </c>
+    <c key="Gangapur">
+      <v>Gangapur</v>
+    </c>
+    <c key="Gangtok">
+      <v>Gangtok</v>
+    </c>
+    <c key="Ghaziabad">
+      <v>ghaziabad</v>
+    </c>
+    <c key="Gir">
+      <v>Gir</v>
+    </c>
+    <c key="Goa">
+      <v>goa</v>
+    </c>
+    <c key="Gondia">
+      <v>Gondia</v>
+    </c>
+    <c key="Gorakhpur">
+      <v>Gorakhpur</v>
+    </c>
+    <c key="Gulbarga">
+      <v>Gulbarga</v>
+    </c>
+    <c key="Guntakal">
+      <v>Guntakal</v>
+    </c>
+    <c key="Guntur">
+      <v>Guntur</v>
+    </c>
+    <c key="Gurdaspur">
+      <v>Gurdaspur</v>
+    </c>
+    <c key="Gurgaon">
+      <v>gurgaon</v>
+    </c>
+    <c key="Guwahati">
+      <v>guwahati</v>
+    </c>
+    <c key="Gwalior">
+      <v>gwalior</v>
+    </c>
+    <c key="Haldia">
+      <v>Haldia</v>
+    </c>
+    <c key="Haldwani">
+      <v>Haldwani</v>
+    </c>
+    <c key="Hamirpur">
+      <v>Hamirpur</v>
+    </c>
+    <c key="Haridwar">
+      <v>Haridwar</v>
+    </c>
+    <c key="Hely123">
+      <v>hhh</v>
+      <v>hely123</v>
+    </c>
+    <c key="Hisar">
+      <v>Hisar</v>
+      <v>Hissar</v>
+    </c>
+    <c key="Hoshiarpur">
+      <v>Hoshiarpur</v>
+    </c>
+    <c key="Hosur">
+      <v>Hosur</v>
+    </c>
+    <c key="Hubli">
+      <v>Hubli</v>
+    </c>
+    <c key="Hyderabad">
+      <v>hyderabad</v>
+      <v>Hyderabad / Secunderabad</v>
+    </c>
+    <c key="Idukki">
+      <v>Idukki</v>
+    </c>
+    <c key="Imphal">
+      <v>imphal</v>
+    </c>
+    <c key="Indore">
+      <v>indore</v>
+    </c>
+    <c key="Itanagar">
+      <v>Itanagar</v>
+    </c>
+    <c key="Jabalpur">
+      <v>jabalpur</v>
+    </c>
+    <c key="jaipur">
+      <v>jaipur</v>
+    </c>
+    <c key="Jaisalmer">
+      <v>Jaisalmer</v>
+    </c>
+    <c key="Jalandhar">
+      <v>Jalandhar</v>
+    </c>
+    <c key="Jalgaon">
+      <v>Jalgaon</v>
+    </c>
+    <c key="Jammu">
+      <v>jammu</v>
+      <v>Jammu and Kashmir</v>
+    </c>
+    <c key="Jamnagar">
+      <v>jamnagar</v>
+    </c>
+    <c key="Jamshedpur">
+      <v>jamshedpur</v>
+    </c>
+    <c key="Jhajjar">
+      <v>Jhajjar</v>
+    </c>
+    <c key="Jharkhand">
+      <v>Jharkhand</v>
+    </c>
+    <c key="Jind">
+      <v>Jind</v>
+    </c>
+    <c key="Jodhpur">
+      <v>jodhpur</v>
+    </c>
+    <c key="Jullundhar">
+      <v>jullundhar</v>
+    </c>
+    <c key="Junagarh">
+      <v>Junagarh</v>
+    </c>
+    <c key="Kaithal">
+      <v>Kaithal</v>
+    </c>
+    <c key="Kakinada">
+      <v>Kakinada</v>
+    </c>
+    <c key="Kandla">
+      <v>Kandla</v>
+    </c>
+    <c key="Kangra">
+      <v>Kangra</v>
+    </c>
+    <c key="Kanniyakumari">
+      <v>Kanniyakumari</v>
+    </c>
+    <c key="Kannur">
+      <v>kannur</v>
+    </c>
+    <c key="Kanpur">
+      <v>kanpur</v>
+    </c>
+    <c key="Kapurthala">
+      <v>Kapurthala</v>
+    </c>
+    <c key="Kargil">
+      <v>Kargil</v>
+    </c>
+    <c key="Karnal">
+      <v>Karnal</v>
+    </c>
+    <c key="Karur">
+      <v>Karur</v>
+    </c>
+    <c key="Kasargod">
+      <v>Kasargod</v>
+    </c>
+    <c key="Kasauli">
+      <v>Kasauli</v>
+    </c>
+    <c key="Kathua">
+      <v>Kathua</v>
+    </c>
+    <c key="Katni">
+      <v>Katni</v>
+    </c>
+    <c key="Kavaratti">
+      <v>Kavaratti</v>
+    </c>
+    <c key="Kharagpur">
+      <v>Kharagpur</v>
+    </c>
+    <c key="Kinnaur">
+      <v>Kinnaur</v>
+    </c>
+    <c key="Kochi">
+      <v>kochi</v>
+    </c>
+    <c key="Kohima">
+      <v>Kohima</v>
+    </c>
+    <c key="Kolar">
+      <v>Kolar</v>
+    </c>
+    <c key="Kolhapur">
+      <v>kolhapur</v>
+    </c>
+    <c key="Kolkata">
+      <v>kolkata</v>
+    </c>
+    <c key="Kollam">
+      <v>kollam</v>
+    </c>
+    <c key="Kota">
+      <v>Kota</v>
+    </c>
+    <c key="Kottayam">
+      <v>kottayam</v>
+    </c>
+    <c key="Kozhikode">
+      <v>Kozhikode</v>
+      <v>Kozhikode / Calicut</v>
+    </c>
+    <c key="Kullu">
+      <v>Kullu</v>
+      <v>Kulu/Manali</v>
+    </c>
+    <c key="Kupwara">
+      <v>Kupwara</v>
+    </c>
+    <c key="Kurnool">
+      <v>Kurnool</v>
+    </c>
+    <c key="Kurukshetra">
+      <v>Kurukshetra</v>
+    </c>
+    <c key="Lakshdweep">
+      <v>Lakshdweep</v>
+    </c>
+    <c key="Latur">
+      <v>Latur</v>
+    </c>
+    <c key="Leh">
+      <v>Leh</v>
+    </c>
+    <c key="Lonavala">
+      <v>Lonavala</v>
+    </c>
+    <c key="lucknow">
+      <v>lucknow</v>
+    </c>
+    <c key="Ludhiana">
+      <v>ludhiana</v>
+    </c>
+    <c key="Madurai">
+      <v>madurai</v>
+    </c>
+    <c key="Mahabaleshwar">
+      <v>Mahabaleshwar</v>
+    </c>
+    <c key="Mahendergarh">
+      <v>Mahendergarh</v>
+    </c>
+    <c key="Malappuram">
+      <v>Malappuram</v>
+    </c>
+    <c key="Malaysia">
+      <v>Malaysia</v>
+    </c>
+    <c key="Malda">
+      <v>Malda</v>
+    </c>
+    <c key="Manali">
+      <v>Manali</v>
+    </c>
+    <c key="Manama">
+      <v>Manama</v>
+    </c>
+    <c key="Mandi">
+      <v>Mandi</v>
+    </c>
+    <c key="Mangalore">
+      <v>mangalore</v>
+    </c>
+    <c key="Manipur">
+      <v>Manipur</v>
+    </c>
+    <c key="Mansa">
+      <v>Mansa</v>
+    </c>
+    <c key="Margaon">
+      <v>margaon</v>
+    </c>
+    <c key="Mathura">
+      <v>Mathura</v>
+    </c>
+    <c key="Meerut">
+      <v>Meerut</v>
+    </c>
+    <c key="Mehsana">
+      <v>Mehsana</v>
+    </c>
+    <c key="Mh1">
+      <v>Mh1</v>
+    </c>
+    <c key="Midnapur">
+      <v>Midnapur</v>
+    </c>
+    <c key="Moga">
+      <v>Moga</v>
+    </c>
+    <c key="Mohali">
+      <v>Mohali</v>
+    </c>
+    <c key="Moradabad">
+      <v>Moradabad</v>
+    </c>
+    <c key="Muktsar">
+      <v>Muktsar</v>
+    </c>
+    <c key="Mumbai">
+      <v>mumbai</v>
+      <v>Mumbai Suburbs</v>
+    </c>
+    <c key="Muzaffarnagar">
+      <v>Muzaffarnagar</v>
+    </c>
+    <c key="Muzaffarpur">
+      <v>Muzaffarpur</v>
+    </c>
+    <c key="Mysore">
+      <v>mysore</v>
+      <v>Mysoru / Mysore</v>
+    </c>
+    <c key="Nagercoil">
+      <v>Nagercoil</v>
+    </c>
+    <c key="Nagpur">
+      <v>nagpur</v>
+    </c>
+    <c key="Nainital">
+      <v>Nainital</v>
+    </c>
+    <c key="Nalagarh">
+      <v>Nalagarh</v>
+    </c>
+    <c key="Nanded">
+      <v>Nanded</v>
+    </c>
+    <c key="Narnaul">
+      <v>Narnaul</v>
+    </c>
+    <c key="Nasik">
+      <v>nasik</v>
+    </c>
+    <c key="Navi Mumbai">
+      <v>Navi Mumbai</v>
+    </c>
+    <c key="Nawanshahr">
+      <v>Nawanshahr</v>
+    </c>
+    <c key="Nellore">
+      <v>Nellore</v>
+    </c>
+    <c key="Nizamabad">
+      <v>Nizamabad</v>
+    </c>
+    <c key="Noida">
+      <v>noida</v>
+      <v>Noida/ Greater Noida</v>
+    </c>
+    <c key="Ooty">
+      <v>Ooty</v>
+    </c>
+    <c key="Palakkad">
+      <v>palakkad</v>
+    </c>
+    <c key="Palghat">
+      <v>Palghat</v>
+    </c>
+    <c key="Pallakad">
+      <v>Pallakad</v>
+    </c>
+    <c key="Panchkula">
+      <v>Panchkula</v>
+    </c>
+    <c key="Panipat">
+      <v>Panipat</v>
+    </c>
+    <c key="Panjim">
+      <v>panjim</v>
+      <v>Panjim / Panaji</v>
+    </c>
+    <c key="Paradeep">
+      <v>Paradeep</v>
+    </c>
+    <c key="Parwanoo">
+      <v>Parwanoo</v>
+    </c>
+    <c key="Pathanamthitta">
+      <v>Pathanamthitta</v>
+    </c>
+    <c key="Pathankot">
+      <v>Pathankot</v>
+    </c>
+    <c key="Patiala">
+      <v>Patiala</v>
+    </c>
+    <c key="Patna">
+      <v>patna</v>
+    </c>
+    <c key="Pondicherry">
+      <v>pondicherry</v>
+      <v>Pondicherry/ Puducherry</v>
+    </c>
+    <c key="Poonch">
+      <v>Poonch</v>
+    </c>
+    <c key="Porbandar">
+      <v>Porbandar</v>
+    </c>
+    <c key="Pulwama">
+      <v>Pulwama</v>
+    </c>
+    <c key="Pune">
+      <v>pune</v>
+    </c>
+    <c key="Puri">
+      <v>Puri</v>
+    </c>
+    <c key="Raipur">
+      <v>raipur</v>
+    </c>
+    <c key="Rajahmundry">
+      <v>Rajahmundry</v>
+      <v>Rajamundry</v>
+    </c>
+    <c key="Rajkot">
+      <v>rajkot</v>
+    </c>
+    <c key="Rajouri">
+      <v>Rajouri</v>
+    </c>
+    <c key="Raleigh">
+      <v>Raleigh</v>
+    </c>
+    <c key="Ranchi">
+      <v>ranchi</v>
+    </c>
+    <c key="Raniganj">
+      <v>Raniganj</v>
+    </c>
+    <c key="Ras Al Khaimah">
+      <v>Ras Al Khaimah</v>
+    </c>
+    <c key="Ratlam">
+      <v>ratlam</v>
+    </c>
+    <c key="Redmond">
+      <v>Redmond</v>
+    </c>
+    <c key="Rewari">
+      <v>Rewari</v>
+    </c>
+    <c key="Richmond">
+      <v>Richmond</v>
+    </c>
+    <c key="Rohtak">
+      <v>Rohtak</v>
+    </c>
+    <c key="Roorkee">
+      <v>Roorkee</v>
+    </c>
+    <c key="Ropar">
+      <v>Ropar</v>
+    </c>
+    <c key="Rourkela">
+      <v>rourkela</v>
+    </c>
+    <c key="Rudrapur">
+      <v>Rudrapur</v>
+    </c>
+    <c key="Sagar">
+      <v>Sagar</v>
+    </c>
+    <c key="Saharanpur">
+      <v>Saharanpur</v>
+    </c>
+    <c key="Salem">
+      <v>salem</v>
+    </c>
+    <c key="Sangli">
+      <v>Sangli</v>
+    </c>
+    <c key="Sangrur">
+      <v>Sangrur</v>
+    </c>
+    <c key="Satara">
+      <v>Satara</v>
+    </c>
+    <c key="Satna">
+      <v>Satna</v>
+    </c>
+    <c key="Secunderabad">
+      <v>secunderabad</v>
+    </c>
+    <c key="Shillong">
+      <v>shillong</v>
+    </c>
+    <c key="Shimla">
+      <v>Shimla</v>
+    </c>
+    <c key="Shimoga">
+      <v>Shimoga</v>
+    </c>
+    <c key="Sholapur">
+      <v>Sholapur</v>
+    </c>
+    <c key="Sibsagar">
+      <v>Sibsagar</v>
+    </c>
+    <c key="Sikkim">
+      <v>Sikkim</v>
+    </c>
+    <c key="Silchar">
+      <v>Silchar</v>
+    </c>
+    <c key="Siliguri">
+      <v>siliguri</v>
+    </c>
+    <c key="Silvassa">
+      <v>Silvassa</v>
+    </c>
+    <c key="Sirmaur">
+      <v>Sirmaur</v>
+    </c>
+    <c key="Sirsa">
+      <v>Sirsa</v>
+    </c>
+    <c key="Solan">
+      <v>Solan</v>
+    </c>
+    <c key="Solapur">
+      <v>Solapur</v>
+    </c>
+    <c key="Sonepat">
+      <v>Sonepat</v>
+      <v>Sonipat / Sonepat</v>
+    </c>
+    <c key="Srinagar">
+      <v>Srinagar</v>
+    </c>
+    <c key="Sterling">
+      <v>Sterling</v>
+    </c>
+    <c key="Surat">
+      <v>surat</v>
+    </c>
+    <c key="Tamil Nadu">
+      <v>Tamil Nadu</v>
+    </c>
+    <c key="Tezpur">
+      <v>Tezpur</v>
+    </c>
+    <c key="Thane">
+      <v>thane</v>
+    </c>
+    <c key="Thanjavur">
+      <v>Thanjavur</v>
+    </c>
+    <c key="Thiruvananthapuram">
+      <v>thiruvananthapuram</v>
+      <v>Thiruvananthapuram / Trivandrum</v>
+    </c>
+    <c key="Thrissur">
+      <v>Thrissur</v>
+      <v>Thrissur / Trissur</v>
+    </c>
+    <c key="Tinsukia">
+      <v>Tinsukia</v>
+    </c>
+    <c key="Tiruchirapalli">
+      <v>tiruchirapalli</v>
+    </c>
+    <c key="Tirunalveli">
+      <v>Tirunalveli</v>
+      <v>Tirunelveli</v>
+    </c>
+    <c key="Tirupati">
+      <v>Tirupati</v>
+    </c>
+    <c key="Trichy">
+      <v>trichy</v>
+    </c>
+    <c key="Tripura">
+      <v>Tripura</v>
+    </c>
+    <c key="Trivandrum">
+      <v>trivandrum</v>
+    </c>
+    <c key="Tuticorin">
+      <v>Tuticorin</v>
+    </c>
+    <c key="Udaipur">
+      <v>udaipur</v>
+    </c>
+    <c key="Udhampur">
+      <v>Udhampur</v>
+    </c>
+    <c key="Ujjain">
+      <v>Ujjain</v>
+    </c>
+    <c key="Una">
+      <v>Una</v>
+    </c>
+    <c key="Valsad">
+      <v>Valsad</v>
+      <v>Valsad -Vapi</v>
+      <v>Vapi</v>
+    </c>
+    <c key="varanasi">
+      <v>varanasi</v>
+      <v>Varanasi / Banaras</v>
+    </c>
+    <c key="Vasco Da Gama">
+      <v>Vasco Da Gama</v>
+    </c>
+    <c key="Vellore">
+      <v>vellore</v>
+    </c>
+    <c key="Vijayawada">
+      <v>Vijayawada</v>
+      <v>vijaywada</v>
+    </c>
+    <c key="Visakhapatnam">
+      <v>Visakhapatnam</v>
+      <v>vishakapatnam</v>
+    </c>
+    <c key="Warangal">
+      <v>Warangal</v>
+    </c>
+    <c key="Wayanad">
+      <v>Wayanad</v>
+    </c>
+    <c key="Yamunanagar">
+      <v>Yamunanagar</v>
+    </c>
+  </cities>

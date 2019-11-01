@@ -1,0 +1,67 @@
+MAHENDRA DUBEY
+mahendra.dubey21@gmail.com
++917416899042
+
+WORK PROFILE-
+MCA with 3+ years development experience in .Net, Client site work experience, reliable, strong technical and deadline management skills, Team Player with willingness to help others, Quick learner and able to adapt quickly to a new situations and technology, like to sharing my code on mahendra-dubey@blogspot.com.
+EXPERIENCE:
+	•	Working (since Apr 2016) in HCL Technologies, Hyderabad as a Lead Engineer.
+	•	1.4 years Experience in Global Benefits Group, Hyderabad as a Software Developer. 
+	•	1.7 years Experience With Physivert Solutions Pvt Ltd, Jaipur as a .Net Developer.
+TECHNICAL SKILLS:
+Web Technologies:                       ASP .NET, MVC, Web Services, JQuery, XAF, Umbraco, Web API
+Languages:                                      C# 
+Platforms/operating systems:    Windows 2000-2008, Windows XP, Windows 7,10, MS-DOS
+RDBMS:                                            SQL Server  2005/2008
+Middle Tier:                                     IIS, ADO .NET,               Source Control:   TFS, SVN
+Reporting services:                        RDLC report, SAP Crystal Report, Xtra Report
+
+PROJECT UNDERTAKEN:
+	•	Project Name: Archer (Claims & Insurance Management System )
+Client: Global Benefits Group
+Technology: ASP.Net (Framework 4.5), C#, Dev-Express XAF, SQL Server 2008.
+Role: Software Developer
+Location:  GBG Services (India) Pvt Ltd, Hyderabad
+
+	•	Project Name: Parallel Campus(ERP Based Live Project)
+Client: Marlon C.(USA), Chris (Cyprus), JCERC (Jaipur), Physivert Academy
+Technology: .Net Framework 4.5, ASP.Net, MVC, C#, SQL Server 2008.
+Role: .Net Developer (Involved in all SDLC Phases)
+Location:  Physivert Software Solutions Pvt Ltd., Jaipur
+
+	•	Project Name: Tool Room Work Order Management (Client-Site)
+Technology: ASP.net with C# (Framework 4.5), SQL Server 2008
+Client: Sigma Electric Manufacturing Corp. (MNC Co.)
+Role: .Net Developer (Involved in all SDLC Phase) Team Size- 2
+Location:  VKI Area, Jaipur (At Client Location)
+	•	Project Name: Lead Manager (In-House)
+Technology: ASP.Net (Framework 4.5), C#, SQL Server 2008, Java script.
+Role: Web Developer Team Size- 2
+Location:  Physivert Software Solutions Pvt Ltd., Jaipur
+	•	Project Name: HRMS Portal (In-House)
+Technology: ASP.Net (Framework 4.5), C#, SQL Server 2008, Java script.
+Role: Web Developer Team Size- 2
+Location:  Physivert Software Solutions Pvt Ltd., Jaipur
+	•	Project Name: Group Contact Management (Windows Based)
+Technology: C#, ASP.Net framework 4.5, SQL Server 2008, Telerik Controls (3rd party)
+Client: Yadav Tours & Travels
+Role: Programmer
+
+TECHNICAL QUALIFICATION:
+	•	Completed MCA (2012) from Lovely Professional University, Jalandhar, 7.49 CGPA.
+	•	Completed BCA from Integral University, Lucknow, in 2009, scored 69%.
+EDUCATIONAL QUALIFICATION:
+	•	Intermediate (12th) From UP Board, India in 2006, scored 61%.
+	•	High School (10th) From UP Board, India in 2004.scored 52%.
+AWARDS & ACHIEVEMENTS:
+	•	Got 1st prize for Laughter Challenge competition in my college.
+	•	Participated in National Children Science Congress as a Team Leader at District level.
+	•	Attended seminar of EMC2 Virtual Storage Technology.
+	•	Attended seminar of Microsoft Windows Phone & Microsoft Dream Spark Yatra.
+	•	Attended workshop of Mobile Application Development on Android.
+SOFT SKILLS:
+    Communication skill, Motivating skill, Teaching Experience.
+HOBBIES:
+Problem Solving, Communicating with New People, Playing Cricket, chess.
+Date:
+Place:    	                                                                                               (Mahendra Dubey)

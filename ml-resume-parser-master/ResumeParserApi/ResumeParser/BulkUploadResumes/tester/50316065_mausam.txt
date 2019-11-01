@@ -1,0 +1,90 @@
+
+
+Name:	 	MAUSHMI GUPTA
+Address: 	H/no: 19&20, B2                     	  Email:  guptamaushmi@gmail.com
+  		             1st floor, Asharaya Nilaya                    Contact no: +91-8970925359
+                           Vittal nagar, Isro layout                        Date of Birth: 18th JAN, 1990
+                            Bangalore-560078                                         
+				 
+			
+                                 						
+	ID Details:
+Department: 	Electronics & Communication Engineering
+USN: 		1EW07EC053
+
+CAREER OBJECTIVE
+
+To get an opportunity to use knowledge and strengths that I have and partake in the growth and success of the company
+
+EDUCATIONAL QUALIFICATIONS
+Qualification
+Discipline
+Institution
+Board/
+University
+Semester 
+Year of Passing
+Aggregate
+B.E
+E & C
+EWIT,
+Bangalore
+VTU
+Till 8th 
+July 2011
+62.85%
+PUC/ XII
+PCMB
+DAYANAD    SAGAR PU
+COLLEGE
+Karnataka Board
+-NA-
+Mar 2007
+73.60%
+
+SSLC/ X
+-NA-
+    D.A.V. public school
+    SIWAN     
+  C.B.S.E
+-NA-
+Mar 2005
+79.60%
+
+COMPUTER  KNOWLEDGE
+
+      Languages: 	            Assembly Level, C (Basics Only),
+              Operating Systems:            Windows (Operating MS Office- Word, Excel, PowerPoint),
+                                                  
+      
+
+                                                                    PROJECT DETAILS
+
+TITLE:-“Mechatronic design for security and management implementation by land transport authority using zigbee communication protocol”
+          Team Size:  Three members 
+Description:  This project is divided into two parts first part is design of RTO with check post   which contains all details about vehicle and vehicle monitoring system with zigbee and other part is vehicle having a microcontroller kit with zigbee. By our proposed system we are controlling the unauthorized vehicle (theft vehicle, insurance and registration expiry).when any vehicle comes in the range of zigbee which is with check post, the monitoring person get the all information about the vehicle from RTO using internet and if any unauthorized condition find. Monitoring person Send the stop command, that stops the vehicle automatically within 30sec.
+			                                   
+  
+STRENGTHS
+
+	•	Good communication skill 
+	•	Positive Attitude and determined 
+	•	Quick learner.
+
+
+PERSONAL DETAILS
+
+Date of Birth:		18th JAN, 1990
+Gender:			Female
+Languages Known:	Hindi, English 
+Father’s Name:	Shri Lal Babu Prasad
+Permanent Address:   Vina studio, station road, SIWAN, Bihar - 841226
+
+DECLARATION
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+ 
+
+Date: 
+Place:  Bangalore                                                                                                      (Maushmi Gupta) 
+

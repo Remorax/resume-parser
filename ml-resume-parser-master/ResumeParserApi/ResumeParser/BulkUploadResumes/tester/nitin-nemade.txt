@@ -1,0 +1,184 @@
+
+RESUME
+
+
+Nitin Ganesh Nemade			     	                 
+E-mail ID: nitingnemade@gmail.com                                     		   MB: 9765936299
+
+Career Objective:
+	Seeking a challenging environment where my academic knowledge and can corporate experience can be shared and enriched. I would like to grow in this field of great challenges and opportunities. Looking for a new and challenging opportunity where I can prove my skills.
+
+
+Educational Qualification:
+M.C.A. with 53.65% in year 2007 completed from North Maharashtra University, Jalgaon.
+B.Sc. (Information Technology) with 55.33% in the year 2003-04 from North Maharashtra University, Jalgaon.     
+H.S.C. with 52.83% in the year 2000-01 from Nashik Division
+S.S.C. with 63.20% in the year 1998-99 from Nashik Division
+
+Technical Skills:
+Technology			    :  ASP.NET, VB.NET, C#.NET, Entity Framework, Linq
+Scripting Languages	    :  HTML, AJAX, JavaScript, JQuery, JSON, HTML5
+Dot Net Framework	    :  3.0, 3.5, 4.0
+Development Architecture   :  3-Tier, N-Tier
+Design Pattern 		    :  MVC, Singleton Pattern, Factory pattern
+Reporting Tools		    :  Crystal Report, HTML Report through JavaScript, 
+        Export to Excel (Dataset), RDLC Report
+RDBMS			    :  SQL server, MS-Access
+Operating System		    :  Windows 98/2000/XP/Server 2003/window server 2007.
+Service	:   WCF service, Windows Service, Web Service, Web API
+
+Hand Work Experience:
+Technology			    :  ASP.NET, C#, MVC4
+Scripting Languages	    :  HTML, JavaScript, ASP, AJAX, JQuery, JSON, HTML5
+Dot Net Framework	    :  3.0, 3.5, 4.0
+Development Architecture   :  3-Tier, N-Tier
+Design Pattern 		    :  MVC, Singleton Pattern, Factory pattern
+RDBMS			    :  SQL server 2000, SQL 2005, SQL 2008, SQL 2012
+Operating System		    :  Windows 98/2000/XP/Server 2003/window 7/8
+Dot Net Concepts                  :  ASP.NET, ADO.NET, AJAX, JQuery, JavaScript, Linq, Entity Framework, SQL Server
+Service	:   WCF service, Windows Service, Web Service
+
+
+Industrial Experience:
+
+Company		: IClarity IT Services, Thane.
+Job Profile		: Working as a Sr. Software Engineer from 05 Jan 2015 to 29 Apr 2016 (15 Months).
+
+
+
+
+Project Name	:	HRMS Project 
+Platform	:	MVC4, C#, SQL Server 2008, JavaScript, Ajax, JQuery, Entity framework 5 (database first approach), LinQ to Entity.
+Role	:	Managing & handling Team, Development and Design architecture of application, coding. 
+Project Details	:         In HRMS web application, maintained all employees data. Also there are mailing service when user send leave application and approve the application, User creation, change role, leave entitled etc. leaves will be entitled automatically by scheduler into employee’s account by checking the setting saved by admin for leave entailment.
+	•	Master Management 
+	•	Employee Management
+	•	User and Role Management
+	•	Project Management
+	•	Leave Management
+	•	Regularization Management
+	•	Task Management
+	•	Timesheet Management
+	•	Reports
+
+Project Name	:	Risk Control System 
+	Platform		:	 ASP.NET, SQL Server 2008, Ajax, JQuery.
+Role	:	Managing & handling Team, Development of application, coding. 
+Project Details	:         This is document verification’s process maintained project. Client has near about 60 clients (banks) and All these client want to verification of documents of the candidate who apply for different type of loan from bank. Risk Management System do this process. In this web application following modules has been included.
+	•	User and Access Control Management
+	•	Master Data Management
+	•	Product Management
+	•	Business Rule Management
+	•	Document Management
+	•	Credential Verification
+	•	Reports
+
+          Project Name	:	XBRL Data Extractor 
+Platform	:	ASP.NET 4.0, SQL Server 2008, JavaScript, Ajax, JQuery, Windows Application, Windows Service.
+Role	:	Managing & handling Team, Development of application & database design, coding.
+Project Details	:         This is xbrl data extractor service (windows service) project and also extract xbrl data manually into database. Each company’s financial data (profit and loss) generated in xml file so to dump this data into database XBRL data extractor service will be developed and user can also upload xbrl file manually for processing. In XBRL data extractor web application following modules are included.
+	•	User Creation
+	•	Data Processing
+	•	Reports
+
+
+
+
+
+Company		: Growel Softech Ltd.
+Job Profile		: Working as a Sr. Software Developer from 17 Dec 2012 to 09-Dec-2014 (24 Months).
+
+          Project Name	:	Customer Database Management System 
+	Platform		:	Asp .Net with C#, SQL SERVER 2008
+	Role			:	Maintaining and developing application 
+Project Details	:         This is a web application which is developed in Visual Studio 2008 with 
+SQL Server 2008.  This application is developed for marketing and sales information of magic holiday in this following module are included.
+	•	Data Entry Module
+	•	Telemarketing Module
+	•	Direct Sales Module
+	•	Venue Sales Module
+	•	Reports Module
+	•	Master Module
+
+          Project Name	:	Timesheet & Task Management System 
+	Platform		:	ASP.NET, C#, Entity Framework, MVC3, SQL SERVER 2008
+	Role			:	Maintaining and developing application 
+Project Details	:         In this web application below module has been developed.
+	•	Master Module
+	•	Project Module
+	•	Task Module
+	•	Timesheet Module
+	•	Reports Module
+In this application we have maintain employee timesheet and task and it's assignment.
+
+Project Name	:	Customer Relationship Management 
+	Platform		:	Asp .Net with C#, SQL SERVER 2008
+	Role			:	Maintaining and developing application 
+Project Details	:         This is a web application which is developed in Visual Studio 2008 with 
+SQL Server 2008.  This application is developed for maintain data of Payment Mode and Payment details and scheme details of magic holiday’s customer.
+
+Project Name	:	DNC System
+	Platform		:	ASP.NET with C#, SQL-Server 2008
+	Role			:	Maintaining and developing application 
+Project Details	:         In this Application there are three modules first is File Upload Module and Scrubbing Module and third is Report. This application is used to checking the mobile is DND registered or not for upload it in CDMS project. In Report Module there are report for Data Upload Reports and Callable and Non-Callable data reports.
+
+Company		: Web Traverse India Pvt Ltd, Mumbai.
+Job Profile		: Working as a Sr. Software Engineer from 4 Aug 2011 to 31 Oct 2012 (15 Months).
+
+Project Name	:	N21Portal-RU
+					
+Channel-21
+		
+N21 Ukraine
+	
+Company		:  Clientate Computers, Jalgaon.
+Job Profile		: Working as a Sr. Software Developer from 1 May 2009 to 20 Jul 2011(27 Months).
+
+Project Name	:	Real Estate Portal
+	
+Mali Mangalam Marriage Beauro Portal
+	
+Neve Matrimonies Portal
+	
+Clientate Computers Website
+	
+				Bulk Mail & SMS Service
+	 
+Mail to SMS
+	
+Books & Stationary Shop Management System
+	
+Online Exam
+	
+Eye Hospital Management 
+	
+Online Scholarship Test 
+	
+Job Portal 
+	
+Eye Hospital Website
+	
+Company		: KurioLogics, Dombivali (East).
+Job Profile		: Working as a Software Developer from 5 August 2008 to 30 April 09 (8 Months) - ASP.NET 2.0, SQL server 2000.
+
+Project Name	:	Asset Management System
+
+SBuy e-commerce Website
+
+Education Development Corporation of India Co. Ltd website
+ 
+Real Estate Management System
+
+Client Account Management System
+
+
+Personal Information:
+Name			:	Nemade Nitin Ganesh
+Date of Birth	 	:	5th Aug 1983.
+Gender		:	Male.	
+Marital Status	:	Married
+Current Location 	:	Mumbai.
+Language		:	English, Hindi, Marathi
+Mobile Number	:	8425988845
+Email ID		:	nitingnemade@gmail.com
+

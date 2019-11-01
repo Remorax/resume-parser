@@ -1,0 +1,71 @@
+Bryan Welch
+Greater Seattle Area
+Systems Engineer/Architect at Juniper Networks
+Summary
+Strategic Network Architect with 15 years of achievement designing and delivering high-performing, complex
+ network and system implementations that increase reliability. Adept at coordinating multiple systems and
+ leading simultaneous integrations across various industrial sectors. Technology evangelist who improves
+ entire lifecycle of services by leveraging strategic partnerships and providing architectural vision to align IT
+ processes with short and long-term business plans.
+Sr. Systems Engineer - Juniper Networks. Help clients architect and build large scale reliable networks though
+ integration of Junipers Security/Routing/Switching portfolios. Helping customers Integrate Juniper's market
+ leading solutions to build large scale SDN enabled private and public clouds with multiple vendor technologies
+ such as Openstack/Cloudstack, VMware, KVM, Chef, Puppet.
+Network Operations Manager/Network Architect - Digeo/Arris. Responsible for 24x7 uptime of 1M+ client
+ multihomed redundant data centers, SLA management, SAN (NFS/CIFS/iSCSI) network, endpoint/network
+ security, MS Win2k3/2k8/linux server infrastructure, patch management, vendor negotiations, long haul
+ network, LAN/WAN requirements and upgrades, Load Balancers/ADC's, Vendor Multihoming (BGP).
+Principle Network Architect and Director of Engineering(Pre/Post Sales Engineering) - Tec-Works Inc.
+ Specialized pre/post sales engineering for medium business with large enterprise requirements with focus
+ on Data Center design and installation, Lan/Wan installation, design, troubleshooting, high availability and
+ Network Security requirements.
+Sr Network Engineer, Installation - Internap Network Services designing, installing and troubleshooting top tier
+ multihomed customer installation and networks with focus on security and fault tolerance.
+Network Infrastructure Engineer Lead - United States Air Force. Circuit installation, network router, switch,
+ firewall deployment and fault isolation supporting 10k+ users.
+Experience
+Sr. Systems Engineer, Architect at Juniper Networks
+April 2012 - Present (4 years 11 months)
+Helping customers realize the tremendous operational and financial values of Juniper Networks and the Junos
+ OS.
+- Pre-sales Systems Engineering, Architecture and Design
+- Design, Architecture and Solution Engineering for Cloud Networks, Enterprise, Campus and data center's
+ across the state of Washington.
+- Work with and recommend products from Juniper's tremendous portfolio ranging from security, routing and
+ switching to wireless and virtualization
+- Architect highly scalable, redundant right-sized networks using the some of the best technology in
+ networking to ensure "5 9's" and investment protection.
+Owner, Network Architect at Welch Engineering Services
+February 2008 - Present (9 years 1 month)
+Private consulting firm focused on Secure Enterprise and Data Center networks with requirements for Cloud
+ and On-Prem Hybrid solutions.
+Director - Network Operations at ARRIS Group inc (Formerly Digeo Inc.)
+March 2008 - April 2012 (4 years 2 months)
+In charge of overall corporate IT strategy, Security and Network Infrastructure for multiple sites and 24x7
+ data center facilities.
+Oversee daily operations of 3k node windows/Linux LAN, 3 HA Data Centers with multiple provider
+ connections, HVAC and power requirements, MPLS and Metro Ethernet back haul connections, VMware
+ clusters with iSCSI and NAS SAN storage, Firewall and IDS, Load Balancers/Application Delivery
+ Networks, DNS, AD and Exchange.
+Founder - Director of Network Engineering/Network Architect at Tec-Works Inc
+2002 - May 2008 (6 years)
+Lead team of engineers to develop network road maps for customers, product recommendations during of
+ pre/post sales engineering processes.
+Subject matter expert for Routing and Switching. Provided hands on support of key customer accounts.
+Directed Data Center Design, build outs and upgrades for new and existing customers to include: Structured
+ wiring, Network Optimization, Routing, Switching, Security/Firewalls, HVAC, AC/DC power
+Launched 24/x7 proactive monitoring services for SMB customers with focus on datacenter, to address their
+ operational requirements for hands on staff to support their online businesses during all hours of the day/
+night.
+Sr. Installation Network Engineer at Internap Network Services
+January 2000 - January 2003 (3 years 1 month)
+Network Engineer - Base Operations at United States Air Force
+March 1996 - March 2000 (4 years 1 month)
+Lead engineer in charge of 12,000+ user base network. Migrated entire base infrastructure from ATM
+ backbone to Routed Ethernet for scalability and reliability, managed day to day outage resolution and
+ installation of new services.
+Education
+CCAF
+AA, Information Systems, 1997 - 1999
+California State University-Fresno
+Industrial Engineering, Information Systems, 1992 - 1994

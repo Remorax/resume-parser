@@ -1,0 +1,1821 @@
+  <designations>
+  <d key="Senior QA/QC Engineer">
+    <v>Senior QA/QC Engineer</v>
+  </d>
+  <d key="Manager-Special Products-Marketing">
+    <v>Manager-Special Products-Marketing</v>
+  </d>
+  <d key="Area Manager">
+    <v>Area Manager</v>
+  </d>
+  <d key="Accessory dner">
+    <v>Accessory dner</v>
+  </d>
+  <d key="Account Director">
+    <v>Account Director</v>
+  </d>
+  <d key="Accounts Exec. / Accountant">
+    <v>Accounts Exec. / Accountant</v>
+    <v>Accounts Exec.</v>
+    <v>Accounts Executive</v>
+    <v>Accountant</v>
+  </d>
+  <d key="Accounts Mgr">
+    <v>Accounts Mgr</v>
+    <v>Accounts Manager</v>
+  </d>
+  <d key="Actuary Mgr">
+    <v>Actuary Mgr</v>
+    <v>Actuary Manager</v>
+  </d>
+  <d key="Admin / Facilities Exec.">
+    <v>Admin / Facilities Exec.</v>
+    <v>Admin Exec.</v>
+    <v>Facilities Exec.</v>
+    <v>Admin Executive</v>
+    <v>Facilities Executive</v>
+  </d>
+  <d key="Admin / Facilities Mgr">
+    <v>Admin / Facilities Mgr</v>
+    <v>Admin Mgr</v>
+    <v>Facilities Mgr</v>
+  </d>
+  <d key="Admin Services / Medical Facilities">
+    <v>Admin Services / Medical Facilities</v>
+    <v>Admin Services</v>
+    <v>Medical Facilities</v>
+  </d>
+  <d key="Advisor / Outside Consultant">
+    <v>Advisor / Outside Consultant</v>
+    <v>Advisor Consultant</v>
+    <v>Outside Consultant</v>
+  </d>
+  <d key="Agent">
+    <v>Agent</v>
+  </d>
+  <d key="Anaesthesist">
+    <v>Anaesthesist</v>
+  </d>
+  <d key="Analyst">
+    <v>Analyst</v>
+  </d>
+  <d key="Analytical Chemistry Associate / Scientist">
+    <v>Analytical Chemistry Associate / Scientist</v>
+    <v>Analytical Chemistry Associate</v>
+    <v>Scientist</v>
+  </d>
+  <d key="Analytical Chemistry Mgr">
+    <v>Analytical Chemistry Mgr</v>
+  </d>
+  <d key="Animation / Graphic Artist">
+    <v>Animation / Graphic Artist</v>
+    <v>Animation Artist</v>
+    <v>Graphic Artist</v>
+  </d>
+  <d key="Apparel / Garment dner">
+    <v>Apparel / Garment dner</v>
+    <v>Apparel dner</v>
+    <v>Garment dner</v>
+  </d>
+  <d key="Apprentice / Intern">
+    <v>Apprentice / Intern</v>
+    <v>Intern</v>
+    <v>Intern</v>
+  </d>
+  <d key="Architect">
+    <v>Architect</v>
+  </d>
+  <d key="Army / Navy / Airforce Personnel">
+    <v>Army / Navy / Airforce Personnel</v>
+    <v>Army Personnel</v>
+    <v>Navy Personnel</v>
+    <v>Airforce Personnel</v>
+  </d>
+  <d key="Art Director / Sr Art Director">
+    <v>Art Director / Sr Art Director</v>
+    <v>Art Director</v>
+    <v>Sr Art Director</v>
+  </d>
+  <d key="Asset Operations / Documentation-Exec. / Mgr">
+    <v>Asset Operations</v>
+    <v>Documentation-Exec.</v>
+    <v>Mgr</v>
+  </d>
+  <d key="Associate / Sr. Associate -(NonTechnical)">
+    <v>Associate / Sr. Associate -(NonTechnical)</v>
+    <v>Associate  -(NonTechnical)</v>
+    <v>Sr. Associate -(NonTechnical)</v>
+  </d>
+  <d key="Associate / Sr. Associate -(Technical)">
+    <v>Associate / Sr. Associate -(Technical)</v>
+    <v>Associate -(Technical)</v>
+    <v>Sr. Associate -(Technical)</v>
+  </d>
+  <d key="Asst. Director / Director">
+    <v>Asst. Director / Director</v>
+    <v>Asst. Director</v>
+    <v>Director</v>
+  </d>
+  <d key="Asst. Editor / Editor">
+    <v>Asst. Editor / Editor</v>
+    <v>Asst. Editor</v>
+    <v>Editor</v>
+  </d>
+  <d key="Asst. Mgr / Mgr -(NonTechnical)">
+    <v>Asst. Mgr / Mgr -(NonTechnical)</v>
+    <v>Asst. Mgr -(NonTechnical)</v>
+    <v>Mgr -(NonTechnical)</v>
+  </d>
+  <d key="Asst. Mgr / Mgr (Technical)">
+    <v>Asst. Mgr / Mgr (Technical)</v>
+    <v>Asst. Mgr (Technical)</v>
+    <v>Mgr (Technical)</v>
+  </d>
+  <d key="ATM Operations Mgr">
+    <v>ATM Operations Mgr</v>
+  </d>
+  <d key="Audit Mgr">
+    <v>Audit Mgr</v>
+  </d>
+  <d key="AV Editor">
+    <v>AV Editor</v>
+  </d>
+  <d key="Aviation Engnr">
+    <v>Aviation Engnr</v>
+  </d>
+  <d key="Back Office Exec.">
+    <v>Back Office Exec.</v>
+  </d>
+  <d key="Bad Debts / Workouts Mgr">
+    <v>Bad Debts / Workouts Mgr</v>
+    <v>Bad Debts</v>
+    <v>Workouts Mgr</v>
+  </d>
+  <d key="Banc Assurance">
+    <v>Banc Assurance</v>
+    <v>Bancassurance</v>
+  </d>
+  <d key="Banquet Sales Exec. / Mgr">
+    <v>Banquet Sales Exec. / Mgr</v>
+    <v>Banquet Sales Exec. </v>
+    <v>Banquet Sales Exec. Mgr</v>
+  </d>
+  <d key="Bartender">
+    <v>Bartender</v>
+  </d>
+  <d key="BD Mgr">
+    <v>BD Mgr</v>
+  </d>
+  <d key="Bio / Pharma Informatics-Associate / Scientist">
+    <v>Bio / Pharma Informatics-Associate / Scientist</v>
+    <v>Bio</v>
+    <v>Pharma Informatics-Associate</v>
+    <v>Scientist</v>
+  </d>
+  <d key="Bio-Statistician">
+    <v>Bio-Statistician</v>
+  </d>
+  <d key="Bio-Tech Research Associate / Scientist">
+    <v>Bio-Tech Research Associate / Scientist</v>
+    <v>Bio-Tech Research Associate</v>
+    <v>Bio-Tech Research Associate Scientist</v>
+  </d>
+  <d key="Bio-Tech Research Mgr">
+    <v>Bio-Tech Research Mgr</v>
+  </d>
+  <d key="Branch Manager / Regional Manager">
+    <v>Branch Manager / Regional Manager</v>
+    <v>Branch Manager</v>
+    <v>Regional Manager</v>
+    <v>Branch Mgr</v>
+    <v>Regional Mgr</v>
+  </d>
+  <d key="Broker / Trader">
+    <v>Broker / Trader</v>
+    <v>Broker</v>
+    <v>Trader</v>
+  </d>
+  <d key="Business / EDP Analyst">
+    <v>Business / EDP Analyst</v>
+    <v>Business  Analyst</v>
+    <v>EDP Analyst</v>
+  </d>
+  <d key="Business Alliances Mgr">
+    <v>Business Alliances Mgr</v>
+  </d>
+  <d key="Business Content Developer">
+    <v>Business Content Developer</v>
+  </d>
+  <d key="Business Editor">
+    <v>Business Editor</v>
+  </d>
+  <d key="Butler">
+    <v>Butler</v>
+  </d>
+  <d key="Cabin Crew">
+    <v>Cabin Crew</v>
+  </d>
+  <d key="Camera Man / Technician">
+    <v>Camera Man / Technician</v>
+    <v>Camera Man</v>
+    <v>Technician</v>
+  </d>
+  <d key="Captain">
+    <v>Captain</v>
+  </d>
+  <d key="Card Approvals Officer">
+    <v>Card Approvals Officer</v>
+  </d>
+  <d key="Cardiologist">
+    <v>Cardiologist</v>
+  </d>
+  <d key="Cards Operations Exec.">
+    <v>Cards Operations Exec.</v>
+  </d>
+  <d key="Cards Operations Mgr">
+    <v>Cards Operations Mgr</v>
+  </d>
+  <d key="Cards-Sales Officer / Exec.">
+    <v>Cards-Sales Officer / Exec.</v>
+    <v>Cards-Sales Officer</v>
+    <v>Cards-Sales Officer Exec.</v>
+  </d>
+  <d key="Cash Officer">
+    <v>Cash Officer</v>
+  </d>
+  <d key="Cashier">
+    <v>Cashier</v>
+  </d>
+  <d key="Cashier / Billing Mgr">
+    <v>Cashier / Billing Mgr</v>
+    <v>Cashier</v>
+    <v>Billing Mgr</v>
+  </d>
+  <d key="CEO / MD / Director">
+    <v>CEO / MD / Director</v>
+    <v>CEO</v>
+    <v>MD</v>
+    <v>Director</v>
+  </d>
+  <d key="CFA">
+    <v>CFA</v>
+  </d>
+  <d key="Chartered Accountant">
+    <v>Chartered Accountant</v>
+  </d>
+  <d key="Chef De Partis">
+    <v>Chef De Partis</v>
+  </d>
+  <d key="Chemical Research Associate / Scientist">
+    <v>Chemical Research Associate / Scientist</v>
+    <v>Chemical Research Associate</v>
+    <v>Chemical Research Associate Scientist</v>
+  </d>
+  <d key="Chemical Research Mgr">
+    <v>Chemical Research Mgr</v>
+  </d>
+  <d key="Chief Medical Officer / Head Medical Services">
+    <v>Chief Medical Officer / Head Medical Services</v>
+    <v>Chief Medical Officer</v>
+    <v>Head Medical Services</v>
+  </d>
+  <d key="Chief of Bureau / Editor in Chief">
+    <v>Chief of Bureau / Editor in Chief</v>
+    <v>Chief of Bureau</v>
+    <v>Editor in Chief</v>
+  </d>
+  <d key="Chief Security Officer">
+    <v>Chief Security Officer</v>
+  </d>
+  <d key="Choreographer">
+    <v>Choreographer</v>
+  </d>
+  <d key="Cinematographer">
+    <v>Cinematographer</v>
+  </d>
+  <d key="CIO">
+    <v>CIO</v>
+  </d>
+  <d key="Civil Engnr -Telecom">
+    <v>Civil Engnr -Telecom</v>
+  </d>
+  <d key="Civil Engnr-Aviation">
+    <v>Civil Engnr-Aviation</v>
+  </d>
+  <d key="Civil Engnr-Highway Roadway">
+    <v>Civil Engnr-Highway Roadway</v>
+  </d>
+  <d key="Civil Engnr-Land Development">
+    <v>Civil Engnr-Land Development</v>
+  </d>
+  <d key="Civil Engnr-Municipal">
+    <v>Civil Engnr-Municipal</v>
+  </d>
+  <d key="Civil Engnr-Other">
+    <v>Civil Engnr-Other</v>
+  </d>
+  <d key="Civil Engnr-Telecom">
+    <v>Civil Engnr-Telecom</v>
+  </d>
+  <d key="Civil Engnr-Traffic">
+    <v>Civil Engnr-Traffic</v>
+  </d>
+  <d key="Civil Engnr-Water / Wastewater">
+    <v>Civil Engnr-Water / Wastewater</v>
+    <v>Civil Engnr-Water</v>
+    <v>Civil Engnr-Wastewater</v>
+  </d>
+  <d key="Claims Exec.">
+    <v>Claims Exec.</v>
+  </d>
+  <d key="Claims Mgr">
+    <v>Claims Mgr</v>
+  </d>
+  <d key="Clearing Officer">
+    <v>Clearing Officer</v>
+  </d>
+  <d key="Client Servicing / Key Account Mgr">
+    <v>Client Servicing / Key Account Mgr</v>
+    <v>Client Servicing</v>
+    <v>Key Account Mgr</v>
+  </d>
+  <d key="Client Servicing Exec.">
+    <v>Client Servicing Exec.</v>
+  </d>
+  <d key="Clinical Research Associate / Scientist">
+    <v>Clinical Research Associate / Scientist</v>
+    <v>Clinical Research Associate</v>
+    <v>Clinical Research Scientist</v>
+  </d>
+  <d key="Clinical Research Mgr">
+    <v>Clinical Research Mgr</v>
+  </d>
+  <d key="Clinical Researcher">
+    <v>Clinical Researcher</v>
+  </d>
+  <d key="Collections Exec.">
+    <v>Collections Exec.</v>
+  </d>
+  <d key="Collections Mgr">
+    <v>Collections Mgr</v>
+  </d>
+  <d key="Collections Officer">
+    <v>Collections Officer</v>
+  </d>
+  <d key="Commercial Mgr">
+    <v>Commercial Mgr</v>
+  </d>
+  <d key="Commis">
+    <v>Commis</v>
+  </d>
+  <d key="Commodity Trading Mgr">
+    <v>Commodity Trading Mgr</v>
+  </d>
+  <d key="Company Secretary">
+    <v>Company Secretary</v>
+  </d>
+  <d key="Construction-Construction Management">
+    <v>Construction-Construction Management</v>
+  </d>
+  <d key="Construction-General Building">
+    <v>Construction-General Building</v>
+  </d>
+  <d key="Construction-Heavy">
+    <v>Construction-Heavy</v>
+  </d>
+  <d key="Construction-Other">
+    <v>Construction-Other</v>
+  </d>
+  <d key="Construction-Residential">
+    <v>Construction-Residential</v>
+  </d>
+  <d key="Construction-Specialty">
+    <v>Construction-Specialty</v>
+  </d>
+  <d key="Content Developer">
+    <v>Content Developer</v>
+  </d>
+  <d key="Copywriter">
+    <v>Copywriter</v>
+  </d>
+  <d key="Coresspondent / Asst. Editor / Associate Editor">
+    <v>Coresspondent / Asst. Editor / Associate Editor</v>
+    <v>Coresspondent</v>
+    <v>Asst. Editor</v>
+    <v>Associate Editor</v>
+  </d>
+  <d key="Corp. Communication Exec.">
+    <v>Corp. Communication Exec.</v>
+  </d>
+  <d key="Corporate Advisory Mgr">
+    <v>Corporate Advisory Mgr</v>
+  </d>
+  <d key="Corporate Planning / Strategy Mgr">
+    <v>Corporate Planning / Strategy Mgr</v>
+    <v>Corporate Planning</v>
+    <v>Strategy Mgr</v>
+  </d>
+  <d key="Correspondent">
+    <v>Correspondent</v>
+  </d>
+  <d key="Cost Accountant">
+    <v>Cost Accountant</v>
+  </d>
+  <d key="Counsellor">
+    <v>Counsellor</v>
+  </d>
+  <d key="Counter Sales">
+    <v>Counter Sales</v>
+  </d>
+  <d key="Creative Director">
+    <v>Creative Director</v>
+  </d>
+  <d key="Credit / Control Exec.">
+    <v>Credit / Control Exec.</v>
+    <v>Credit Exec.</v>
+    <v>Control Exec.</v>
+  </d>
+  <d key="Credit / Control Mgr">
+    <v>Credit / Control Mgr</v>
+    <v>Credit Mgr</v>
+    <v>Control Mgr</v>
+  </d>
+  <d key="Credit Analyst-Corporate Banking">
+    <v>Credit Analyst-Corporate Banking</v>
+  </d>
+  <d key="Credit Mgr-Corporate Banking">
+    <v>Credit Mgr-Corporate Banking</v>
+  </d>
+  <d key="Credit Officer">
+    <v>Credit Officer</v>
+  </d>
+  <d key="CRM / Cust. Service Exec.">
+    <v>CRM / Cust. Service Exec.</v>
+  </d>
+  <d key="CRM / Cust. Service Mgr">
+    <v>CRM / Cust. Service Mgr</v>
+  </d>
+  <d key="CRM / Phone / Internet Banking Exec.">
+    <v>CRM / Phone / Internet Banking Exec.</v>
+  </d>
+  <d key="CTO / Head / VP-Technology (Telecom / ISP)">
+    <v>CTO / Head / VP-Technology (Telecom / ISP)</v>
+  </d>
+  <d key="Cust. Service Exec.">
+    <v>Cust. Service Exec.</v>
+  </d>
+  <d key="Cust. Service Mgr">
+    <v>Cust. Service Mgr</v>
+  </d>
+  <d key="Customer Support Engnr / Technician">
+    <v>Customer Support Engnr / Technician</v>
+  </d>
+  <d key="Database Architect / dner">
+    <v>Database Architect / dner</v>
+  </d>
+  <d key="Datawarehousing Technician">
+    <v>Datawarehousing Technician</v>
+  </d>
+  <d key="DBA">
+    <v>DBA</v>
+  </d>
+  <d key="Debt Analyst">
+    <v>Debt Analyst</v>
+  </d>
+  <d key="Debt Instrument Dealer">
+    <v>Debt Instrument Dealer</v>
+  </d>
+  <d key="Debt Operations Mgr">
+    <v>Debt Operations Mgr</v>
+  </d>
+  <d key="Depository Services-Exec. / Mgr">
+    <v>Depository Services-Exec. / Mgr</v>
+  </d>
+  <d key="Derivatives Dealer">
+    <v>Derivatives Dealer</v>
+  </d>
+  <d key="Dermatologist">
+    <v>Dermatologist</v>
+  </d>
+  <d key="dn Engineer">
+    <v>dn Engineer</v>
+  </d>
+  <d key="dn Engnr / Mgr">
+    <v>dn Engnr / Mgr</v>
+  </d>
+  <d key="Dialer Mgr">
+    <v>Dialer Mgr</v>
+  </d>
+  <d key="Dietician / Nutritionist">
+    <v>Dietician / Nutritionist</v>
+  </d>
+  <d key="Direct Mktg Exec.">
+    <v>Direct Mktg Exec.</v>
+  </d>
+  <d key="Direct Mktg Mgr">
+    <v>Direct Mktg Mgr</v>
+  </d>
+  <d key="Director">
+    <v>Director</v>
+  </d>
+  <d key="Documentation / Medical Writing">
+    <v>Documentation / Medical Writing</v>
+  </d>
+  <d key="Documentation / Shipping Exec. / Mgr">
+    <v>Documentation / Shipping Exec. / Mgr</v>
+  </d>
+  <d key="Domestic Debt Mgr">
+    <v>Domestic Debt Mgr</v>
+  </d>
+  <d key="Domestic Private Banking-Exec. / Mgr">
+    <v>Domestic Private Banking-Exec. / Mgr</v>
+  </d>
+  <d key="Draughtsman">
+    <v>Draughtsman</v>
+  </d>
+  <d key="Drug Regulatory Dr.">
+    <v>Drug Regulatory Dr.</v>
+  </d>
+  <d key="DSA / Company Rep.">
+    <v>DSA / Company Rep.</v>
+  </d>
+  <d key="EA to Chairman / President / VP">
+    <v>EA to Chairman / President / VP</v>
+  </d>
+  <d key="EDP Analyst">
+    <v>EDP Analyst</v>
+  </d>
+  <d key="Electrical Engnr -Telecom">
+    <v>Electrical Engnr -Telecom</v>
+  </d>
+  <d key="Electrical Engnr-Commercial">
+    <v>Electrical Engnr-Commercial</v>
+  </d>
+  <d key="Electrical Engnr-Industrial">
+    <v>Electrical Engnr-Industrial</v>
+  </d>
+  <d key="Electrical Engnr-Other">
+    <v>Electrical Engnr-Other</v>
+  </d>
+  <d key="Electrical Engnr-Telecom">
+    <v>Electrical Engnr-Telecom</v>
+  </d>
+  <d key="Electrical Engnr-Utility">
+    <v>Electrical Engnr-Utility</v>
+  </d>
+  <d key="Embedded Technologies Engnr">
+    <v>Embedded Technologies Engnr</v>
+  </d>
+  <d key="Engineering Mgr">
+    <v>Engineering Mgr</v>
+  </d>
+  <d key="Engnr-Other">
+    <v>Engnr-Other</v>
+  </d>
+  <d key="ENT Specialist">
+    <v>ENT Specialist</v>
+  </d>
+  <d key="Environment Engnr / Officer">
+    <v>Environment Engnr / Officer</v>
+  </d>
+  <d key="Equity Analyst">
+    <v>Equity Analyst</v>
+  </d>
+  <d key="Equity Mgr">
+    <v>Equity Mgr</v>
+  </d>
+  <d key="Events / Promotion Exec.">
+    <v>Events / Promotion Exec.</v>
+  </d>
+  <d key="Events / Promotion Mgr">
+    <v>Events / Promotion Mgr</v>
+  </d>
+  <d key="Executive / Master Chef">
+    <v>Executive / Master Chef</v>
+  </d>
+  <d key="Executive Sous Chef / Chef De Cuisine">
+    <v>Executive Sous Chef / Chef De Cuisine</v>
+  </d>
+  <d key="F&amp;B Mgr">
+    <v>F&amp;B Mgr</v>
+  </d>
+  <d key="Factory Head">
+    <v>Factory Head</v>
+  </d>
+  <d key="Fashion Content Developer">
+    <v>Fashion Content Developer</v>
+  </d>
+  <d key="Fashion Editor">
+    <v>Fashion Editor</v>
+  </d>
+  <d key="Features Content Developer">
+    <v>Features Content Developer</v>
+  </d>
+  <d key="Features Editor">
+    <v>Features Editor</v>
+  </d>
+  <d key="Film Producer">
+    <v>Film Producer</v>
+  </d>
+  <d key="Finance / Budgeting Mgr">
+    <v>Finance / Budgeting Mgr</v>
+  </d>
+  <d key="Finance Exec.">
+    <v>Finance Exec.</v>
+  </d>
+  <d key="Financial Accountant">
+    <v>Financial Accountant</v>
+  </d>
+  <d key="Financial Analyst">
+    <v>Financial Analyst</v>
+  </d>
+  <d key="Floor Mgr">
+    <v>Floor Mgr</v>
+  </d>
+  <d key="Footwear dner">
+    <v>Footwear dner</v>
+  </d>
+  <d key="Forex Dealer">
+    <v>Forex Dealer</v>
+  </d>
+  <d key="Forex Mgr">
+    <v>Forex Mgr</v>
+  </d>
+  <d key="Forex Operations Mgr">
+    <v>Forex Operations Mgr</v>
+  </d>
+  <d key="Formulation Scientist">
+    <v>Formulation Scientist</v>
+  </d>
+  <d key="Formulation Scientists">
+    <v>Formulation Scientists</v>
+  </d>
+  <d key="Freelance Journalist">
+    <v>Freelance Journalist</v>
+  </d>
+  <d key="Fresher">
+    <v>Fresher</v>
+  </d>
+  <d key="Front Desk / Cashier / Billing">
+    <v>Front Desk / Cashier / Billing</v>
+  </d>
+  <d key="Front Office / Guest Relations Exec. / Mgr">
+    <v>Front Office / Guest Relations Exec. / Mgr</v>
+  </d>
+  <d key="Functional Outside Consultant">
+    <v>Functional Outside Consultant</v>
+  </d>
+  <d key="Fund Mgr-Debt">
+    <v>Fund Mgr-Debt</v>
+  </d>
+  <d key="Fund Mgr-Equity">
+    <v>Fund Mgr-Equity</v>
+  </d>
+  <d key="General Manager">
+    <v>General Manager</v>
+  </d>
+  <d key="General Mgr">
+    <v>General Mgr</v>
+  </d>
+  <d key="General Practitioner">
+    <v>General Practitioner</v>
+  </d>
+  <d key="Geographic Information Systems / GIS">
+    <v>Geographic Information Systems / GIS</v>
+  </d>
+  <d key="Geotechnical Engnr">
+    <v>Geotechnical Engnr</v>
+  </d>
+  <d key="GPRS Engnr">
+    <v>GPRS Engnr</v>
+  </d>
+  <d key="Graphic / Web dner">
+    <v>Graphic / Web dner</v>
+  </d>
+  <d key="Graphic dner">
+    <v>Graphic dner</v>
+  </d>
+  <d key="Ground Staff">
+    <v>Ground Staff</v>
+  </d>
+  <d key="GSM Engnr">
+    <v>GSM Engnr</v>
+  </d>
+  <d key="Gynaeocologist">
+    <v>Gynaeocologist</v>
+  </d>
+  <d key="Hardware dn Engnr">
+    <v>Hardware dn Engnr</v>
+  </d>
+  <d key="Hardware Installation Technician">
+    <v>Hardware Installation Technician</v>
+  </d>
+  <d key="Head / Mgr / GM-Media Buying">
+    <v>Head / Mgr / GM-Media Buying</v>
+  </d>
+  <d key="Head / Mgr / GM-Media Planning">
+    <v>Head / Mgr / GM-Media Planning</v>
+  </d>
+  <d key="Head / VP / GM / National Manager-Sales">
+    <v>Head / VP / GM / National Manager-Sales</v>
+  </d>
+  <d key="Head / VP / GM / National Mgr -Sales">
+    <v>Head / VP / GM / National Mgr -Sales</v>
+  </d>
+  <d key="Head / VP / GM -Accounts">
+    <v>Head / VP / GM -Accounts</v>
+  </d>
+  <d key="Head / VP / GM -Credit / Risk">
+    <v>Head / VP / GM -Credit / Risk</v>
+  </d>
+  <d key="Head / VP / GM -F&amp;B">
+    <v>Head / VP / GM -F&amp;B</v>
+  </d>
+  <d key="Head / VP / GM- MR">
+    <v>Head / VP / GM- MR</v>
+  </d>
+  <d key="Head / VP / GM- Purchase / Material Mgmt">
+    <v>Head / VP / GM- Purchase / Material Mgmt</v>
+  </d>
+  <d key="Head / VP / GM-Accounts">
+    <v>Head / VP / GM-Accounts</v>
+  </d>
+  <d key="Head / VP / GM-Admin &amp; Facilities">
+    <v>Head / VP / GM-Admin &amp; Facilities</v>
+  </d>
+  <d key="Head / VP / GM-BD">
+    <v>Head / VP / GM-BD</v>
+  </d>
+  <d key="Head / VP / GM-Broking">
+    <v>Head / VP / GM-Broking</v>
+  </d>
+  <d key="Head / VP / GM-Business Alliances">
+    <v>Head / VP / GM-Business Alliances</v>
+  </d>
+  <d key="Head / VP / GM-CFO / Financial Controller">
+    <v>Head / VP / GM-CFO / Financial Controller</v>
+  </d>
+  <d key="Head / VP / GM-Claims">
+    <v>Head / VP / GM-Claims</v>
+  </d>
+  <d key="Head / VP / GM-Client Servicing">
+    <v>Head / VP / GM-Client Servicing</v>
+  </d>
+  <d key="Head / VP / GM-Commercial">
+    <v>Head / VP / GM-Commercial</v>
+  </d>
+  <d key="Head / VP / GM-Corporate Advisory">
+    <v>Head / VP / GM-Corporate Advisory</v>
+  </d>
+  <d key="Head / VP / GM-Corporate Planning / Strategy">
+    <v>Head / VP / GM-Corporate Planning / Strategy</v>
+  </d>
+  <d key="Head / VP / GM-Credit">
+    <v>Head / VP / GM-Credit</v>
+  </d>
+  <d key="Head / VP / GM-Credit / Risk">
+    <v>Head / VP / GM-Credit / Risk</v>
+  </d>
+  <d key="Head / VP / GM-Depository Services">
+    <v>Head / VP / GM-Depository Services</v>
+  </d>
+  <d key="Head / VP / GM-Documentation / Shipping">
+    <v>Head / VP / GM-Documentation / Shipping</v>
+  </d>
+  <d key="Head / VP / GM-Domestic / Offshore Debt">
+    <v>Head / VP / GM-Domestic / Offshore Debt</v>
+  </d>
+  <d key="Head / VP / GM-Domestic Debt">
+    <v>Head / VP / GM-Domestic Debt</v>
+  </d>
+  <d key="Head / VP / GM-Equity">
+    <v>Head / VP / GM-Equity</v>
+  </d>
+  <d key="Head / VP / GM-F&amp;B">
+    <v>Head / VP / GM-F&amp;B</v>
+  </d>
+  <d key="Head / VP / GM-Finance / Audit">
+    <v>Head / VP / GM-Finance / Audit</v>
+  </d>
+  <d key="Head / VP / GM-Formulations">
+    <v>Head / VP / GM-Formulations</v>
+  </d>
+  <d key="Head / VP / GM-Fund Management">
+    <v>Head / VP / GM-Fund Management</v>
+  </d>
+  <d key="Head / VP / GM-Fund Mgmt">
+    <v>Head / VP / GM-Fund Mgmt</v>
+  </d>
+  <d key="Head / VP / GM-HR">
+    <v>Head / VP / GM-HR</v>
+  </d>
+  <d key="Head / VP / GM-Insurance Operations">
+    <v>Head / VP / GM-Insurance Operations</v>
+  </d>
+  <d key="Head / VP / GM-Investment Banking">
+    <v>Head / VP / GM-Investment Banking</v>
+  </d>
+  <d key="Head / VP / GM-Legal">
+    <v>Head / VP / GM-Legal</v>
+  </d>
+  <d key="Head / VP / GM-Mergers &amp; Acquisitions">
+    <v>Head / VP / GM-Mergers &amp; Acquisitions</v>
+  </d>
+  <d key="Head / VP / GM-Mktg">
+    <v>Head / VP / GM-Mktg</v>
+  </d>
+  <d key="Head / VP / GM-Offshore Debt">
+    <v>Head / VP / GM-Offshore Debt</v>
+  </d>
+  <d key="Head / VP / GM-Operations">
+    <v>Head / VP / GM-Operations</v>
+  </d>
+  <d key="Head / VP / GM-Packaging Development">
+    <v>Head / VP / GM-Packaging Development</v>
+  </d>
+  <d key="Head / VP / GM-PR / Corp. Communication">
+    <v>Head / VP / GM-PR / Corp. Communication</v>
+  </d>
+  <d key="Head / VP / GM-Private Equity / Hedge Fund / VC">
+    <v>Head / VP / GM-Private Equity / Hedge Fund / VC</v>
+  </d>
+  <d key="Head / VP / GM-Production">
+    <v>Head / VP / GM-Production</v>
+  </d>
+  <d key="Head / VP / GM-Production / Manufacturing / Maintenance">
+    <v>Head / VP / GM-Production / Manufacturing / Maintenance</v>
+  </d>
+  <d key="Head / VP / GM-Project Finance">
+    <v>Head / VP / GM-Project Finance</v>
+  </d>
+  <d key="Head / VP / GM-Purchase">
+    <v>Head / VP / GM-Purchase</v>
+  </d>
+  <d key="Head / VP / GM-Purchase / Material Mgmt">
+    <v>Head / VP / GM-Purchase / Material Mgmt</v>
+  </d>
+  <d key="Head / VP / GM-QA / QC">
+    <v>Head / VP / GM-QA / QC</v>
+  </d>
+  <d key="Head / VP / GM-QA&amp;QC">
+    <v>Head / VP / GM-QA&amp;QC</v>
+  </d>
+  <d key="Head / VP / GM-Quality">
+    <v>Head / VP / GM-Quality</v>
+  </d>
+  <d key="Head / VP / GM-R&amp;D">
+    <v>Head / VP / GM-R&amp;D</v>
+  </d>
+  <d key="Head / VP / GM-Recruitment">
+    <v>Head / VP / GM-Recruitment</v>
+  </d>
+  <d key="Head / VP / GM-Regulatory Affairs">
+    <v>Head / VP / GM-Regulatory Affairs</v>
+  </d>
+  <d key="Head / VP / GM-Relationships">
+    <v>Head / VP / GM-Relationships</v>
+  </d>
+  <d key="Head / VP / GM-Sales">
+    <v>Head / VP / GM-Sales</v>
+  </d>
+  <d key="Head / VP / GM-SCM / Logistics">
+    <v>Head / VP / GM-SCM / Logistics</v>
+  </d>
+  <d key="Head / VP / GM-Tech. Support">
+    <v>Head / VP / GM-Tech. Support</v>
+  </d>
+  <d key="Head / VP / GM-Technology (IT) / CTO">
+    <v>Head / VP / GM-Technology (IT) / CTO</v>
+  </d>
+  <d key="Head / VP / GM-Tour Management">
+    <v>Head / VP / GM-Tour Management</v>
+  </d>
+  <d key="Head / VP / GM-Tour Mgmt">
+    <v>Head / VP / GM-Tour Mgmt</v>
+  </d>
+  <d key="Head / VP / GM-Training &amp; Development">
+    <v>Head / VP / GM-Training &amp; Development</v>
+  </d>
+  <d key="Head / VP / GM-Training and Development">
+    <v>Head / VP / GM-Training and Development</v>
+  </d>
+  <d key="Head / VP / GM-Transitions">
+    <v>Head / VP / GM-Transitions</v>
+  </d>
+  <d key="Head / VP / GM-Treasury">
+    <v>Head / VP / GM-Treasury</v>
+  </d>
+  <d key="Head / VP / GM-Underwritting">
+    <v>Head / VP / GM-Underwritting</v>
+  </d>
+  <d key="Head / VP / -PR / Corp. Communication">
+    <v>Head / VP / -PR / Corp. Communication</v>
+  </d>
+  <d key="Head-Lighting">
+    <v>Head-Lighting</v>
+  </d>
+  <d key="Head-Special Effects">
+    <v>Head-Special Effects</v>
+  </d>
+  <d key="Head-Underwriting">
+    <v>Head-Underwriting</v>
+  </d>
+  <d key="Health Club Asst. / Mgr">
+    <v>Health Club Asst. / Mgr</v>
+  </d>
+  <d key="Health-Officer / Mgr">
+    <v>Health-Officer / Mgr</v>
+  </d>
+  <d key="Hepatologist">
+    <v>Hepatologist</v>
+  </d>
+  <d key="Host / Hostess">
+    <v>Host / Hostess</v>
+  </d>
+  <d key="Housekeeping Exec. / Asst.">
+    <v>Housekeeping Exec. / Asst.</v>
+  </d>
+  <d key="Housekeeping Mgr">
+    <v>Housekeeping Mgr</v>
+  </d>
+  <d key="HR Exec.">
+    <v>HR Exec.</v>
+  </d>
+  <d key="HR Mgr">
+    <v>HR Mgr</v>
+  </d>
+  <d key="ICWA">
+    <v>ICWA</v>
+  </d>
+  <d key="Independent Rep.">
+    <v>Independent Rep.</v>
+  </d>
+  <d key="Industrial / Labour Relations Mgr">
+    <v>Industrial / Labour Relations Mgr</v>
+  </d>
+  <d key="Industrial Engnr">
+    <v>Industrial Engnr</v>
+  </d>
+  <d key="Information Systems(MIS)-Mgr">
+    <v>Information Systems(MIS)-Mgr</v>
+  </d>
+  <d key="Infrastructure &amp; Technology Mgr">
+    <v>Infrastructure &amp; Technology Mgr</v>
+  </d>
+  <d key="Institutional Sales / BD Mgr">
+    <v>Institutional Sales / BD Mgr</v>
+  </d>
+  <d key="Instructional dner">
+    <v>Instructional dner</v>
+  </d>
+  <d key="Insurance Advisor">
+    <v>Insurance Advisor</v>
+  </d>
+  <d key="Insurance Analyst">
+    <v>Insurance Analyst</v>
+  </d>
+  <d key="Insurance Operations Mgr">
+    <v>Insurance Operations Mgr</v>
+  </d>
+  <d key="Insurance Operations Officer">
+    <v>Insurance Operations Officer</v>
+  </d>
+  <d key="Interior dner">
+    <v>Interior dner</v>
+  </d>
+  <d key="Intern">
+    <v>Intern</v>
+  </d>
+  <d key="Intnl Business Content Developer">
+    <v>Intnl Business Content Developer</v>
+  </d>
+  <d key="Intnl Business Editor">
+    <v>Intnl Business Editor</v>
+  </d>
+  <d key="Investigative Journalist">
+    <v>Investigative Journalist</v>
+  </d>
+  <d key="Investment / Treasury Mgr">
+    <v>Investment / Treasury Mgr</v>
+  </d>
+  <d key="Investor Relationship-Exec. / Mgr">
+    <v>Investor Relationship-Exec. / Mgr</v>
+  </d>
+  <d key="Issues / IPO Mgr">
+    <v>Issues / IPO Mgr</v>
+  </d>
+  <d key="IT / Networking-Mgr">
+    <v>IT / Networking-Mgr</v>
+  </d>
+  <d key="IT / Technical Content Developer">
+    <v>IT / Technical Content Developer</v>
+  </d>
+  <d key="IT / Technical Editor">
+    <v>IT / Technical Editor</v>
+  </d>
+  <d key="Jewellery dner">
+    <v>Jewellery dner</v>
+  </d>
+  <d key="Journalist">
+    <v>Journalist</v>
+  </d>
+  <d key="Lab Technician / Medical Technician / Lab Staff">
+    <v>Lab Technician / Medical Technician / Lab Staff</v>
+  </d>
+  <d key="Landscape Architect">
+    <v>Landscape Architect</v>
+  </d>
+  <d key="Law Officer">
+    <v>Law Officer</v>
+  </d>
+  <d key="Lecturer / Professor">
+    <v>Lecturer / Professor</v>
+  </d>
+  <d key="Legal Mgr">
+    <v>Legal Mgr</v>
+  </d>
+  <d key="Legal Officer">
+    <v>Legal Officer</v>
+  </d>
+  <d key="Liason Officer / Mgr">
+    <v>Liason Officer / Mgr</v>
+  </d>
+  <d key="Librarian">
+    <v>Librarian</v>
+  </d>
+  <d key="Life-Insurance Agent">
+    <v>Life-Insurance Agent</v>
+  </d>
+  <d key="Lighting Technician">
+    <v>Lighting Technician</v>
+  </d>
+  <d key="Lobby / Duty Mgr">
+    <v>Lobby / Duty Mgr</v>
+  </d>
+  <d key="Locations Mgr">
+    <v>Locations Mgr</v>
+  </d>
+  <d key="Logistics Exec.">
+    <v>Logistics Exec.</v>
+  </d>
+  <d key="Logistics Mgr">
+    <v>Logistics Mgr</v>
+  </d>
+  <d key="Maintenance Engnr">
+    <v>Maintenance Engnr</v>
+  </d>
+  <d key="Managing Editor">
+    <v>Managing Editor</v>
+  </d>
+  <d key="Masseur">
+    <v>Masseur</v>
+  </d>
+  <d key="Material Mgmt Exec. / Mgr">
+    <v>Material Mgmt Exec. / Mgr</v>
+  </d>
+  <d key="Mech. Engnr -Telecom">
+    <v>Mech. Engnr -Telecom</v>
+  </d>
+  <d key="Mech. Engnr-HVAC">
+    <v>Mech. Engnr-HVAC</v>
+  </d>
+  <d key="Mech. Engnr-Other">
+    <v>Mech. Engnr-Other</v>
+  </d>
+  <d key="Mech. Engnr-Plumbing / Fire Protection">
+    <v>Mech. Engnr-Plumbing / Fire Protection</v>
+  </d>
+  <d key="Mech. Engnr-Telecom">
+    <v>Mech. Engnr-Telecom</v>
+  </d>
+  <d key="Media Buying Exec. / Mgr">
+    <v>Media Buying Exec. / Mgr</v>
+  </d>
+  <d key="Media Planning Exec. / Mgr">
+    <v>Media Planning Exec. / Mgr</v>
+  </d>
+  <d key="Medical Officer">
+    <v>Medical Officer</v>
+  </d>
+  <d key="Medical Rep.">
+    <v>Medical Rep.</v>
+  </d>
+  <d key="Medical Superintendent / Director">
+    <v>Medical Superintendent / Director</v>
+  </d>
+  <d key="Merchandiser">
+    <v>Merchandiser</v>
+  </d>
+  <d key="Merchant Acquisition Exec.">
+    <v>Merchant Acquisition Exec.</v>
+  </d>
+  <d key="Mergers &amp; Acquisitions Analyst">
+    <v>Mergers &amp; Acquisitions Analyst</v>
+  </d>
+  <d key="Mergers&amp;Acquisitions Mgr">
+    <v>Mergers&amp;Acquisitions Mgr</v>
+  </d>
+  <d key="Microbiologist">
+    <v>Microbiologist</v>
+  </d>
+  <d key="Mktg Mgr">
+    <v>Mktg Mgr</v>
+  </d>
+  <d key="Molecular Biology">
+    <v>Molecular Biology</v>
+  </d>
+  <d key="Money Markets Dealer">
+    <v>Money Markets Dealer</v>
+  </d>
+  <d key="MR Exec. / Mgr">
+    <v>MR Exec. / Mgr</v>
+  </d>
+  <d key="MR Field Supervisor">
+    <v>MR Field Supervisor</v>
+  </d>
+  <d key="Music Director">
+    <v>Music Director</v>
+  </d>
+  <d key="National Creative Director / VP-Creative">
+    <v>National Creative Director / VP-Creative</v>
+  </d>
+  <d key="National Head">
+    <v>National Head</v>
+  </d>
+  <d key="Naval Architect">
+    <v>Naval Architect</v>
+  </d>
+  <d key="Nephrologist">
+    <v>Nephrologist</v>
+  </d>
+  <d key="Network Admin">
+    <v>Network Admin</v>
+  </d>
+  <d key="Network Planning Engnr">
+    <v>Network Planning Engnr</v>
+  </d>
+  <d key="Network Planning Manager">
+    <v>Network Planning Manager</v>
+  </d>
+  <d key="Neurologist">
+    <v>Neurologist</v>
+  </d>
+  <d key="News / Features Head">
+    <v>News / Features Head</v>
+  </d>
+  <d key="News Anchor / TV Presenter">
+    <v>News Anchor / TV Presenter</v>
+  </d>
+  <d key="News Compiler">
+    <v>News Compiler</v>
+  </d>
+  <d key="News Editor">
+    <v>News Editor</v>
+  </d>
+  <d key="Non-Life Insurance Agent">
+    <v>Non-Life Insurance Agent</v>
+  </d>
+  <d key="Nurse">
+    <v>Nurse</v>
+  </d>
+  <d key="Nutritionist">
+    <v>Nutritionist</v>
+  </d>
+  <d key="Offshore Debt Mgr">
+    <v>Offshore Debt Mgr</v>
+  </d>
+  <d key="Oncologist">
+    <v>Oncologist</v>
+  </d>
+  <d key="Operations Exec.">
+    <v>Operations Exec.</v>
+  </d>
+  <d key="Operations Mgr">
+    <v>Operations Mgr</v>
+  </d>
+  <d key="Operations Officer">
+    <v>Operations Officer</v>
+  </d>
+  <d key="Opthamologist">
+    <v>Opthamologist</v>
+  </d>
+  <d key="Orthopaedist">
+    <v>Orthopaedist</v>
+  </d>
+  <d key="Other Scientist">
+    <v>Other Scientist</v>
+  </d>
+  <d key="Outside Consultant">
+    <v>Outside Consultant</v>
+  </d>
+  <d key="Outside Technical Consultant">
+    <v>Outside Technical Consultant</v>
+  </d>
+  <d key="Packaging Development Exec. / Mgr">
+    <v>Packaging Development Exec. / Mgr</v>
+  </d>
+  <d key="Paramedic">
+    <v>Paramedic</v>
+  </d>
+  <d key="Pathologist">
+    <v>Pathologist</v>
+  </d>
+  <d key="Pay Roll / Compensation Mgr">
+    <v>Pay Roll / Compensation Mgr</v>
+  </d>
+  <d key="Pediatrician">
+    <v>Pediatrician</v>
+  </d>
+  <d key="Performance Mgmt Mgr">
+    <v>Performance Mgmt Mgr</v>
+  </d>
+  <d key="Pharmacist / Chemist / Bio Chemist">
+    <v>Pharmacist / Chemist / Bio Chemist</v>
+  </d>
+  <d key="Photographer">
+    <v>Photographer</v>
+  </d>
+  <d key="Physiotherapist">
+    <v>Physiotherapist</v>
+  </d>
+  <d key="Policeman">
+    <v>Policeman</v>
+  </d>
+  <d key="Political Content Developer">
+    <v>Political Content Developer</v>
+  </d>
+  <d key="Political Editor">
+    <v>Political Editor</v>
+  </d>
+  <d key="Portfolio Mgr">
+    <v>Portfolio Mgr</v>
+  </d>
+  <d key="Postdoc Position / Fellowship">
+    <v>Postdoc Position / Fellowship</v>
+  </d>
+  <d key="PR &amp; Media Relations Mgr">
+    <v>PR &amp; Media Relations Mgr</v>
+  </d>
+  <d key="PR Exec.">
+    <v>PR Exec.</v>
+  </d>
+  <d key="Practical Training / Internship">
+    <v>Practical Training / Internship</v>
+  </d>
+  <d key="Principal Coresspondent / Features Writer / Resident Writer">
+    <v>Principal Coresspondent / Features Writer / Resident Writer</v>
+  </d>
+  <d key="Private Attorney / Lawyer">
+    <v>Private Attorney / Lawyer</v>
+  </d>
+  <d key="Private Equity / Hedge Fund / VC-Mgr">
+    <v>Private Equity / Hedge Fund / VC-Mgr</v>
+  </d>
+  <d key="Process Engnr-Plant dn">
+    <v>Process Engnr-Plant dn</v>
+  </d>
+  <d key="Process Flow Analyst">
+    <v>Process Flow Analyst</v>
+  </d>
+  <d key="Product / Brand Mgr">
+    <v>Product / Brand Mgr</v>
+  </d>
+  <d key="Product Development Exec.">
+    <v>Product Development Exec.</v>
+  </d>
+  <d key="Product Development Mgr">
+    <v>Product Development Mgr</v>
+  </d>
+  <d key="Product Exec.">
+    <v>Product Exec.</v>
+  </d>
+  <d key="Product Mgr">
+    <v>Product Mgr</v>
+  </d>
+  <d key="Product Mgr-Auto / Home Loans">
+    <v>Product Mgr-Auto / Home Loans</v>
+  </d>
+  <d key="Product Mgr-Cards">
+    <v>Product Mgr-Cards</v>
+  </d>
+  <d key="Production Exec.">
+    <v>Production Exec.</v>
+  </d>
+  <d key="Production Mgr">
+    <v>Production Mgr</v>
+  </d>
+  <d key="Program Mgr">
+    <v>Program Mgr</v>
+  </d>
+  <d key="Project Architect">
+    <v>Project Architect</v>
+  </d>
+  <d key="Project Finance Mgr">
+    <v>Project Finance Mgr</v>
+  </d>
+  <d key="Project Lead">
+    <v>Project Lead</v>
+  </d>
+  <d key="Project Mgr-IT / Software">
+    <v>Project Mgr-IT / Software</v>
+  </d>
+  <d key="Project Mgr-Production / Manufacturing / Maintenance">
+    <v>Project Mgr-Production / Manufacturing / Maintenance</v>
+  </d>
+  <d key="Project Mgr-Telecom">
+    <v>Project Mgr-Telecom</v>
+  </d>
+  <d key="Proof Reader">
+    <v>Proof Reader</v>
+  </d>
+  <d key="Psychiatrist">
+    <v>Psychiatrist</v>
+  </d>
+  <d key="Purchase / Vendor Development Mgr">
+    <v>Purchase / Vendor Development Mgr</v>
+  </d>
+  <d key="Purchase Exec.">
+    <v>Purchase Exec.</v>
+  </d>
+  <d key="Purchase Officer">
+    <v>Purchase Officer</v>
+  </d>
+  <d key="QA / QC Exec.">
+    <v>QA / QC Exec.</v>
+  </d>
+  <d key="QA / QC Mgr">
+    <v>QA / QC Mgr</v>
+  </d>
+  <d key="QA&amp;QC Mgr">
+    <v>QA&amp;QC Mgr</v>
+  </d>
+  <d key="QA&amp;QC-Executive">
+    <v>QA&amp;QC-Executive</v>
+  </d>
+  <d key="Quality Coach">
+    <v>Quality Coach</v>
+  </d>
+  <d key="R&amp;D Exec.">
+    <v>R&amp;D Exec.</v>
+  </d>
+  <d key="Radiologist">
+    <v>Radiologist</v>
+  </d>
+  <d key="Real Estate Agent">
+    <v>Real Estate Agent</v>
+  </d>
+  <d key="Receptionist">
+    <v>Receptionist</v>
+  </d>
+  <d key="Recruitment Exec.">
+    <v>Recruitment Exec.</v>
+  </d>
+  <d key="Recruitment Mgr">
+    <v>Recruitment Mgr</v>
+  </d>
+  <d key="Regional Mgr">
+    <v>Regional Mgr</v>
+  </d>
+  <d key="Regulatory Affairs Mgr">
+    <v>Regulatory Affairs Mgr</v>
+  </d>
+  <d key="Relationship Exec.">
+    <v>Relationship Exec.</v>
+  </d>
+  <d key="Release Mgr">
+    <v>Release Mgr</v>
+  </d>
+  <d key="Research Associate">
+    <v>Research Associate</v>
+  </d>
+  <d key="Research Scientist">
+    <v>Research Scientist</v>
+  </d>
+  <d key="Reservations Exec.">
+    <v>Reservations Exec.</v>
+  </d>
+  <d key="Reservations Mgr">
+    <v>Reservations Mgr</v>
+  </d>
+  <d key="Restaurant Mgr">
+    <v>Restaurant Mgr</v>
+  </d>
+  <d key="Retail Store Mgr">
+    <v>Retail Store Mgr</v>
+  </d>
+  <d key="RF Engnr">
+    <v>RF Engnr</v>
+  </d>
+  <d key="RF Installation Engnr">
+    <v>RF Installation Engnr</v>
+  </d>
+  <d key="RF System dner">
+    <v>RF System dner</v>
+  </d>
+  <d key="Safety Officer / Mgr">
+    <v>Safety Officer / Mgr</v>
+  </d>
+  <d key="Sales / BD Mgr">
+    <v>Sales / BD Mgr</v>
+  </d>
+  <d key="Sales / BD Mgr-Broking">
+    <v>Sales / BD Mgr-Broking</v>
+  </d>
+  <d key="Sales / BD Mgr-Debt Instruments">
+    <v>Sales / BD Mgr-Debt Instruments</v>
+  </d>
+  <d key="Sales / BD Mgr-Derivatives">
+    <v>Sales / BD Mgr-Derivatives</v>
+  </d>
+  <d key="Sales / BD Mgr-Forex">
+    <v>Sales / BD Mgr-Forex</v>
+  </d>
+  <d key="Sales / BD-Mgr">
+    <v>Sales / BD-Mgr</v>
+  </d>
+  <d key="Sales Exec. / Investment Advisor">
+    <v>Sales Exec. / Investment Advisor</v>
+  </d>
+  <d key="Sales Exec. / Officer">
+    <v>Sales Exec. / Officer</v>
+  </d>
+  <d key="Sales Head">
+    <v>Sales Head</v>
+  </d>
+  <d key="Sales Officer">
+    <v>Sales Officer</v>
+  </d>
+  <d key="Sales Promotion Mgr">
+    <v>Sales Promotion Mgr</v>
+  </d>
+  <d key="Sales Trainer">
+    <v>Sales Trainer</v>
+  </d>
+  <d key="SBU / Profit Center Head">
+    <v>SBU / Profit Center Head</v>
+  </d>
+  <d key="SBU Head / Profit Centre Head">
+    <v>SBU Head / Profit Centre Head</v>
+  </d>
+  <d key="Scientist">
+    <v>Scientist</v>
+  </d>
+  <d key="Secretary / PA">
+    <v>Secretary / PA</v>
+  </d>
+  <d key="Security Engnr">
+    <v>Security Engnr</v>
+  </d>
+  <d key="Security Guard">
+    <v>Security Guard</v>
+  </d>
+  <d key="Security Mgr">
+    <v>Security Mgr</v>
+  </d>
+  <d key="Security Supervisor">
+    <v>Security Supervisor</v>
+  </d>
+  <d key="Service / Maintenance Engnr">
+    <v>Service / Maintenance Engnr</v>
+  </d>
+  <d key="Service / Maintenance Supervisor">
+    <v>Service / Maintenance Supervisor</v>
+  </d>
+  <d key="Service Delivery Leader">
+    <v>Service Delivery Leader</v>
+  </d>
+  <d key="Soft Skills Trainer">
+    <v>Soft Skills Trainer</v>
+  </d>
+  <d key="Software Developer">
+    <v>Software Developer</v>
+  </d>
+  <d key="Sound Mixer / Engr">
+    <v>Sound Mixer / Engr</v>
+  </d>
+  <d key="Sous Chef">
+    <v>Sous Chef</v>
+  </d>
+  <d key="Special Education Teacher">
+    <v>Special Education Teacher</v>
+  </d>
+  <d key="Special Effects Technician">
+    <v>Special Effects Technician</v>
+  </d>
+  <d key="Sports Content Developer">
+    <v>Sports Content Developer</v>
+  </d>
+  <d key="Sports Editor">
+    <v>Sports Editor</v>
+  </d>
+  <d key="Spot Boy">
+    <v>Spot Boy</v>
+  </d>
+  <d key="Sr / Principal Coresspondent">
+    <v>Sr / Principal Coresspondent</v>
+  </d>
+  <d key="Sr Outside Consultant">
+    <v>Sr Outside Consultant</v>
+  </d>
+  <d key="Sr Sub Editor / Sr Reporter">
+    <v>Sr Sub Editor / Sr Reporter</v>
+  </d>
+  <d key="Sr. dn Engineer">
+    <v>Sr. dn Engineer</v>
+  </d>
+  <d key="Stenographer / Data Entry Operator">
+    <v>Stenographer / Data Entry Operator</v>
+  </d>
+  <d key="Steward">
+    <v>Steward</v>
+  </d>
+  <d key="Store Keeper / Warehouse Assistant">
+    <v>Store Keeper / Warehouse Assistant</v>
+  </d>
+  <d key="Structural Engnr-Bridge">
+    <v>Structural Engnr-Bridge</v>
+  </d>
+  <d key="Structural Engnr-Building">
+    <v>Structural Engnr-Building</v>
+  </d>
+  <d key="Structural Engnr-Other">
+    <v>Structural Engnr-Other</v>
+  </d>
+  <d key="Stunt Coordinator">
+    <v>Stunt Coordinator</v>
+  </d>
+  <d key="Sub Editor / Reporter">
+    <v>Sub Editor / Reporter</v>
+  </d>
+  <d key="Surgeon">
+    <v>Surgeon</v>
+  </d>
+  <d key="Switching / Router Engnr">
+    <v>Switching / Router Engnr</v>
+  </d>
+  <d key="System Admin">
+    <v>System Admin</v>
+  </d>
+  <d key="System Analyst">
+    <v>System Analyst</v>
+  </d>
+  <d key="System Integration Technician">
+    <v>System Integration Technician</v>
+  </d>
+  <d key="System Security">
+    <v>System Security</v>
+  </d>
+  <d key="Taxation (Direct) Mgr">
+    <v>Taxation (Direct) Mgr</v>
+  </d>
+  <d key="Taxation (Indirect) Mgr">
+    <v>Taxation (Indirect) Mgr</v>
+  </d>
+  <d key="Teacher / Private Tutor">
+    <v>Teacher / Private Tutor</v>
+  </d>
+  <d key="Team Lead / Tech Lead">
+    <v>Team Lead / Tech Lead</v>
+  </d>
+  <d key="Team Leader -(NonTechnical)">
+    <v>Team Leader -(NonTechnical)</v>
+  </d>
+  <d key="Team Leader -(Technical)">
+    <v>Team Leader -(Technical)</v>
+  </d>
+  <d key="Team Leader-QA / QC">
+    <v>Team Leader-QA / QC</v>
+  </d>
+  <d key="Team Lead / Developer">
+    <v>Team Lead / Developer</v>
+    <v>Team Lead and Developer</v>
+    <v>Team Lead-Developer</v>
+  </d>
+  <d key="Tecalling / Telemarketing Exec.">
+    <v>Tecalling / Telemarketing Exec.</v>
+  </d>
+  <d key="Tech Architect">
+    <v>Tech Architect</v>
+  </d>
+  <d key="Tech Lead -Hardware dn">
+    <v>Tech Lead -Hardware dn</v>
+  </d>
+  <d key="Tech Support Engnr">
+    <v>Tech Support Engnr</v>
+  </d>
+  <d key="Tech. Lead / Project Lead">
+    <v>Tech. Lead / Project Lead</v>
+  </d>
+  <d key="Technical / Process Trainer">
+    <v>Technical / Process Trainer</v>
+  </d>
+  <d key="Technical Documentor">
+    <v>Technical Documentor</v>
+  </d>
+  <d key="Technical Support Mgr">
+    <v>Technical Support Mgr</v>
+  </d>
+  <d key="Technical Writer">
+    <v>Technical Writer</v>
+  </d>
+  <d key="Technology Mgr">
+    <v>Technology Mgr</v>
+  </d>
+  <d key="Telesales / Telemarketing Exec. / Officer">
+    <v>Telesales / Telemarketing Exec. / Officer</v>
+  </d>
+  <d key="Testing Engnr">
+    <v>Testing Engnr</v>
+  </d>
+  <d key="Textile dner">
+    <v>Textile dner</v>
+  </d>
+  <d key="Tour Mgmt Mgr / Sr. Mgr">
+    <v>Tour Mgmt Mgr / Sr. Mgr</v>
+  </d>
+  <d key="Tour Mngmt Exec.">
+    <v>Tour Mngmt Exec.</v>
+  </d>
+  <d key="Town Planner">
+    <v>Town Planner</v>
+  </d>
+  <d key="Trade Finance Operations Mgr">
+    <v>Trade Finance Operations Mgr</v>
+  </d>
+  <d key="Trader">
+    <v>Trader</v>
+  </d>
+  <d key="Trainee">
+    <v>Trainee</v>
+  </d>
+  <d key="Trainer / Faculty">
+    <v>Trainer / Faculty</v>
+  </d>
+  <d key="Training Mgr">
+    <v>Training Mgr</v>
+  </d>
+  <d key="Transcriptionist">
+    <v>Transcriptionist</v>
+  </d>
+  <d key="Transitions / Migrations Mgr">
+    <v>Transitions / Migrations Mgr</v>
+  </d>
+  <d key="Translator">
+    <v>Translator</v>
+  </d>
+  <d key="Transport / Distribution Mgr">
+    <v>Transport / Distribution Mgr</v>
+  </d>
+  <d key="Travel Agent">
+    <v>Travel Agent</v>
+  </d>
+  <d key="Travel Desk Mgr">
+    <v>Travel Desk Mgr</v>
+  </d>
+  <d key="Treasury Mgr">
+    <v>Treasury Mgr</v>
+  </d>
+  <d key="Treasury Operations Mgr">
+    <v>Treasury Operations Mgr</v>
+  </d>
+  <d key="TV Producer">
+    <v>TV Producer</v>
+  </d>
+  <d key="Underwriter">
+    <v>Underwriter</v>
+  </d>
+  <d key="Unit Mgr">
+    <v>Unit Mgr</v>
+  </d>
+  <d key="Visualiser">
+    <v>Visualiser</v>
+  </d>
+  <d key="Voice &amp; Accent Trainer">
+    <v>Voice &amp; Accent Trainer</v>
+  </d>
+  <d key="VP / GM-Quality">
+    <v>VP / GM-Quality</v>
+  </d>
+  <d key="VP / President / Partner">
+    <v>VP / President / Partner</v>
+  </d>
+  <d key="Wardrobe / Make-Up / Hair Artist">
+    <v>Wardrobe / Make-Up / Hair Artist</v>
+  </d>
+  <d key="Warehouse Mgr">
+    <v>Warehouse Mgr</v>
+  </d>
+  <d key="Web dner">
+    <v>Web dner</v>
+  </d>
+  <d key="Webmaster">
+    <v>Webmaster</v>
+  </d>
+  <d key="Web Technologist">
+    <v>Web Technologist</v>
+  </d>
+  <d key="Workman / Foreman / Technician">
+    <v>Workman / Foreman / Technician</v>
+  </d>
+  <d key="Branch Operations Manager">
+    <v>Branch Operations Manager</v>
+  </d>
+  <d key="Cash Management Service Operations">
+    <v>Cash Management Service Operations</v>
+  </d>
+  <d key="CDC/CDM">
+    <v>CDC/CDM</v>
+  </d>
+  <d key="Cluster Manager">
+    <v>Cluster Manager</v>
+  </d>
+  <d key="Consultant">
+    <v>Consultant</v>
+  </d>
+  <d key="Credit Manager">
+    <v>Credit Manager</v>
+  </d>
+  <d key="Head - Collections">
+    <v>Head - Collections</v>
+  </d>
+  <d key="Head - Risk">
+    <v>Head - Risk</v>
+  </d>
+  <d key="Head-Credit">
+    <v>Head-Credit</v>
+  </d>
+  <d key="Head-Retail Assets">
+    <v>Head-Retail Assets</v>
+  </d>
+  <d key="Head-Retail Liabilities">
+    <v>Head-Retail Liabilities</v>
+  </d>
+  <d key="Investment Advisor">
+    <v>Investment Advisor</v>
+  </d>
+  <d key="Manager - Statutory Audit">
+    <v>Manager - Statutory Audit</v>
+  </d>
+  <d key="Manager-Expatriate Tax">
+    <v>Manager-Expatriate Tax</v>
+  </d>
+  <d key="Manager-Forensic">
+    <v>Manager-Forensic</v>
+  </d>
+  <d key="Manager-Internal Audit">
+    <v>Manager-Internal Audit</v>
+  </d>
+  <d key="Medical Writer">
+    <v>Medical Writer</v>
+  </d>
+  <d key="Relationship Manager-Coprorate Banking">
+    <v>Relationship Manager-Coprorate Banking</v>
+  </d>
+  <d key="Relationship Manager-SME Banking">
+    <v>Relationship Manager-SME Banking</v>
+  </d>
+  <d key="Relationship Manager-Wholesale Banking">
+    <v>Relationship Manager-Wholesale Banking</v>
+  </d>
+  <d key="Sales Manager - Commercial Vehicles">
+    <v>Sales Manager - Commercial Vehicles</v>
+  </d>
+  <d key="Saless Manager -Personal Loans">
+    <v>Saless Manager -Personal Loans</v>
+  </d>
+  <d key="Senior Consultant">
+    <v>Senior Consultant</v>
+  </d>
+  <d key="Sr. Software Engineer">
+    <v>Senior Software Engineer</v>
+    <v>Sr. Software Engineer</v>
+  </d>
+  <d key="Software Engineer">
+    <v>Software Engineer</v>
+  </d>
+  <d key="Teller Authorizer/ Personal Banker Authorizer">
+    <v>Teller Authorizer/ Personal Banker Authorizer</v>
+  </d>
+  <d key="Teller/Cashier">
+    <v>Teller/Cashier</v>
+  </d>
+  <d key="Wealth Manager">
+    <v>Wealth Manager</v>
+  </d>
+  <d key="ASSOCIATE GROUP HEAD">
+    <v>ASSOCIATE GROUP HEAD</v>
+  </d>
+  <d key="Manager Liaisoning">
+    <v>Manager Liaisoning</v>
+  </d>
+  <d key="Project Manager">
+    <v>Project Manager</v>
+  </d>
+  <d key="R&amp;R/LA/Social Expert">
+    <v>R&amp;R/LA/Social Expert</v>
+  </d>
+  <d key="Group Leader">
+    <v>Group Leader</v>
+    <v>Team Leader</v>
+  </d>
+</designations>

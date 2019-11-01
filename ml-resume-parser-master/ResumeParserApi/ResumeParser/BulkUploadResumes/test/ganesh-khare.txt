@@ -1,0 +1,1881 @@
+
+Ganesh Khare
+
+Contact Number-08793504802
+
+
+
+
+PERSONAL DETAILS
+
+
+
+Name:
+Ganesh Khare
+Email Id:
+Ganesh.s.khare@gmail.com
+Date of Birth:
+21-Oct-1986
+Sex:
+Male
+Languages:
+English, Hindi, Marathi.
+Present Address:
+Room No 8,Usah kung building Jai Hind Colony , Gupte Road Dombivali (W) ,
+
+Mumbai-400018.
+References:
+Work reference and seniors will be made available on requests.
+
+EDUCATIONAL QUALIFICATIONS
+
+
+
+
+	•	MCA from Pune University with First Class (65%) in 2010 
+
+	•	BCA from  Dr. Babasaheb Umbedkar University, Aurangabad with First Class (67%) in 2007 
+
+	•	HSC from Mumbai Board with Second Class (50%) in 2004. 
+
+	•	SSC from Mumbai Board with First Class (61.20%) in 2002. 
+
+
+PROFESSIONAL QUALIFICATIONS
+
+	Good Knowledge in ASP.NET  3.5,4.0  with C#, SQL SERVER 2008
+	•	Basic knowledge MVC 
+
+
+PROFESSIONAL WORK SUMMARY
+
+1.	Work experience of 3.5 Years in Software Development and maintenance.
+
+Software Experience:
+
+	•	Presently working with Mundrisoft Technology as a Software Developer from June 2015 to Till. 
+	•	Previously working with MahaOnline Limited (Sion, Mumbai) as a Software Developer from May 2014 to May 2015.
+
+	•	Previously working with Xplore logic systems pvt ltd Pune as a Software Developer from Dec 2011 to Nov 2013. 
+
+
+
+
+PROGRAMMING SKILLS AND EXPERIENCES
+
+
+
+
+
+
+
+
+
+
+Languages:
+C#.NET
+
+
+Operating Systems:
+Microsoft Windows Family
+
+
+Front-End Tools:
+ASP.NET,MVC
+
+
+Database:
+SQL Server,EntityFramework
+
+
+Versions:
+.Net Framework (2.0,3.5,4.0) & SQL 2005 ,SQL 2008
+
+
+Installation
+Setup creation, Deployment of Projects
+
+
+
+
+
+
+
+Ganesh Khare
+
+
+
+
+
+Contact Number-08793504802
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAREER DETAILS / RESPONSIBILITIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MundriSoft Technology Pune, Software Developer.
+
+
+
+
+
+
+
+
+
+
+
+
+Project Details:
+
+
+
+
+
+
+
+
+
+I.
+
+
+
+
+
+
+
+
+
+Company Name
+
+Mundrisoft Technology Koregaon Park Pune
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+MSRAMP(Microsoft Ramp) 
+
+
+
+
+
+
+
+
+
+
+Client
+
+Microsoft
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+MVC 4.0 ,SQL 2008 ,J-Query
+
+
+
+
+
+
+
+
+
+
+Scope:
+
+The objective of this project is providing online training to dell employee and generation Report of completing Training Or not,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role:
+
+
+Development.
+
+
+II.
+
+
+
+
+
+
+
+
+
+Company Name
+
+Mundrisoft Technology
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+Partner storybook for office 365
+
+
+
+
+
+
+
+
+
+
+Client
+
+Microsoft
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+MVC 4,0  with C#.NET, SQL 2012 and Linq
+
+
+
+
+
+
+
+Scope
+
+The Partner Storybook for Office 365 is a place for Microsoft Partners to share their Office 365 success stories and learn from each other how to build and grow a thriving Office 365 practice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role:
+
+
+
+
+
+
+
+Development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ganesh Khare
+
+
+
+
+
+Contact Number-08793504802
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAREER DETAILS / RESPONSIBILITIES
+
+
+
+
+
+Mahaonline Limited (Sion,Mumbai), Software Developer.
+
+
+
+
+
+
+
+
+
+
+
+
+Project Details:
+
+
+
+
+
+
+
+
+
+I.
+
+
+
+
+
+
+
+
+
+Company Name
+
+Mahaonline Limited (Sion, Mumbai)
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+Citizen Services
+
+
+
+
+
+
+
+
+
+
+Client
+
+Maharashtra Government
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+MVC 4.0 ,SQL 2008 ,J-Query
+
+
+
+
+
+
+
+
+
+
+Scope:
+
+The objective of this project is providing different kind of certificates to citizens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Designing of various Forms from Wireframes.
+
+
+Role:
+
+
+Development.
+
+
+II.
+
+
+
+
+
+
+
+
+
+Company Name
+
+Mahaonline Limited (Sion, Mumbai)
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+Taraporewala Aquarium Booking System
+
+
+
+
+
+
+
+
+
+
+Client
+
+Maharashtra Government Fisheries Department
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+ASP.NET  with C#.NET, SQL 2012 and AJAX
+
+
+
+
+
+
+
+
+
+The objective of this project is to generate tickets for Taraporewala Aquarium and generate
+
+
+Scope:
+
+different kind of reports.
+It also includes various monthly/annual customized reports which
+
+
+
+
+
+helps management in decision making and future planning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement Gathering
+
+
+Role:
+
+  Designing of various Forms from Wireframes.
+
+
+
+
+
+Development.
+
+
+
+
+
+
+
+
+
+
+
+
+Ganesh Khare
+
+
+
+
+
+Contact Number-08793504802
+
+
+
+
+
+
+
+
+
+
+III.
+
+
+
+
+
+
+
+Company Name
+
+Mahaonline Limited (Sion, Mumbai)
+
+
+
+
+
+
+
+
+Project Name
+
+E-scholarship
+
+
+
+
+
+
+
+
+Client
+
+Maharashtra Government Education Department
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+Team Size
+4
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+ASP.NET  with C#.NET, SQL 2008 and AJAX
+
+
+
+
+
+
+
+
+
+The website offers information on various student schemes i.e. Development
+
+
+
+
+
+Schemes, Scholarships, and School Infrastructure etc.
+
+
+
+
+
+Information of all the Directorates of School Education Department has been
+
+
+
+
+
+mentioned on the website along with the various schemes that run through these
+
+
+
+
+
+offices.
+
+
+
+
+
+
+
+The website shall publish the decisions and circulars issued by the Government and
+
+
+
+
+
+the Directorates to ensure awareness to the schools and department officials.
+
+
+
+
+
+Software and Systems essential for administration, teaching and learning shall also
+
+
+
+Scope:
+
+be made available on this website.
+
+
+
+
+
+This website aims to provide valuable and timely information to all the stakeholders
+
+
+
+
+
+
+
+
+
+
+
+which involves
+
+
+
+
+
+-Online enrolment of applicants for scholarship.
+
+
+
+
+
+-Eligible candidates gets selected by school and further processed for scholarship.
+
+
+
+
+
+-Displays various district, state level reports used for school HM,EO,State
+
+
+
+
+
+education secretory and other higher authorities of government
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement Gathering
+
+
+Role:
+
+  Designing of various Forms from Wireframes.
+
+
+
+
+
+Development.
+
+
+
+
+
+
+
+
+IV.
+
+
+
+
+
+
+
+Company Name
+
+Mahaonline Limited (Sion,Mumbai)
+
+
+
+
+
+
+
+Project Name
+
+New School sanction(Domain : Government)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client
+
+Maharashtra Government Education Department
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+Team Size
+1
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+ASP.NET  with C#.NET, SQL 2008 and AJAX
+
+
+
+
+
+
+
+
+
+It is web based application. This is the official website of School and
+
+
+
+
+education department Maharashtra.
+
+
+Scope:
+
+This website provides facility to apply on line for new school sanction
+
+
+
+
+
+
+
+Role:
+
+  Developement and Updating of Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xplore logic systems Pvt ltd Software Developer.
+
+Project Details:
+
+
+
+
+
+Ganesh Khare
+
+
+
+
+
+Contact Number-08793504802
+
+
+
+
+
+
+
+
+
+
+I.
+
+
+
+
+
+
+Company Name
+Xplore logic systems Pvt ltd (Pune)
+
+
+
+
+
+
+
+
+Project Name
+Web Site for Yatri Club Pune
+
+
+
+
+
+
+
+
+Client
+Yatri Club Traveling Company
+
+
+
+
+
+
+
+
+Position
+Software Developer
+
+
+
+
+
+
+
+
+
+
+Team Size
+2
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+ASP.NET  with C#.NET, SQL 2008 and AJAX
+
+
+
+
+
+
+
+
+
+It is a travel company site developed for Yatri Club. This company develops their branches
+
+
+
+
+in all cities for this we have provided a registration for new franchisee and opening for that
+
+
+
+Scope:
+franchisee. And we have also provided contact form for user if they want any travel
+
+
+
+
+package. Admin can view all the data  and can give reply for these enquiries with the help
+
+
+
+
+
+
+
+
+
+of mail. Admin can upload travel packages and also download all the data in Excel file.
+
+
+
+
+
+
+
+
+
+
+
+Requirement Gathering
+
+
+
+Role:
+  Designing of various Forms from Wireframes.
+
+
+
+
+
+Planning, Development.
+
+
+
+
+
+
+
+
+
+II.
+
+
+
+
+
+
+
+
+
+
+
+Company Name
+Xplore logic systems Pvt ltd (Pune)
+
+
+
+
+
+
+
+
+Project Name
+Web Site Portal for Damani Classes
+
+
+
+
+
+
+
+
+Client Name
+Damani Classes Pune
+
+
+
+
+
+
+
+
+Position
+Software Developer
+
+
+
+
+
+
+
+
+
+
+Team Size
+2
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+ASP.NET  with C#.NET, SQL 2008 and AJAX
+
+
+
+
+
+
+
+
+
+This site is developed for Damani classes. In this website they have shown all the information
+
+
+
+Scope:
+about their classes. There is a registration page for students where students can register
+
+
+
+
+
+
+
+
+
+online and a access will be generated after registration. Here student can download notes
+
+
+
+
+and can give online test for different subject. Admin can upload, generate test and can get all
+
+
+
+
+the records of students.
+
+
+
+
+
+
+
+
+
+
+
+Requirement Gathering
+
+
+
+Role:
+  Designing of various Forms from Wireframes.
+
+
+
+
+  Planning, Development & Deployment of various modules.
+
+
+
+
+
+Support to Users
+
+
+
+
+  Giving demo to User.
+
+
+
+
+  Maintenance and Updating of Projects
+
+
+Ganesh Khare
+
+Contact Number-08793504802
+
+
+
+III.
+
+
+
+Company
+Xplore logic systems Pvt ltd (Pune)
+
+
+
+Name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Name
+Online portal for Gujar Parivar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client
+Gujar Community
+
+
+
+
+
+
+
+
+
+
+
+Position
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform &
+ASP.NET
+with C#.NET, SQL 2008 and AJAX
+
+
+
+Skills:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is matrimonial website for gujar community. In it online registration of breedand grooms
+
+
+
+
+happens on subscription basis. Registered person can search other registered users, view
+
+
+
+Scope
+shortlist, print their profile, update its own profile etc. Admin can manage site by verifying users,
+
+
+
+
+post news, do master form data entries, etc. This site have facility like bulk mailing ,
+
+
+
+
+matchmaking  etc.
+
+
+
+
+
+
+Requirement Gathering
+
+
+
+
+
+   Designing of various Forms from Wireframes.
+
+
+
+Role:
+
+
+Planning, Development.
+
+
+
+
+
+
+Support to Users
+
+
+
+
+
+
+
+
+
+
+
+
+   Maintenance and Updating of Projects.
+
+
+
+IV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Name
+
+Xplore logic systems Pvt ltd (Pune)
+
+
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+Store Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+Team Size
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+ASP.NET  with VB.NET, MS-Access
+
+
+
+
+
+
+
+
+
+
+
+
+Scope:
+
+
+The objective of this project is store management system for mechanical companies as
+
+
+
+
+
+
+
+well as stores. This system consists of Inward Registration of Item with their group and
+
+
+
+
+
+
+
+categories. MRN Register and Issued. Material Stock report and Shortage stock report.
+
+
+
+
+Role:
+
+
+
+Development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V.
+
+
+
+
+
+
+
+
+
+Company Name
+
+Xplore logic systems Pvt ltd (Pune)
+
+
+
+
+
+
+
+
+
+
+
+
+Project Name
+
+Lead Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Position
+
+Software Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform & Skills:
+
+ASP.NET  with C#, Sql Server 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+This software enables users to view and update/upload catalogues and knowledge sharing
+
+
+
+
+Scope:
+
+documents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role:
+
+
+
+Development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ganesh Khare

@@ -1,0 +1,264 @@
+
+
+
+                                                                RAHUL NAIR
+
+Mobile : +91-7718996859                                                                                                           E-Mail: rahulnr20@yahoo.in
+                                                                                                LinkedIn: https://www.linkedin.com/in/rahul-nair-778b3692
+
+SUMMARY
+
+Working as a Software engineer at Angel Broking Pvt. Ltd and having proficient in development with almost 4 years of progressive experience in requirement gathering, design, development and documentation of Enterprise applications using Microsoft technologies. I’m proactive with ability to maintain the progress of the assignments, involved in transition of applications and meeting deadlines….
+…
+	•	Experienced in Web & Mobile based applications.
+	•	Skilled in Requirement Specific Documentation.
+	•	Skilled in Code Profiling and query optimization.
+	•	Good Knowledge of handling Application development and Application Management activities.
+	•	Good understanding of relational database management systems and extensively worked on Table design using visual studio for the schema development.
+	•	Rich experience in project transition.
+	•	Experienced in ERP, CRM and HRM domain.
+	•	A beginner in learning and implementing Angular JS basics.
+	•	Performed Unit Testing for all units in developed pages. 
+
+
+PROFESSIONAL EXPERIENCE
+
+Duration
+Organization
+Role
+Feb 2014 – Till date
+Angel Broking Private Ltd,
+Mumbai
+Software Engineer
+Feb 2013- Feb 2014
+Acidaes Solutions Private Ltd,
+Mumbai
+Software Engineer
+Nov 2012 – Feb 2013
+Preside Systems Private Ltd,
+Mumbai
+Software Engineer
+
+
+
+PROFESSIONAL QUALIFICATION
+
+Degree
+Course
+University
+Grade
+Pass out year
+B.E 
+Information Technology
+University of Pune
+61%
+2012
+H.S.C
+Science
+MHSCE Pune
+70%
+2008
+S.S.C
+Secondary Education
+C.B.S.E
+79%
+2006
+
+
+
+ TECHNICAL SKILLS
+
+Programming Languages/Technologies
+C#, VB.net, MVC 5.0,Entity Framework 6.0, LINQ, Agile methodologies, Ado.net, AJAX, C,C++, OOPS ,HTML 5,CSS 3, VSS.
+.NET Framework
+ASP.Net 4.5,4.0,3.5,2.0
+Services
+WCF 4.0, Web Service.
+RDBMS
+MS SQL Server 2005/2008,2012,2014 -SSRS, MYSQL, MS Access, and Oracle 11 g etc.
+Business Intelligence
+Sql Server Integration Services (SSIS),Sql server reporting services(SSRS).
+Scripting Language
+Java Script, Angular JS, Jquery, Jquery UI plug-in
+Operating System
+MS Windows (NT, XP, 7, 2000), UNIX, LINUX etc.
+Domain
+ERP, CRM, HRM.
+Testing
+Unit Testing-NUnit Framework.
+
+OTHER ACHIEVMENTS
+
+	•	Appreciation from Top Management for exceptional performance and lasting contribution in the “FITEX” product development for 48 fitness at Angel Broking.
+	•	CFO appreciation for outstanding contribution and fast delivery of the “Budget Provisioning Module” within the IOVMS system which marked a huge business profit for the organization as it was implemented within the organization for the first time.
+
+PROJECTS DESCRIPTION 
+
+
+1.Inward Outward Vendor Management System(IOVMS)									
+   Duration	: February 2015 – Till date			
+   Team Size	: 3
+   Role		:  Software Developer, Requirement gathering, deployment, Optimization and enhancements.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Ado.NET, JavaScript.	
+   Website URL	:  www.harmony.angeltrade.com
+
+  Responsibilities include:
+	•	Leading the team. 
+	•	Designing tables, stored procedures & query optimization.
+	•	Implementing 3 layer Architecture
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Creating documentation for the functionality developed.
+	•	Agile Methodology
+	•	Deployment and troubleshooting.
+
+Description	: An inward outward vendor management system (VMS) is an Internet-enabled, often Web-based application that acts as a mechanism for business to manage and procure staffing services – temporary, and, in some cases, permanent placement services – as well as outside contract or contingent labor. Typical features of a VMS application include order distribution, consolidated billing and significant enhancements in reporting capability that outperforms manual systems and processes.
+Recently developed “Budget Provisioning module and Petty Cash Request Automation” was one our best achievements at Angel Broking.
+
+The application is launched on the HR Portal of Organization.
+
+
+
+2.New Harmony Revamp
+									
+   Duration	: September 2014 - January 2015.			
+   Team Size	: 4
+   Role		:  Software Developer.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Asp.NET MVC, MVC4, Jquery, Jquery UI plug-in.	
+   Website URL	:  www.harmony.angeltrade.com
+
+  Responsibilities include:
+	•	Leading the team. 
+	•	Designing tables, stored procedures & query optimization.
+	•	Implementing Repository pattern.
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Creating documentation for the functionality developed.
+	•	Agile Methodology
+	•	Deployment and troubleshooting.
+	
+Description	: An HR Portal which is an internal HR homepage where employees can access HR-related information such as employee handbook, safety manual, policies, forms, and benefit summaries. 
+The mobile version of the HR Portal has been developed using Asp.NET MVC and HTML5 and it has been successfully deployed and is in current use.
+IOVMS invoice recommendation and approval facilities are also incorporated on the mobile platform.
+The application is launched as HR Portal of Organization.
+
+	
+
+3.Performance Management System(PMS/KPA)									
+   Duration	: March 2014 – August 2014			
+   Team Size	: 3
+   Role		:  Software Developer.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Ado.NET.
+   Website URL	:  www.harmony.angeltrade.com
+	
+  Responsibilities include:
+	•	Leading the team. 
+	•	Designing tables, stored procedures & query optimization.
+	•	Implementing 3 tier Architecture
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Creating documentation for the functionality developed.
+	•	Agile Methodology (Daily Scrums)
+	•	Deployment and troubleshooting.
+
+Description	: Performance management is the systematic process by which the Department of Commerce involves its employees, as individuals and members of a group, in improving organizational effectiveness in the accomplishment of agency mission and goals.
+The application is launched on the HR Portal of Organization.
+
+
+4. 48 Fitness (Get Going-Fitex)
+					
+   Duration	: November 2015 – January 2016.			
+   Team Size	: 4
+   Role		:  Software Developer, Requirement gathering, deployment, Optimization and enhancements.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Asp.NET MVC, MVC4, Jquery, Jquery UI plug-in.	
+   Responsibilities include: 
+	•	Coordinating with client and related parties for query resolution related to tickets and incidents with highest criticality.
+	•	Discussion with business and requirement owners for requirements analysis and design
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Validation testing.
+	•	Deployment and troubleshooting. 
+ Description	: Involved in designing and coding a fully fledged Gym application for gym members for tracking the overall workouts from basic to the advanced level. The application also suggests and predicts the future exercises to the gym members based on their current workout schedules.
+A new product called “Fitex” has been launched that has been installed at 48 fitness gym location on a Touch screen TV wherein gym members can login and check out workout schedules and also could collect printouts of the workout on the go. 
+
+Fitex was one of our best achievements at Angel Broking.
+
+5. Enterprise Resource Planning (ERP system-Wikas Metal Works)	
+					
+   Duration	: November 2012 – January 2013.			
+   Team Size	: 6
+   Role		:  Team Member, Business logic and services writing.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Ado.NET, Javascript, Telerik Asp.NET controls, Kendo UI.
+   Responsibilities include: 
+	•	Coordinating with client and related parties for query resolution related to tickets and incidents with highest criticality.
+	•	Discussion with business and requirement owners for requirements analysis and design
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Validation testing.
+	•	Deployment and troubleshooting. 
+ Description	: Involved in designing and coding a fully fledged ERP application for manufacturing sector for tracking the overall workflow in the company and also observing the smoothness and flexibility in the work process.Involved in coding the Sales, Purchase, Banking and Account modules of the ERP application.
+
+6. DBA Tracker	
+					
+   Duration	: February 2014 – March 2014.			
+   Team Size	: 3
+   Role		:  Team Member, Business logic and services writing, Sql developer.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Ado.NET, JavaScript.
+   Responsibilities include: 
+	•	Discussion with business and requirement owners for requirements analysis and design
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Validation testing.
+	•	Deployment and troubleshooting. 
+ Description	: Software application for internal DBA team use.Application involving entry of new issues/requests into the system, allocation of the same to other dba's and also providing MIS regarding the current status of the issues/requests in the system.Application has been deployed successfully and is in use now.
+
+
+7. CRMNext	
+					
+   Duration	: February 2013 – February 2014.			
+   Team Size	: 5
+   Role		:  Team Member, Business logic and services writing, Sql developer.
+   Technologies	: Asp.NET 4.0, SQL Server 2008, Ado.NET, JavaScript.
+   Website URL	:  www.crmnext.com
+
+   Responsibilities include: 
+	•	Discussion with business and requirement owners for requirements analysis and design
+	•	Developing the web pages and the business logic.
+	•	Unit testing & code reviewing.
+	•	Validation testing.
+	•	Deployment and troubleshooting. 
+ Description	: CRMNext application uses technology to organize, automate and synchronize business processes for an organization’s interactions with leads, customers and partners. The benefits of CRM solutions include faster lead conversions, accurate sales predictions, and efficient customer services, productive collaborations with partners, knowledge management and real-time analytics.
+
+Clients     	: HDFC Bank, Fullerton India, UTI,BFL, Max Life Insurance, National Bank of Fujairah(Dubai).
+	
+
+
+PERSONAL DETAIL
+
+Name
+Rahul Raghunathan Nair
+Father’s Name
+Mr. Raghunathan Nair
+Mother’s Name
+Mrs. Geetha Nair
+Notice Period
+1 Month
+Date of Birth
+11- Feb- 1991
+Passport No. 
+K4124274
+PAN
+APGPN1288J
+Marital Status
+Single
+Nationality
+Indian
+Interest
+Exploring new innovations, technological updates, visiting new places
+Present Address
+Type-3 Room No 26 E.S.I.C Quarters, M.I.D.C, Andheri (E), Mumbai-400093.                 
+
+
+
+									(Rahul Nair)
+												          Mumbai

@@ -1,0 +1,2485 @@
+<lists>
+  <degrees>
+    <d key="B.Arch" level="1">
+      <v>Bachelor in architecture</v>
+      <v>Bachelor of architecture</v>
+      <v>Bachelors in architecture</v>
+      <v>B.Arch</v>
+    </d>
+    <d key="B.C.A." level="1">
+      <v>B.C.A.</v>
+    </d>
+    <d key="B.C.S." level="1">
+      <v>B.C.S.</v>
+      <v>Bachelor Of Computer Science</v>
+      <v>B.C.S</v>
+      <v>bca</v>
+    </d>
+    <d key="B.Com" level="1">
+      <v>Bachelors in commerce</v>
+      <v>Bachelor in commerce</v>
+      <v>Bachelor of commerce</v>
+      <v>B.Com</v>
+      <v>B. Com</v>
+      <v>BCOM</v>
+      <v>Bcom</v>
+      <v>B.COM</v>
+      <v>B Com.</v>
+      <v>B.Com.</v>
+      <v>B. Com.</v>
+      <v>B COM</v>
+      <v>B.com</v>
+    </d>
+    <d key="B.D.S." level="1">
+      <v>Bachelor in dental science</v>
+      <v>Bachelor of dental science</v>
+      <v>Bachelors in dental science</v>
+      <v>B.D.S.</v>
+      <v>BDS</v>
+      <v>B.D.S</v>
+    </d>
+    <d key="B.E." level="1">
+      <v>Bachelors in engineering</v>
+      <v>Bachelors in engg.</v>
+      <v>Bachelor in engineering</v>
+      <v>Bachelor in engg.</v>
+      <v>Bachelor of engineering</v>
+      <v>Bachelor of engg.</v>
+      <v>B.E.</v>
+      <v>B.E</v>
+      <v>B. E.</v>
+      <v>BE</v>
+    </d>
+    <d key="B.Ed" level="1">
+      <v>Bachelor in education</v>
+      <v>Bachelors in education</v>
+      <v>Bachelor of education</v>
+      <v>B.Ed</v>
+    </d>
+    <d key="B.Pharm" level="1">
+      <v>Bachelor in pharmacy</v>
+      <v>Bachelor of pharmacy</v>
+      <v>Bachelors in pharmacy</v>
+      <v>B.Pharm</v>
+      <v>B.Pharma</v>
+    </d>
+    <d key="B.Planning" level="1">
+      <v>Bachelor in planning</v>
+      <v>Bachelor of planning</v>
+      <v>B.Planning</v>
+      <v>B Planning</v>
+      <v>B.Plan.</v>
+    </d>
+    <d key="B.Sc" level="1">
+      <v>Bachelors in science</v>
+      <v>Bachelor in science</v>
+      <v>Bachelor of science</v>
+      <v>B.Sc</v>
+      <v>Bsc</v>
+      <v>BSc</v>
+      <v>B Sc.</v>
+      <v>B.Sc.</v>
+      <v>B Sc</v>
+      <v>B.sc</v>
+    </d>
+    <d key="B.Tech." level="1">
+      <v>Bachelors in technology</v>
+      <v>Bachelors in tech.</v>
+      <v>Bachelor in technology</v>
+      <v>Bachelor in tech.</v>
+      <v>Bachelor of technology</v>
+      <v>Bachelor of tech.</v>
+      <v>B.Tech.</v>
+      <v>B.Tech</v>
+      <v>B. Tech</v>
+      <v>B.TECH</v>
+      <v>B.TECH.</v>
+      <v>B. TECH</v>
+      <v>BTech</v>
+      <v>B-TECH</v>
+      <v>B TECH</v>
+    </d>
+    <d key="BGL" level="1">
+      <v>Bachelor of General Law</v>
+      <v>Bachelor in General Law</v>
+      <v>BGL</v>
+    </d>
+    <d key="BHM" level="1">
+      <v>Bachelor in Hotel Management</v>
+      <v>BHM</v>
+      <v>B H M</v>
+    </d>
+    <d key="BL/LLB" level="1">
+      <v>Bachelor in Law</v>
+      <v>Bachelor of Law</v>
+      <v>BL/LLB</v>
+      <v>LLB</v>
+      <v>L L B</v>
+    </d>
+    <d key="BVSC" level="1">
+      <v>Bachelor in Veterinary Science</v>
+      <v>Bachelor of Veterinary Science</v>
+      <v>BVSC</v>
+    </d>
+    <d key="C.A." level="1">
+      <v>Chartered Accountant</v>
+      <v>Chartered Accountancy</v>
+      <v>C.A.</v>
+      <v>C.A</v>
+    </d>
+    <d key="C.S." level="1">
+      <v>Company Secretary</v>
+      <v>C.S.</v>
+      <v>C.S</v>
+    </d>
+    <d key="CA" level="1">
+      <v>CA</v>
+    </d>
+    <d key="Diploma Course in Culture and Tourism" level="1">
+      <v>Diploma Course in Culture and Tourism</v>
+    </d>
+    <d key="Diploma Course in Multimodal Transport &amp;amp;amp;amp;amp; Logistics Management" level="1">
+      <v>Diploma Course in Multimodal Transport &amp;amp;amp;amp;amp; Logistics Management</v>
+    </d>
+    <d key="Diploma Course in Rail Transport &amp;amp;amp;amp;amp; Management" level="1">
+      <v>Diploma Course in Rail Transport &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="Diploma Course in Retail Management" level="1">
+      <v>Diploma Course in Retail Management</v>
+    </d>
+    <d key="Diploma course in Transport Economics &amp;amp;amp;amp;amp; Management" level="1">
+      <v>Diploma course in Transport Economics &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="Diploma in Accommodation Operation" level="1">
+      <v>Diploma in Accommodation Operation</v>
+    </d>
+    <d key="Diploma in Accounting" level="1">
+      <v>Diploma in Accounting</v>
+    </d>
+    <d key="Diploma in Accounting and Taxation" level="1">
+      <v>Diploma in Accounting and Taxation</v>
+    </d>
+    <d key="Diploma in Acting" level="1">
+      <v>Diploma in Acting</v>
+    </d>
+    <d key="Diploma in Administrative Drafting &amp;amp;amp;amp;amp; Reporting in Hindi" level="1">
+      <v>Diploma in Administrative Drafting &amp;amp;amp;amp;amp; Reporting in Hindi</v>
+    </d>
+    <d key="Diploma in Anesthesia" level="1">
+      <v>Diploma in Anesthesia</v>
+      <v>D.A</v>
+    </d>
+    <d key="Diploma in Apparel Merchanding &amp;amp;amp;amp;amp; Marketing " level="1">
+      <v>Diploma in Apparel Merchanding &amp;amp;amp;amp;amp; Marketing</v>
+      <v>AMM</v>
+    </d>
+    <d key="Diploma in Applied Design" level="1">
+      <v>Diploma in Applied Design</v>
+    </d>
+    <d key="Diploma in Applied Electronics" level="1">
+      <v>Diploma in Applied Electronics</v>
+    </d>
+    <d key="Diploma in Archives &amp;amp;amp;amp;amp; Documentation" level="1">
+      <v>Diploma in Archives &amp;amp;amp;amp;amp; Documentation</v>
+    </d>
+    <d key="Diploma in Audio &amp;amp;amp;amp;amp; Video Production" level="1">
+      <v>Diploma in Audio &amp;amp;amp;amp;amp; Video Production</v>
+    </d>
+    <d key="Diploma in Automobile Engineering" level="1">
+      <v>Diploma in Automobile Engineering</v>
+    </d>
+    <d key="Diploma in Ayurvedic Medicine" level="1">
+      <v>Diploma in Ayurvedic Medicine</v>
+      <v>D.Ay.M</v>
+    </d>
+    <d key="Diploma in Banking and Finance" level="1">
+      <v>Diploma in Banking and Finance</v>
+    </d>
+    <d key="Diploma in Basic WebTechnology" level="1">
+      <v>Diploma in Basic WebTechnology</v>
+    </d>
+    <d key="Diploma in Chemical Engineering" level="1">
+      <v>Diploma in Chemical Engineering</v>
+    </d>
+    <d key="Diploma in Chemical Process, Instrumentation and Cltr" level="1">
+      <v>Diploma in Chemical Process, Instrumentation and Cltr</v>
+    </d>
+    <d key="Diploma in Chest Diseases" level="1">
+      <v>Diploma in Chest Diseases</v>
+      <v>D.C.D</v>
+    </d>
+    <d key="Diploma in Child Health" level="1">
+      <v>Diploma in Child Health</v>
+      <v>D.C.H</v>
+    </d>
+    <d key="Diploma in Cinematography" level="1">
+      <v>Diploma in Cinematography</v>
+    </d>
+    <d key="Diploma in Civil Engineering" level="1">
+      <v>Diploma in Civil Engineering</v>
+    </d>
+    <d key="Diploma in Clinical Pathology" level="1">
+      <v>Diploma in Clinical Pathology</v>
+      <v>D.C.P</v>
+    </d>
+    <d key="Diploma in Clinical Pathology &amp;amp;amp;amp;amp; Microbiology" level="1">
+      <v>Diploma in Clinical Pathology &amp;amp;amp;amp;amp; Microbiology</v>
+      <v>D.C.P.M</v>
+    </d>
+    <d key="Diploma in Communication &amp;amp;amp;amp;amp; Media Development" level="1">
+      <v>Diploma in Communication &amp;amp;amp;amp;amp; Media Development</v>
+    </d>
+    <d key="Diploma in Communication Engineering" level="1">
+      <v>Diploma in Communication Engineering</v>
+    </d>
+    <d key="Diploma in communication, journalism and public relations" level="1">
+      <v>Diploma in communication, journalism and public relations</v>
+    </d>
+    <d key="Diploma in Communicative English" level="1">
+      <v>Diploma in Communicative English</v>
+    </d>
+    <d key="Diploma in Comp. Hardware Maintenance &amp;amp;amp;amp;amp; Network Tech." level="1">
+      <v>Diploma in Comp. Hardware Maintenance &amp;amp;amp;amp;amp; Network Tech.</v>
+    </d>
+    <d key="Diploma in Computer Animation" level="1">
+      <v>Diploma in Computer Animation</v>
+    </d>
+    <d key="Diploma in Computer Applications" level="1">
+      <v>Diploma in Computer Applications</v>
+      <v>Diploma in Computer Application</v>
+      <v>D.C.A.</v>
+      <v>D.C.A</v>
+    </d>
+    <d key="Diploma in Computer Engineering" level="1">
+      <v>Diploma in Computer Engineering</v>
+    </d>
+    <d key="Diploma in Computer Language" level="1">
+      <v>Diploma in Computer Language</v>
+    </d>
+    <d key="Diploma in Computer Programming" level="1">
+      <v>Diploma in Computer Programming</v>
+    </d>
+    <d key="Diploma in Computer Technology" level="1">
+      <v>Diploma in Computer Technology</v>
+    </d>
+    <d key="Diploma in Computers in Office Management" level="1">
+      <v>Diploma in Computers in Office Management</v>
+    </d>
+    <d key="Diploma in Construction Mgt." level="1">
+      <v>Diploma in Construction Mgt.</v>
+    </d>
+    <d key="Diploma in Cookery" level="1">
+      <v>Diploma in Cookery</v>
+    </d>
+    <d key="Diploma in Creative Writing in English" level="1">
+      <v>Diploma in Creative Writing in English</v>
+    </d>
+    <d key="Diploma in Creative Writing in Hindi" level="1">
+      <v>Diploma in Creative Writing in Hindi</v>
+    </d>
+    <d key="Diploma in Cruise Galley Operations" level="1">
+      <v>Diploma in Cruise Galley Operations</v>
+    </d>
+    <d key="Diploma in Dairy Mgt." level="1">
+      <v>Diploma in Dairy Mgt.</v>
+    </d>
+    <d key="Diploma in Dermatology &amp;amp;amp;amp;amp; Sexually Transmitted Diseases" level="1">
+      <v>Diploma in Dermatology &amp;amp;amp;amp;amp; Sexually Transmitted Diseases</v>
+      <v>D.D. &amp;amp;amp;amp;amp; S.T.D</v>
+    </d>
+    <d key="Diploma in Dermatology and Venereal Diseases" level="1">
+      <v>Diploma in Dermatology and Venereal Diseases</v>
+      <v>D.D.V.D</v>
+    </d>
+    <d key="Diploma in Dietetics and Public Health Nutrition " level="1">
+      <v>Diploma in Dietetics and Public Health Nutrition</v>
+      <v>DDPHN</v>
+    </d>
+    <d key="Diploma in Direction" level="1">
+      <v>Diploma in Direction</v>
+    </d>
+    <d key="Diploma in Direction &amp;amp;amp;amp;amp; Screen Play Writing" level="1">
+      <v>Diploma in Direction &amp;amp;amp;amp;amp; Screen Play Writing</v>
+    </d>
+    <d key="Diploma in Direction, Acting, Videography, Film Editing" level="1">
+      <v>Diploma in Direction, Acting, Videography, Film Editing</v>
+    </d>
+    <d key="Diploma in Dramatic Arts" level="1">
+      <v>Diploma in Dramatic Arts</v>
+    </d>
+    <d key="Diploma in Early Childhood Care and Education" level="1">
+      <v>Diploma in Early Childhood Care and Education</v>
+    </d>
+    <d key="Diploma in Electrical Engineering" level="1">
+      <v>Diploma in Electrical Engineering</v>
+    </d>
+    <d key="Diploma in Electronics and Communication Engineering" level="1">
+      <v>Diploma in Electronics and Communication Engineering</v>
+    </d>
+    <d key="Diploma in Electronics and TeleCommunication Engineering" level="1">
+      <v>Diploma in Electronics and TeleCommunication Engineering</v>
+    </d>
+    <d key="Diploma in Export &amp;amp;amp;amp;amp; Import Management" level="1">
+      <v>Diploma in Export &amp;amp;amp;amp;amp; Import Management</v>
+      <v>DEIM</v>
+    </d>
+    <d key="Diploma in Family Planning" level="1">
+      <v>Diploma in Family Planning</v>
+      <v>D.F.P</v>
+    </d>
+    <d key="Diploma in Fashion Design" level="1">
+      <v>Diploma in Fashion Design</v>
+    </d>
+    <d key="Diploma in Fashion Design &amp;amp;amp;amp;amp; Boutique Management" level="1">
+      <v>Diploma in Fashion Design &amp;amp;amp;amp;amp; Boutique Management</v>
+    </d>
+    <d key="Diploma in Film Directing, Film Acting" level="1">
+      <v>Diploma in Film Directing, Film Acting</v>
+    </d>
+    <d key="Diploma in Film Making" level="1">
+      <v>Diploma in Film Making</v>
+    </d>
+    <d key="Diploma in Film Processing" level="1">
+      <v>Diploma in Film Processing</v>
+    </d>
+    <d key="Diploma in Film Studies" level="1">
+      <v>Diploma in Film Studies</v>
+    </d>
+    <d key="Diploma in Financial Management" level="1">
+      <v>Diploma in Financial Management</v>
+    </d>
+    <d key="Diploma in folkloristic and journalism" level="1">
+      <v>Diploma in folkloristic and journalism</v>
+    </d>
+    <d key="Diploma in Food &amp;amp;amp;amp;amp; beverage Service" level="1">
+      <v>Diploma in Food &amp;amp;amp;amp;amp; beverage Service</v>
+    </d>
+    <d key="Diploma in Food Production " level="1">
+      <v>Diploma in Food Production</v>
+      <v>DFP</v>
+    </d>
+    <d key="Diploma in Freehand Animation" level="1">
+      <v>Diploma in Freehand Animation</v>
+    </d>
+    <d key="Diploma in Front office / Reception Operation" level="1">
+      <v>Diploma in Front office / Reception Operation</v>
+    </d>
+    <d key="Diploma in Fruit Production" level="1">
+      <v>Diploma in Fruit Production</v>
+    </d>
+    <d key="Diploma in Functional Arabic" level="1">
+      <v>Diploma in Functional Arabic</v>
+    </d>
+    <d key="Diploma in Fundamental &amp;amp;amp;amp;amp; Audio Visual Education" level="1">
+      <v>Diploma in Fundamental &amp;amp;amp;amp;amp; Audio Visual Education</v>
+    </d>
+    <d key="Diploma in Garment Manufacturing Technology " level="1">
+      <v>Diploma in Garment Manufacturing Technology</v>
+      <v>GMT</v>
+    </d>
+    <d key="Diploma in Garment Technology" level="1">
+      <v>Diploma in Garment Technology</v>
+    </d>
+    <d key="Diploma in General Electronics" level="1">
+      <v>Diploma in General Electronics</v>
+    </d>
+    <d key="Diploma in Gynaecology and Obstetrics" level="1">
+      <v>Diploma in Gynaecology and Obstetrics</v>
+      <v>D.G.O</v>
+    </d>
+    <d key="Diploma in Health Education" level="1">
+      <v>Diploma in Health Education</v>
+      <v>D.H.S</v>
+    </d>
+    <d key="Diploma in Health Statistics" level="1">
+      <v>Diploma in Health Statistics</v>
+      <v>D.H.S</v>
+    </d>
+    <d key="Diploma in HIV and Family Education" level="1">
+      <v>Diploma in HIV and Family Education</v>
+    </d>
+    <d key="Diploma in Homoeopathic Medicine &amp;amp;amp;amp;amp; Surgery" level="1">
+      <v>Diploma in Homoeopathic Medicine &amp;amp;amp;amp;amp; Surgery</v>
+      <v>D.H.M.S</v>
+    </d>
+    <d key="Diploma in Horticulture Nursery Mgt" level="1">
+      <v>Diploma in Horticulture Nursery Mgt</v>
+    </d>
+    <d key="Diploma in Hospital Administration" level="1">
+      <v>Diploma in Hospital Administration</v>
+    </d>
+    <d key="Diploma in Hospitality Management" level="1">
+      <v>Diploma in Hospitality Management</v>
+    </d>
+    <d key="Diploma in Hotel &amp;amp;amp;amp;amp; Tourism Management" level="1">
+      <v>Diploma in Hotel &amp;amp;amp;amp;amp; Tourism Management</v>
+    </d>
+    <d key="Diploma in Hotel Management" level="1">
+      <v>Diploma in Hotel Management</v>
+    </d>
+    <d key="Diploma in Hotel Operation, Catering &amp;amp;amp;amp;amp; Applied Nutrition" level="1">
+      <v>Diploma in Hotel Operation, Catering &amp;amp;amp;amp;amp; Applied Nutrition</v>
+    </d>
+    <d key="Diploma in Industrial Electronics" level="1">
+      <v>Diploma in Industrial Electronics</v>
+    </d>
+    <d key="Diploma in Industrial Health" level="1">
+      <v>Diploma in Industrial Health</v>
+      <v>D.I.H</v>
+    </d>
+    <d key="Diploma in Industrial Hygiene" level="1">
+      <v>Diploma in Industrial Hygiene</v>
+    </d>
+    <d key="Diploma in Industrial Pollution &amp;amp;amp;amp;amp; Control" level="1">
+      <v>Diploma in Industrial Pollution &amp;amp;amp;amp;amp; Control</v>
+    </d>
+    <d key="Diploma in Industrial Safety" level="1">
+      <v>Diploma in Industrial Safety</v>
+    </d>
+    <d key="Diploma in Information Sciences" level="1">
+      <v>Diploma in Information Sciences</v>
+    </d>
+    <d key="Diploma in Information Technology" level="1">
+      <v>Diploma in Information Technology</v>
+    </d>
+    <d key="Diploma in Instrumentation Technology" level="1">
+      <v>Diploma in Instrumentation Technology</v>
+    </d>
+    <d key="Diploma in Insurance" level="1">
+      <v>Diploma in Insurance</v>
+    </d>
+    <d key="Diploma in Interior Design" level="1">
+      <v>Diploma in Interior Design</v>
+    </d>
+    <d key="Diploma in Interior Design and Decoration" level="1">
+      <v>Diploma in Interior Design and Decoration</v>
+    </d>
+    <d key="Diploma in interior design and decoration" level="1">
+      <v>Diploma in interior design and decoration</v>
+    </d>
+    <d key="Diploma in Interior Space Design and Management" level="1">
+      <v>Diploma in Interior Space Design and Management</v>
+    </d>
+    <d key="Diploma in International Business Management" level="1">
+      <v>Diploma in International Business Management&amp;amp;amp;amp;gt;</v>
+    </d>
+    <d key="Diploma in Journalism" level="1">
+      <v>Diploma in Journalism</v>
+    </d>
+    <d key="Diploma in Kannada" level="1">
+      <v>Diploma in Kannada</v>
+    </d>
+    <d key="Diploma in Labour Law" level="1">
+      <v>Diploma in Labour Law</v>
+    </d>
+    <d key="Diploma in Law of Taxation" level="1">
+      <v>Diploma in Law of Taxation</v>
+    </d>
+    <d key="Diploma in Leather Technology" level="1">
+      <v>Diploma in Leather Technology</v>
+    </d>
+    <d key="Diploma in Leather Technology " level="1">
+      <v>Diploma in Leather Technology</v>
+    </d>
+    <d key="Diploma in Library &amp;amp;amp;amp;amp; Information Science" level="1">
+      <v>Diploma in Library &amp;amp;amp;amp;amp; Information Science</v>
+    </d>
+    <d key="Diploma in Library and Information Sciences" level="1">
+      <v>Diploma in Library and Information Sciences</v>
+    </d>
+    <d key="Diploma in Library Science" level="1">
+      <v>Diploma in Library Science</v>
+      <v>DLSc</v>
+    </d>
+    <d key="Diploma in Licentiate in Tropical Medicine &amp;amp;amp;amp;amp; Hygiene" level="1">
+      <v>Diploma in Licentiate in Tropical Medicine &amp;amp;amp;amp;amp; Hygiene</v>
+      <v>D.L.T.M &amp;amp;amp;amp;amp; H.</v>
+    </d>
+    <d key="Diploma in Maintenance Engg. &amp;amp;amp;amp;amp; Mgt." level="1">
+      <v>Diploma in Maintenance Engg. &amp;amp;amp;amp;amp; Mgt.</v>
+    </d>
+    <d key="Diploma in Management" level="1">
+      <v>Diploma in Management</v>
+    </d>
+    <d key="Diploma in mass communication and journalism" level="1">
+      <v>Diploma in mass communication and journalism</v>
+    </d>
+    <d key="Diploma in Mass Media" level="1">
+      <v>Diploma in Mass Media</v>
+    </d>
+    <d key="Diploma in MassCommunication" level="1">
+      <v>Diploma in MassCommunication</v>
+      <v>DMC</v>
+    </d>
+    <d key="Diploma in Mechanical Engineering " level="1">
+      <v>Diploma in Mechanical Engineering</v>
+    </d>
+    <d key="Diploma in Mechanical Engineering" level="1">
+      <v>Diploma in Mechanical Engineering</v>
+    </d>
+    <d key="Diploma in Media Communication" level="1">
+      <v>Diploma in Media Communication</v>
+    </d>
+    <d key="Diploma in Media Planning and Buying" level="1">
+      <v>Diploma in Media Planning and Buying</v>
+    </d>
+    <d key="Diploma in Medical Laboratory" level="1">
+      <v>Diploma in Medical Laboratory</v>
+      <v>D.M.L.T</v>
+    </d>
+    <d key="Diploma in Medical Laboratory Technology" level="1">
+      <v>Diploma in Medical Laboratory Technology</v>
+    </d>
+    <d key="Diploma in Medical Radiation Therapy" level="1">
+      <v>Diploma in Medical Radiation Therapy</v>
+      <v>D.M.R.T</v>
+    </d>
+    <d key="Diploma in Medical Radio Diagnosis" level="1">
+      <v>Diploma in Medical Radio Diagnosis</v>
+      <v>D.M.R.D</v>
+    </d>
+    <d key="Diploma in Medical Radiology" level="1">
+      <v>Diploma in Medical Radiology</v>
+      <v>D.M.R</v>
+    </d>
+    <d key="Diploma in Medical Radiology &amp;amp;amp;amp;amp; Electrology" level="1">
+      <v>Diploma in Medical Radiology &amp;amp;amp;amp;amp; Electrology</v>
+      <v>D.M.R.E</v>
+    </d>
+    <d key="Diploma in Motion Picture Photography" level="1">
+      <v>Diploma in Motion Picture Photography</v>
+    </d>
+    <d key="Diploma in Mushroom Technology" level="1">
+      <v>Diploma in Mushroom Technology</v>
+    </d>
+    <d key="diploma in Nuclear Medicine Technology" level="1">
+      <v>diploma in Nuclear Medicine Technology</v>
+    </d>
+    <d key="Diploma in Nursing Education and Administration" level="1">
+      <v>Diploma in Nursing Education and Administration</v>
+    </d>
+    <d key="Diploma in Office Automation" level="1">
+      <v>Diploma in Office Automation</v>
+    </d>
+    <d key="Diploma in Office Management &amp;amp;amp;amp;amp; House Keeping" level="1">
+      <v>Diploma in Office Management &amp;amp;amp;amp;amp; House Keeping</v>
+    </d>
+    <d key="Diploma in Operation Research" level="1">
+      <v>Diploma in Operation Research</v>
+    </d>
+    <d key="Diploma in Ophthalmic Medicine and Surgery" level="1">
+      <v>Diploma in Ophthalmic Medicine and Surgery</v>
+      <v>D.O.M.S</v>
+    </d>
+    <d key="Diploma in Ophthalmology" level="1">
+      <v>Diploma in Ophthalmology</v>
+      <v>D.O</v>
+    </d>
+    <d key="Diploma in Ophthalmology" level="1">
+      <v>Diploma in Ophthalmology</v>
+      <v>D.O</v>
+    </d>
+    <d key="Diploma in Optometry" level="1">
+      <v>Diploma in Optometry</v>
+    </d>
+    <d key="Diploma in Orthopedics" level="1">
+      <v>Diploma in Orthopedics</v>
+      <v>D.Orth/Ortho</v>
+    </d>
+    <d key="Diploma in Paediatrics" level="1">
+      <v>Diploma in Paediatrics</v>
+      <v>D.Paed</v>
+    </d>
+    <d key="Diploma in Pattern Making &amp;amp;amp;amp;amp; Garment Contruction " level="1">
+      <v>Diploma in Pattern Making &amp;amp;amp;amp;amp; Garment Contruction</v>
+      <v>PMGC</v>
+    </d>
+    <d key="Diploma in Photography" level="1">
+      <v>Diploma in Photography</v>
+    </d>
+    <d key="Diploma in Plastic Technology" level="1">
+      <v>Diploma in Plastic Technology</v>
+    </d>
+    <d key="Diploma in Population and Health Mgt." level="1">
+      <v>Diploma in Population and Health Mgt.</v>
+    </d>
+    <d key="Diploma in Primary Education" level="1">
+      <v>Diploma in Primary Education</v>
+    </d>
+    <d key="Diploma in Production and Industrial Engineering" level="1">
+      <v>Diploma in Production and Industrial Engineering</v>
+    </d>
+    <d key="Diploma in Production Engineering" level="1">
+      <v>Diploma in Production Engineering</v>
+      <v>D.P.E.</v>
+    </d>
+    <d key="Diploma in Production Mgt." level="1">
+      <v>Diploma in Production Mgt.</v>
+    </d>
+    <d key="Diploma in Professional Psychology" level="1">
+      <v>Diploma in Professional Psychology</v>
+    </d>
+    <d key="Diploma in Psychiatric Social Work" level="1">
+      <v>Diploma in Psychiatric Social Work</v>
+      <v>D.P.S.W</v>
+    </d>
+    <d key="Diploma in Psychological Medicine/Diploma in Psychiatric Medicine" level="1">
+      <v>Diploma in Psychological Medicine/Diploma in Psychiatric Medicine</v>
+      <v>D.P.M</v>
+    </d>
+    <d key="Diploma in Public Relations" level="1">
+      <v>Diploma in Public Relations</v>
+    </d>
+    <d key="Diploma in Radio diagnosis" level="1">
+      <v>Diploma in Radio diagnosis</v>
+      <v>D.R.D</v>
+    </d>
+    <d key="diploma in Radiography" level="1">
+      <v>diploma in Radiography</v>
+    </d>
+    <d key="Diploma in Refrigeration &amp;amp;amp;amp;amp; Air Conditioning" level="1">
+      <v>Diploma in Refrigeration &amp;amp;amp;amp;amp; Air Conditioning</v>
+    </d>
+    <d key="Diploma in Room Division Management " level="1">
+      <v>Diploma in Room Division Management</v>
+      <v>DRDM</v>
+    </d>
+    <d key="Diploma in rural journalism" level="1">
+      <v>Diploma in rural journalism</v>
+    </d>
+    <d key="Diploma in Sales Management" level="1">
+      <v>Diploma in Sales Management</v>
+    </d>
+    <d key="Diploma in Scenic Design" level="1">
+      <v>Diploma in Scenic Design</v>
+    </d>
+    <d key="Diploma in School Management" level="1">
+      <v>Diploma in School Management</v>
+    </d>
+    <d key="Diploma in Seed Production Technology" level="1">
+      <v>Diploma in Seed Production Technology</v>
+    </d>
+    <d key="Diploma in Skin, V D &amp;amp;amp;amp;amp; Leprosy" level="1">
+      <v>Diploma in Skin, V D &amp;amp;amp;amp;amp; Leprosy</v>
+      <v>D.S.VD &amp;amp;amp;amp;amp; L</v>
+    </d>
+    <d key="Diploma in Software Basics" level="1">
+      <v>Diploma in Software Basics</v>
+    </d>
+    <d key="Diploma in Sound Recording &amp;amp;amp;amp;amp; Sound Engineering" level="1">
+      <v>Diploma in Sound Recording &amp;amp;amp;amp;amp; Sound Engineering</v>
+    </d>
+    <d key="Diploma in Statistics" level="1">
+      <v>Diploma in Statistics</v>
+    </d>
+    <d key="Diploma in Sugar Technology" level="1">
+      <v>Diploma in Sugar Technology</v>
+    </d>
+    <d key="Diploma in Television, Radio, Print and Web journalism" level="1">
+      <v>Diploma in Television, Radio, Print and Web journalism</v>
+    </d>
+    <d key="Diploma in Textile Design" level="1">
+      <v>Diploma in Textile Design</v>
+    </d>
+    <d key="Diploma in Textile Designing &amp;amp;amp;amp;amp; CAD" level="1">
+      <v>Diploma in Textile Designing &amp;amp;amp;amp;amp; CAD</v>
+    </d>
+    <d key="Diploma in Textile Processing" level="1">
+      <v>Diploma in Textile Processing</v>
+    </d>
+    <d key="Diploma in Textile Technology " level="1">
+      <v>Diploma in Textile Technology</v>
+    </d>
+    <d key="Diploma in Tourism &amp;amp;amp;amp;amp; Destination Management" level="1">
+      <v>Diploma in Tourism &amp;amp;amp;amp;amp; Destination Management</v>
+    </d>
+    <d key="Diploma in Tourism &amp;amp;amp;amp;amp; Hotel Mgt." level="1">
+      <v>Diploma in Tourism &amp;amp;amp;amp;amp; Hotel Mgt.</v>
+    </d>
+    <d key="Diploma in Tourism Management " level="1">
+      <v>Diploma in Tourism Management</v>
+      <v>DTM</v>
+    </d>
+    <d key="Diploma in Tourism Studies" level="1">
+      <v>Diploma in Tourism Studies</v>
+    </d>
+    <d key="Diploma in Travel &amp;amp;amp;amp;amp; Tourism Industry Management" level="1">
+      <v>Diploma in Travel &amp;amp;amp;amp;amp; Tourism Industry Management</v>
+    </d>
+    <d key="Diploma in Travel Tourism &amp;amp;amp;amp;amp; Airlines Management" level="1">
+      <v>Diploma in Travel Tourism &amp;amp;amp;amp;amp; Airlines Management</v>
+    </d>
+    <d key="Diploma in Tropical Medicine &amp;amp;amp;amp;amp; Hygiene" level="1">
+      <v>Diploma in Tropical Medicine &amp;amp;amp;amp;amp; Hygiene</v>
+      <v>D.T.M &amp;amp;amp;amp;amp; H</v>
+    </d>
+    <d key="Diploma in Tuberculosis and Chest Diseases" level="1">
+      <v>Diploma in Tuberculosis and Chest Diseases</v>
+      <v>D.T.C.D</v>
+    </d>
+    <d key="Diploma in TV Direction &amp;amp;amp;amp;amp; Production" level="1">
+      <v>Diploma in TV Direction &amp;amp;amp;amp;amp; Production</v>
+    </d>
+    <d key="Diploma in TV Technology" level="1">
+      <v>Diploma in TV Technology</v>
+    </d>
+    <d key="Diploma in Vegetable Production" level="1">
+      <v>Diploma in Vegetable Production</v>
+    </d>
+    <d key="Diploma in Venereology" level="1">
+      <v>Diploma in Venereology</v>
+    </d>
+    <d key="Diploma in Video Camera &amp;amp;amp;amp;amp; Lighting" level="1">
+      <v>Diploma in Video Camera &amp;amp;amp;amp;amp; Lighting</v>
+    </d>
+    <d key="Diploma in Video Editing &amp;amp;amp;amp;amp; Sound Recording" level="1">
+      <v>Diploma in Video Editing &amp;amp;amp;amp;amp; Sound Recording</v>
+    </d>
+    <d key="Diploma in Vocational Rehabilitation and Counseling" level="1">
+      <v>Diploma in Vocational Rehabilitation and Counseling</v>
+    </d>
+    <d key="Diploma in Web &amp;amp;amp;amp;amp; Multimedia Technology" level="1">
+      <v>Diploma in Web &amp;amp;amp;amp;amp; Multimedia Technology</v>
+    </d>
+    <d key="Diploma in Youth Development Work" level="1">
+      <v>Diploma in Youth Development Work</v>
+    </d>
+    <d key="FIII" level="1">
+      <v>Fellow of Insurance Institute of India</v>
+      <v>Fellow of Insurance Institute of India</v>
+      <v>FIII</v>
+      <v>F I I I</v>
+    </d>
+    <d key="ICWA" level="1">
+      <v>Institute of Cost and Works Accountant</v>
+      <v>Institute of Cost and Works Accountants</v>
+      <v>The Institute of Cost and Works Accountants of India</v>
+      <v>Institute of Cost and Works Accountants of India</v>
+      <v>ICWA</v>
+      <v>ICWAI</v>
+      <v>I C W A</v>
+      <v>I C W A I</v>
+    </d>
+    <d key="M.A." level="1">
+      <v>Masters in arts</v>
+      <v>Master in arts</v>
+      <v>Master of arts</v>
+      <v>M.A.</v>
+      <v>M.A</v>
+    </d>
+    <d key="M.Arch" level="1">
+      <v>Masters in architecture</v>
+      <v>Master in architecture</v>
+      <v>Master of architecture</v>
+      <v>M.Arch</v>
+    </d>
+    <d key="M.B.A." level="1">
+      <v>Masters in business adminisation</v>
+      <v>Masters in business administration</v>
+      <v>Masters in diploma business adminisation</v>
+      <v>Master in business adminisation</v>
+      <v>Master in business administration</v>
+      <v>Master in diploma business adminisation</v>
+      <v>Master of business adminisation</v>
+      <v>Master of business administration</v>
+      <v>Master of diploma business adminisation</v>
+      <v>Post-graduate Certificate in Business Management</v>
+      <v>M.B.A.</v>
+      <v>M. B. A.</v>
+      <v>P.D.G.M.</v>
+      <v>M.B.A</v>
+      <v>MBA</v>
+      <v>P.D.G.M</v>
+      <v>PGDM</v>
+    </d>
+    <d key="M.B.B.S." level="1">
+      <v>Bachelor of Medicine and Bachelor of Surgery</v>
+      <v>M.B.B.S.</v>
+      <v>M.B.B.S</v>
+      <v>MBBS</v>
+    </d>
+    <d key="M.C.A." level="1">
+      <v>Masters IN comuter application</v>
+      <v>Masters IN computer applications</v>
+      <v>Masters IN computer application</v>
+      <v>Masters IN computer application</v>
+      <v>MASTER IN comuter application</v>
+      <v>MASTER IN computer applications</v>
+      <v>MASTER IN computer application</v>
+      <v>MASTER IN computer application</v>
+      <v>MASTER of Computer Applications</v>
+      <v>Masters of comuter application</v>
+      <v>Masters of computer applications</v>
+      <v>Masters of computer application</v>
+      <v>Masters of computer application</v>
+      <v>M.C.A.</v>
+      <v>MCA</v>
+      <v>M.C.A</v>
+      <v>PGDCA</v>
+    </d>
+    <d key="M.Com" level="1">
+      <v>Masters in commerce</v>
+      <v>Master in commerce</v>
+      <v>Master of commerce</v>
+      <v>Master of Commerce</v>
+      <v>M.Com</v>
+      <v>M.Com.</v>
+      <v>M. Com.</v>
+      <v>M. Com</v>
+    </d>
+    <d key="M.D." level="1">
+      <v>Doctor of Medicine</v>
+      <v>M.D.</v>
+      <v>M.D</v>
+    </d>
+    <d key="M.E." level="1">
+      <v>Master of Technology</v>
+      <v>Masters in engineering</v>
+      <v>Masters in engg.</v>
+      <v>Masters in bach. engg.</v>
+      <v>Master in engineering</v>
+      <v>Master in engg.</v>
+      <v>Master in bach. engg.</v>
+      <v>Master of engineering</v>
+      <v>Master of engg.</v>
+      <v>Master of bach. engg.</v>
+      <v>M.E.</v>
+      <v>M.E</v>
+      <v>M.Tech.</v>
+      <v>M.Tech</v>
+      <v>MTech</v>
+      <v>M. Tech</v>
+    </d>
+    <d key="M.Ed" level="1">
+      <v>Masters in education</v>
+      <v>Master in education</v>
+      <v>Master of education</v>
+      <v>M.Ed</v>
+    </d>
+    <d key="M.Pharm" level="1">
+      <v>Masters in pharmacy</v>
+      <v>Master in pharmacy</v>
+      <v>Master of pharmacy</v>
+      <v>M.Pharm</v>
+    </d>
+    <d key="M.Phil" level="1">
+      <v>Masters in philosophy</v>
+      <v>Master in philosophy</v>
+      <v>Master of philosophy</v>
+      <v>M.Phil</v>
+      <v>MPhil</v>
+    </d>
+    <d key="M.S.C." level="1">
+      <v>M.S.C.</v>
+      <v>Master Of Computer Science</v>
+      <v>MSC</v>
+      <v>M.S.C</v>
+    </d>
+    <d key="M.Sc" level="1">
+      <v>Masters in science</v>
+      <v>Master in science</v>
+      <v>Master of science</v>
+      <v>M.Sc</v>
+      <v>Msc</v>
+      <v>MSc</v>
+      <v>M.SC.</v>
+    </d>
+    <d key="Master of Surgery" level="1">
+      <v>Master of Surgery</v>
+    </d>
+    <d key="Masters in Geo-informatics" level="1">
+      <v>Masters in Geo-informatics</v>
+    </d>
+    <d key="MDS" level="1">
+      <v>Masters in dental science</v>
+      <v>Master in dental science</v>
+      <v>Master of dental science</v>
+      <v>MDS</v>
+    </d>
+    <d key="ML/LLM" level="1">
+      <v>Master in Law</v>
+      <v>Master of Law</v>
+      <v>ML/LLM</v>
+      <v>ML</v>
+      <v>LLM</v>
+    </d>
+    <d key="P G Diploma in Insurance Management" level="1">
+      <v>P G Diploma in Insurance Management</v>
+    </d>
+    <d key="P.G diploma in Child Psychology care &amp;amp;amp;amp;amp; Management" level="1">
+      <v>P.G diploma in Child Psychology care &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="P.G Diploma in Computer Language" level="1">
+      <v>P.G Diploma in Computer Language</v>
+    </d>
+    <d key="PG Diploma in Accommodation Operation" level="1">
+      <v>PG Diploma in Accommodation Operation</v>
+    </d>
+    <d key="PG diploma in advertising and public relations" level="1">
+      <v>PG diploma in advertising and public relations</v>
+      <v>PG Diploma in Public Relations</v>
+    </d>
+    <d key="PG Diploma in Bakery Science &amp;amp;amp;amp;amp; Management" level="1">
+      <v>PG Diploma in Bakery Science &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="PG Diploma in Business Administration " level="1">
+      <v>PG Diploma in Business Administration</v>
+    </d>
+    <d key="PG Diploma in Cargo Operation &amp;amp;amp;amp;amp; Management" level="1">
+      <v>PG Diploma in Cargo Operation &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="PG diploma in corporate communication" level="1">
+      <v>PG diploma in corporate communication</v>
+    </d>
+    <d key="PG Diploma in Destination Management" level="1">
+      <v>PG Diploma in Destination Management</v>
+    </d>
+    <d key="PG Diploma in Environmental Education and Mgt" level="1">
+      <v>PG Diploma in Environmental Education and Mgt</v>
+    </d>
+    <d key="PG Diploma in Environmental Laws" level="1">
+      <v>PG Diploma in Environmental Laws</v>
+    </d>
+    <d key="PG Diploma in Environmental Mgt" level="1">
+      <v>PG Diploma in Environmental Mgt</v>
+    </d>
+    <d key="PG Diploma in Environmental Studies" level="1">
+      <v>PG Diploma in Environmental Studies</v>
+    </d>
+    <d key="PG Diploma in Financial Management" level="1">
+      <v>PG Diploma in Financial Management</v>
+    </d>
+    <d key="PG Diploma in Financial Markets &amp;amp;amp;amp;amp; Services" level="1">
+      <v>PG Diploma in Financial Markets &amp;amp;amp;amp;amp; Services</v>
+    </d>
+    <d key="PG Diploma in Financial Taxation Mgt" level="1">
+      <v>PG Diploma in Financial Taxation Mgt</v>
+    </d>
+    <d key="PG Diploma in Food &amp;amp;amp;amp;amp; Beverage Division Management" level="1">
+      <v>PG Diploma in Food &amp;amp;amp;amp;amp; Beverage Division Management</v>
+    </d>
+    <d key="PG Diploma in Guidence and Counselling" level="1">
+      <v>PG Diploma in Guidence and Counselling</v>
+    </d>
+    <d key="PG Diploma in Guiding &amp;amp;amp;amp;amp; Destination Management" level="1">
+      <v>PG Diploma in Guiding &amp;amp;amp;amp;amp; Destination Management</v>
+    </d>
+    <d key="PG Diploma in Higher Education" level="1">
+      <v>PG Diploma in Higher Education</v>
+    </d>
+    <d key="PG Diploma in Hospital &amp;amp;amp;amp;amp; Health Mgt" level="1">
+      <v>PG Diploma in Hospital &amp;amp;amp;amp;amp; Health Mgt</v>
+    </d>
+    <d key="PG Diploma in Hospitality Marketing &amp;amp;amp;amp;amp; Sales" level="1">
+      <v>PG Diploma in Hospitality Marketing &amp;amp;amp;amp;amp; Sales</v>
+    </d>
+    <d key="PG Diploma in Hotel/ Hospitality Management " level="1">
+      <v>PG Diploma in Hotel/ Hospitality Management</v>
+      <v>PGDHM</v>
+    </d>
+    <d key="PG Diploma in Human Rights" level="1">
+      <v>PG Diploma in Human Rights</v>
+    </d>
+    <d key="PG Diploma in Hydrogeology" level="1">
+      <v>PG Diploma in Hydrogeology</v>
+    </d>
+    <d key="PG Diploma in Industrial Chemistry" level="1">
+      <v>PG Diploma in Industrial Chemistry</v>
+    </d>
+    <d key="PG Diploma in Information Sciences" level="1">
+      <v>PG Diploma in Information Sciences</v>
+    </d>
+    <d key="PG Diploma in Information Sys. &amp;amp;amp;amp;amp; Computer Application" level="1">
+      <v>PG Diploma in Information Sys. &amp;amp;amp;amp;amp; Computer Application</v>
+    </d>
+    <d key="PG Diploma in Room Division Management" level="1">
+      <v>PG Diploma in Room Division Management</v>
+    </d>
+    <d key="PG Diploma in Tourism and Hotel Management" level="1">
+      <v>PG Diploma in Tourism and Hotel Management</v>
+      <v>PG Diploma in Tourism &amp;amp;amp;amp;amp; Hotelier Management</v>
+    </d>
+    <d key="PG Diploma in Travel &amp;amp;amp;amp;amp; Tourism Management" level="1">
+      <v>PG Diploma in Travel &amp;amp;amp;amp;amp; Tourism Management</v>
+      <v>PG Diploma in Tourism Management</v>
+    </d>
+    <d key="PG Diploma in Water Resource Engineering" level="1">
+      <v>PG Diploma in Water Resource Engineering</v>
+    </d>
+    <d key="Ph.D" level="1">
+      <v>Ph.D</v>
+      <v>P.H.D</v>
+      <v>phd</v>
+      <v>PH D</v>
+      <v>Doctor of Philosophy</v>
+      <v>Doctorate of Philosophy</v>
+      <v>Doctorate</v>
+    </d>
+    <d key="Post Diploma in Acting" level="1">
+      <v>Post Diploma in Acting</v>
+    </d>
+    <d key="Post Graduate Diploma Course in Medical and Social Psychology" level="1">
+      <v>Post Graduate Diploma Course in Medical and Social Psychology</v>
+    </d>
+    <d key="Post Graduate Diploma in Actuarial Science" level="1">
+      <v>Post Graduate Diploma in Actuarial Science</v>
+    </d>
+    <d key="Post Graduate Diploma in Agricultural Business Management." level="1">
+      <v>Post Graduate Diploma in Agricultural Business Management.</v>
+      <v>P.G.D.A.B.M.</v>
+    </d>
+    <d key="Post Graduate Diploma in Agricultural Extension Management." level="1">
+      <v>Post Graduate Diploma in Agricultural Extension Management.</v>
+      <v>P.G.D.A.E.M.</v>
+    </d>
+    <d key="Post Graduate Diploma in Applied Design" level="1">
+      <v>Post Graduate Diploma in Applied Design</v>
+    </d>
+    <d key="Post graduate diploma in broadcasting journalism" level="1">
+      <v>Post graduate diploma in broadcasting journalism</v>
+    </d>
+    <d key="Post Graduate Diploma in Business Administration" level="1">
+      <v>Post Graduate Diploma in Business Administration</v>
+      <v>P.G.D.B.A</v>
+    </d>
+    <d key="Post Graduate Diploma in Business Management" level="1">
+      <v>Post Graduate Diploma in Business Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Clinical and Community psychology" level="1">
+      <v>Post Graduate Diploma in Clinical and Community psychology</v>
+    </d>
+    <d key="Post Graduate Diploma in Clinical Psychology" level="1">
+      <v>Post Graduate Diploma in Clinical Psychology</v>
+    </d>
+    <d key="Post Graduate Diploma in Communication" level="1">
+      <v>Post Graduate Diploma in Communication</v>
+    </d>
+    <d key="Post graduate Diploma in Computer Application" level="1">
+      <v>Post graduate Diploma in Computer Application</v>
+      <v>P. G. Diploma in Computer Applications</v>
+      <v>PGDCA</v>
+      <v>P G D C A</v>
+    </d>
+    <d key="Post graduate Diploma in Computer hardware" level="1">
+      <v>Post graduate Diploma in Computer hardware</v>
+    </d>
+    <d key="Post Graduate Diploma in Counseling and Guidance" level="1">
+      <v>Post Graduate Diploma in Counseling and Guidance</v>
+    </d>
+    <d key="Post Graduate Diploma in Counseling Psychology" level="1">
+      <v>Post Graduate Diploma in Counseling Psychology</v>
+    </d>
+    <d key="Post graduate diploma in dietetics" level="1">
+      <v>Post graduate diploma in dietetics</v>
+    </d>
+    <d key="Post Graduate Diploma in Documentary Film Production" level="1">
+      <v>Post Graduate Diploma in Documentary Film Production</v>
+    </d>
+    <d key="Post Graduate Diploma in Electronic Cinematography" level="1">
+      <v>Post Graduate Diploma in Electronic Cinematography</v>
+    </d>
+    <d key="Post Graduate Diploma in Event Management &amp;amp;amp;amp;amp; Public Relations" level="1">
+      <v>Post Graduate Diploma in Event Management &amp;amp;amp;amp;amp; Public Relations</v>
+      <v>Post Graduate Diploma in Event Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Film Direction" level="1">
+      <v>Post Graduate Diploma in Film Direction</v>
+    </d>
+    <d key="Post graduate Diploma in Finance" level="1">
+      <v>Post graduate Diploma in Finance</v>
+    </d>
+    <d key="Post graduate diploma in financial planning and management" level="1">
+      <v>Post graduate diploma in financial planning and management</v>
+    </d>
+    <d key="Post Graduate Diploma in Human Resource Development Psychology" level="1">
+      <v>Post Graduate Diploma in Human Resource Development Psychology</v>
+    </d>
+    <d key="Post Graduate Diploma in Human Resource Management" level="1">
+      <v>Post Graduate Diploma in Human Resource Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Information Technology" level="1">
+      <v>Post Graduate Diploma in Information Technology</v>
+    </d>
+    <d key="Post Graduate Diploma in International Business" level="1">
+      <v>Post Graduate Diploma in International Business</v>
+    </d>
+    <d key="Post Graduate Diploma in IT &amp;amp;amp;amp;amp; Management" level="1">
+      <v>Post Graduate Diploma in IT &amp;amp;amp;amp;amp; Management</v>
+    </d>
+    <d key="Post graduate diploma in journalism and communication" level="1">
+      <v>Post graduate diploma in journalism and communication</v>
+      <v>Post Graduate Diploma in Journalism &amp;amp;amp;amp;amp; Communication</v>
+      <v>Post graduate diploma in journalism</v>
+      <v>PG diploma in journalism</v>
+    </d>
+    <d key="Post graduate diploma in journalism, public relations and advertising" level="1">
+      <v>Post graduate diploma in journalism, public relations and advertising</v>
+    </d>
+    <d key="Post Graduate Diploma in Management" level="1">
+      <v>Post Graduate Diploma in Management</v>
+    </d>
+    <d key="Post graduate diploma in Marathi journalism" level="1">
+      <v>Post graduate diploma in Marathi journalism</v>
+    </d>
+    <d key="Post Graduate Diploma in Marketing &amp;amp;amp;amp;amp; Sales Management" level="1">
+      <v>Post Graduate Diploma in Marketing &amp;amp;amp;amp;amp; Sales Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Marketing Management" level="1">
+      <v>Post Graduate Diploma in Marketing Management</v>
+      <v>P.G.D.M.M.</v>
+    </d>
+    <d key="Post graduate diploma in mass communication and journalism" level="1">
+      <v>Post graduate diploma in mass communication and journalism</v>
+      <v>Post Graduate Diploma in Mass Communication &amp;amp;amp;amp;amp; Journalism</v>
+    </d>
+    <d key="Post Graduate Diploma in Mass Communication Film and Television" level="1">
+      <v>Post Graduate Diploma in Mass Communication Film and Television</v>
+    </d>
+    <d key="Post graduate diploma in mass media" level="1">
+      <v>Post graduate diploma in mass media</v>
+    </d>
+    <d key="Post Graduate Diploma in Multimedia Technology" level="1">
+      <v>Post Graduate Diploma in Multimedia Technology</v>
+    </d>
+    <d key="Post Graduate Diploma in Network Administration" level="1">
+      <v>Post Graduate Diploma in Network Administration</v>
+    </d>
+    <d key="Post Graduate Diploma in Post Production " level="1">
+      <v>Post Graduate Diploma in Post Production</v>
+    </d>
+    <d key="Post Graduate Diploma in Public Relations" level="1">
+      <v>Post Graduate Diploma in Public Relations</v>
+    </d>
+    <d key="Post Graduate Diploma in Public Relations and Advertising" level="1">
+      <v>Post Graduate Diploma in Public Relations and Advertising</v>
+    </d>
+    <d key="Post Graduate Diploma in Radio &amp;amp;amp;amp;amp; TV Journalism" level="1">
+      <v>Post Graduate Diploma in Radio &amp;amp;amp;amp;amp; TV Journalism</v>
+    </d>
+    <d key="Post Graduate Diploma in Rural &amp;amp;amp;amp;amp; Tribal Communication" level="1">
+      <v>Post Graduate Diploma in Rural &amp;amp;amp;amp;amp; Tribal Communication</v>
+    </d>
+    <d key="Post graduate Diploma in Rural Management" level="1">
+      <v>Post graduate Diploma in Rural Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Rural Management" level="1">
+      <v>Post Graduate Diploma in Rural Management</v>
+      <v>P.G.D.R.M.</v>
+    </d>
+    <d key="Post Graduate Diploma in Shipping &amp;amp;amp;amp;amp; Export Management" level="1">
+      <v>Post Graduate Diploma in Shipping &amp;amp;amp;amp;amp; Export Management</v>
+      <v>PG Diploma in Export Management</v>
+      <v>P.G.D.S.E.M.</v>
+    </d>
+    <d key="Post graduate Diploma in Software Development" level="1">
+      <v>Post graduate Diploma in Software Development</v>
+    </d>
+    <d key="Post Graduate Diploma in Software Marketing" level="1">
+      <v>Post Graduate Diploma in Software Marketing</v>
+    </d>
+    <d key="Post Graduate Diploma in Television &amp;amp;amp;amp;amp; Radio Production" level="1">
+      <v>Post Graduate Diploma in Television &amp;amp;amp;amp;amp; Radio Production</v>
+    </d>
+    <d key="Post Graduate Diploma in Video Production" level="1">
+      <v>Post Graduate Diploma in Video Production</v>
+    </d>
+    <d key="Post graduate diploma in Wealth Management" level="1">
+      <v>Post graduate diploma in Wealth Management</v>
+    </d>
+    <d key="Post Graduate Diploma in Web Services" level="1">
+      <v>Post Graduate Diploma in Web Services</v>
+    </d>
+    <d key="Post graduate diploma rural and tribal communication" level="1">
+      <v>Post graduate diploma rural and tribal communication</v>
+    </d>
+  </degrees>
+  <institutes>
+    <i key="Agra University">
+      <v>Agra University</v>
+    </i>
+    <i key="AIMA">
+      <v>AIMA</v>
+    </i>
+    <i key="Air Hostess Academy">
+      <v>Air Hostess Academy</v>
+    </i>
+    <i key="Alagappa University">
+      <v>Alagappa University</v>
+      <v>Alagappa University</v>
+      <v>Algappa Uni.</v>
+    </i>
+    <i key="Aligarh Muslim Uni.">
+      <v>Aligarh Muslim Uni.</v>
+    </i>
+    <i key="All India Institute of Management Studies">
+      <v>All India Institute of Management Studies</v>
+    </i>
+    <i key="All India Institute of Medical Sciences">
+      <v>All India Institute of Medical Sciences </v>
+    </i>
+    <i key="All India Management Association">
+      <v>All India Management Association </v>
+    </i>
+    <i key="Allahabad University">
+      <v>Allahabad University</v>
+      <v>Allahabad Uni.</v>
+    </i>
+    <i key="Alliance Business Academy">
+      <v>Alliance Business Academy </v>
+    </i>
+    <i key="Amaravati University">
+      <v>Amaravati University</v>
+      <v>Amaravati Uni.</v>
+    </i>
+    <i key="Amity Business School">
+      <v>Amity Business School</v>
+    </i>
+    <i key="Amity University">
+      <v>Amity University</v>
+    </i>
+    <i key="Amravati University">
+      <v>Amravati University</v>
+    </i>
+    <i key="Andhra University">
+      <v>Andhra University</v>
+      <v>Andhra Uni.</v>
+    </i>
+    <i key="Anna University">
+      <v>Anna University</v>
+      <v>Anna Uni.</v>
+    </i>
+    <i key="Annamalai University">
+      <v>Annamalai University</v>
+      <v>Annamalai Uni.</v>
+    </i>
+    <i key="Apeejay School of Marketing">
+      <v>Apeejay School of Marketing</v>
+    </i>
+    <i key="Aptech">
+      <v>Aptech</v>
+    </i>
+    <i key="Arena Multimedia">
+      <v>Arena Multimedia</v>
+    </i>
+    <i key="Armed Forces Medical College">
+      <v>Armed Forces Medical College </v>
+    </i>
+    <i key="Asansol Engineering College">
+      <v>Asansol Engineering College </v>
+    </i>
+    <i key="Asia Pacific Institute of Management">
+      <v>Asia Pacific Institute of Management </v>
+    </i>
+    <i key="Assam Engineering College">
+      <v>Assam Engineering College </v>
+    </i>
+    <i key="Assam University">
+      <v>Assam University</v>
+    </i>
+    <i key="Avadh University">
+      <v>Avadh University</v>
+    </i>
+    <i key="B N Mandal University">
+      <v>B N Mandal University </v>
+    </i>
+    <i key="B.R.Ambedkar University">
+      <v>B.R.Ambedkar University</v>
+      <v>B.R.Ambedkar Uni.</v>
+    </i>
+    <i key="Babasaheb Ambedkar Marathwada University">
+      <v>Babasaheb Ambedkar Marathwada University </v>
+    </i>
+    <i key="Babasaheb Bhimrao Ambedkar University">
+      <v>Babasaheb Bhimrao Ambedkar University </v>
+    </i>
+    <i key="Banaras Hindu University">
+      <v>Banaras Hindu University</v>
+      <v>Banaras Hindu Uni.</v>
+    </i>
+    <i key="Banasthali University">
+      <v>Banasthali University</v>
+    </i>
+    <i key="Bangalore Institute Of Technology">
+      <v>Bangalore Institute Of Technology </v>
+    </i>
+    <i key="Bangalore Medical College">
+      <v>Bangalore Medical College </v>
+    </i>
+    <i key="Bangalore University">
+      <v>Bangalore University</v>
+      <v>Bangalore University.</v>
+      <v>Bangalore Uni.</v>
+    </i>
+    <i key="Barkatullah University">
+      <v>Barkatullah University</v>
+      <v>Barkatullah Uni.</v>
+    </i>
+    <i key="Bengal Engineering College">
+      <v>Bengal Engineering College </v>
+    </i>
+    <i key="Berhampur University">
+      <v>Berhampur University</v>
+      <v>Berhampur Uni.</v>
+    </i>
+    <i key="Bhagalpur University">
+      <v>Bhagalpur University</v>
+    </i>
+    <i key="Bharathiar University">
+      <v>Bharathiar University</v>
+      <v>Bharathiar Uni.</v>
+    </i>
+    <i key="Bharathidasan University">
+      <v>Bharathidasan University</v>
+      <v>Bharathidasan Uni.</v>
+    </i>
+    <i key="Bharatiya Vidya Bhavan">
+      <v>Bharatiya Vidya Bhavan </v>
+    </i>
+    <i key="Bhartiyar University, Coimbatore">
+      <v>Bhartiyar University, Coimbatore</v>
+    </i>
+    <i key="Bhavnagar University">
+      <v>Bhavnagar University</v>
+    </i>
+    <i key="Bhopal University">
+      <v>Bhopal University</v>
+    </i>
+    <i key="Bihar University">
+      <v>Bihar University</v>
+    </i>
+    <i key="Biju Patnaik University of Technology">
+      <v>Biju Patnaik University of Technology </v>
+    </i>
+    <i key="Bikaner University">
+      <v>Bikaner University</v>
+    </i>
+    <i key="Birla Institute of Management Technology">
+      <v>Birla Institute of Management Technology </v>
+    </i>
+    <i key="Birla Institute of Technology">
+      <v>Birla Institute of Technology </v>
+    </i>
+    <i key="Birla Institute of Technology and Science">
+      <v>Birla Institute of Technology and Science </v>
+    </i>
+    <i key="BITS">
+      <v>BITS</v>
+    </i>
+    <i key="Board of Technical Education">
+      <v>Board of Technical Education</v>
+    </i>
+    <i key="Bundelkhand University">
+      <v>Bundelkhand University</v>
+    </i>
+    <i key="Burdwan University">
+      <v>Burdwan University</v>
+    </i>
+    <i key="Calcutta Medical College">
+      <v>Calcutta Medical College </v>
+    </i>
+    <i key="Calcutta University">
+      <v>Calcutta University</v>
+      <v>Calcutta Uni.</v>
+    </i>
+    <i key="Calicut University">
+      <v>University of Calicut</v>
+      <v>Calicut University</v>
+      <v>Calicut Uni.</v>
+    </i>
+    <i key="CDAC">
+      <v>CDAC</v>
+    </i>
+    <i key="Centre for Development of Advanced Computing">
+      <v>Centre for Development of Advanced Computing </v>
+    </i>
+    <i key="Ch Charan Singh University">
+      <v>Ch Charan Singh University </v>
+    </i>
+    <i key="Chennai University">
+      <v>Chennai University</v>
+      <v>Chennai Uni.</v>
+    </i>
+    <i key="Chhatrapati Shahu Ji Maharaj University">
+      <v>Chhatrapati Shahu Ji Maharaj University </v>
+    </i>
+    <i key="Christian College, Lucknow">
+      <v>Christian College, Lucknow</v>
+    </i>
+    <i key="Christian Medical College">
+      <v>Christian Medical College </v>
+    </i>
+    <i key="CIPET">
+      <v>CIPET</v>
+    </i>
+    <i key="Cochin University of Science and Technology">
+      <v>Cochin University of Science and Technology </v>
+    </i>
+    <i key="College of Engineering and Technology">
+      <v>College of Engineering and Technology </v>
+    </i>
+    <i key="DAV Institute of Management">
+      <v>DAV Institute of Management </v>
+    </i>
+    <i key="DAVV Indore">
+      <v>DAVV Indore</v>
+    </i>
+    <i key="Deen Dayal Upadhyay Gorakhpur University">
+      <v>Deen Dayal Upadhyay Gorakhpur University </v>
+    </i>
+    <i key="Delhi College of Engineering">
+      <v>Delhi College of Engineering</v>
+    </i>
+    <i key="Delhi University">
+      <v>Delhi University</v>
+      <v>Delhi Uni.</v>
+      <v>Delhi University - College of Art</v>
+      <v>Delhi University - Daulat Ram College </v>
+      <v>Delhi University - Hansraj College</v>
+      <v>Delhi University - Hindu College </v>
+      <v>Delhi University - Lady Shree Ram College </v>
+      <v>Delhi University - Miranda House</v>
+      <v>Delhi University - Other</v>
+      <v>Delhi University - Shri Ram College of Commerce </v>
+      <v>Delhi University - St Stephens College</v>
+    </i>
+    <i key="Devi Ahilya University">
+      <v>Devi Ahilya University</v>
+      <v>Devi Ahilya Uni.</v>
+    </i>
+    <i key="Devi Ahilya Vishwa Vidhyalaya">
+      <v>Devi Ahilya Vishwa Vidhyalaya </v>
+    </i>
+    <i key="Dibrugarh University">
+      <v>Dibrugarh University</v>
+    </i>
+    <i key="DOEACC">
+      <v>DOEACC</v>
+    </i>
+    <i key="Dr. B.R. Ambedkar National Institute of Technology">
+      <v>Dr. B.R. Ambedkar National Institute of Technology </v>
+    </i>
+    <i key="Dr. Bhim Rao Ambedkar University">
+      <v>Dr. Bhim Rao Ambedkar University </v>
+    </i>
+    <i key="Dr. Harisingh Gour University">
+      <v>Dr. Harisingh Gour University </v>
+    </i>
+    <i key="Dr. MGR Medical University">
+      <v>Dr. MGR Medical University </v>
+    </i>
+    <i key="Dr.B.R.Ambedkar University">
+      <v>Dr.B.R.Ambedkar University</v>
+    </i>
+    <i key="EMPI Business School">
+      <v>EMPI Business School</v>
+    </i>
+    <i key="Faculty Of Management Studies">
+      <v>Faculty Of Management Studies </v>
+    </i>
+    <i key="Fergusson College Pune">
+      <v>Fergusson College Pune</v>
+    </i>
+    <i key="Film and Television Institute of India">
+      <v>Film and Television Institute of India </v>
+      <v>Film And Television Inst. of India Pune</v>
+    </i>
+    <i key="FMS Delhi">
+      <v>FMS Delhi</v>
+    </i>
+    <i key="Fore School of Management">
+      <v>Fore School of Management</v>
+    </i>
+    <i key="Fortune Institute of International Business">
+      <v>Fortune Institute of International Business </v>
+    </i>
+    <i key="Goa Institute of Management">
+      <v>Goa Institute of Management</v>
+    </i>
+    <i key="Goa University">
+      <v>Goa University</v>
+      <v>Goa Uni.</v>
+    </i>
+    <i key="Goenka College of Commerce and Business Administration">
+      <v>Goenka College of Commerce and Business Administration </v>
+    </i>
+    <i key="Government College of Engineering">
+      <v>Government College of Engineering </v>
+    </i>
+    <i key="Government College of Science">
+      <v>Government College of Science </v>
+    </i>
+    <i key="Government Medical College and Hospital">
+      <v>Government Medical College and Hospital </v>
+    </i>
+    <i key="Great Lakes Institute of Management">
+      <v>Great Lakes Institute of Management </v>
+    </i>
+    <i key="Gujarat Agricultural University">
+      <v>Gujarat Agricultural University </v>
+    </i>
+    <i key="Gujarat University">
+      <v>Gujarat University</v>
+      <v>Gujarat Uni.</v>
+    </i>
+    <i key="Gulbarga University">
+      <v>Gulbarga University</v>
+      <v>Gulbarga Uni.</v>
+    </i>
+    <i key="Guru Ghasidas University">
+      <v>Guru Ghasidas University </v>
+    </i>
+    <i key="Guru Gobind Singh Indraprastha University">
+      <v>Guru Gobind Singh Indraprastha University </v>
+    </i>
+    <i key="Guru Jambheshwar University of Science and Technology">
+      <v>Guru Jambheshwar University of Science and Technology </v>
+    </i>
+    <i key="Guru Nanak Dev University">
+      <v>Guru Nanak Dev University </v>
+    </i>
+    <i key="Gurukula Kangri University">
+      <v>Gurukula Kangri University </v>
+    </i>
+    <i key="Guwahati Medical College and Hospital">
+      <v>Guwahati Medical College and Hospital </v>
+    </i>
+    <i key="Guwahati University">
+      <v>Guwahati University</v>
+    </i>
+    <i key="Haldia Institute of Technology">
+      <v>Haldia Institute of Technology </v>
+    </i>
+    <i key="Hidayatullah National Law University">
+      <v>Hidayatullah National Law University </v>
+    </i>
+    <i key="Himachal Pradesh University">
+      <v>Himachal Pradesh University </v>
+    </i>
+    <i key="Himalayan Pharmacy Institute">
+      <v>Himalayan Pharmacy Institute</v>
+    </i>
+    <i key="Hindu College Delhi">
+      <v>Hindu College Delhi</v>
+    </i>
+    <i key="HNB Garhwal University">
+      <v>HNB Garhwal University </v>
+    </i>
+    <i key="Hyderabad University">
+      <v>Hyderabad University</v>
+      <v>Hyderabad Uni.</v>
+    </i>
+    <i key="ICFAI">
+      <v>ICFAI</v>
+    </i>
+    <i key="ICSI">
+      <v>ICSI</v>
+    </i>
+    <i key="ICWA">
+      <v>Institute of Cost and Works Accountant</v>
+      <v>Institute of Cost and Works Accountants</v>
+      <v>The Institute of Cost and Works Accountants of India</v>
+      <v>Institute of Cost and Works Accountants of India</v>
+      <v>ICWA</v>
+      <v>ICWAI</v>
+      <v>I C W A</v>
+      <v>I C W A I</v>
+    </i>
+    <i key="IGNOU">
+      <v>IGNOU</v>
+    </i>
+    <i key="IIIT Hyderabad">
+      <v>IIIT Hyderabad</v>
+    </i>
+    <i key="IIM Ahmedabad">
+      <v>IIM Ahmedabad</v>
+      <v>Indian Inst. of Mgmt. Ahmedabad</v>
+      <v>Indian Institute of Manaqement Ahmedabad</v>
+    </i>
+    <i key="IIM Bangalore">
+      <v>IIM Bangalore</v>
+      <v>Indian Inst. of Mgmt. Bangalore</v>
+      <v>Indian Institute of Manaqement Bangalore</v>
+    </i>
+    <i key="IIM Calcutta">
+      <v>IIM Calcutta</v>
+      <v>indian Inst. of Mgmt. Calcutta</v>
+      <v>indian Institute of Manaqement Calcutta</v>
+    </i>
+    <i key="IIM Indore">
+      <v>IIM Indore</v>
+      <v>Indian Inst. of Mgmt. Indore</v>
+      <v>Indian Institute of Manaqement Indore</v>
+    </i>
+    <i key="IIM Kozhikode">
+      <v>IIM Kozhikode</v>
+      <v>Indian Inst. of Mgmt. Kozhikode</v>
+      <v>Indian Institute of Manaqement Kozhikode</v>
+    </i>
+    <i key="IIM Lucknow">
+      <v>IIM Lucknow</v>
+      <v>Indian Inst. of Mgmt. Lucknow</v>
+      <v>Indian Institute of Manaqement Lucknow</v>
+    </i>
+    <i key="IIPM">
+      <v>IIPM</v>
+    </i>
+    <i key="IISWBM Calcutta">
+      <v>IISWBM Calcutta</v>
+    </i>
+    <i key="IIT Chennai">
+      <v>IIT Chennai</v>
+      <v>Indian Inst. of Tech. Chennai</v>
+      <v>Indian Institute of Technology Chennai</v>
+    </i>
+    <i key="IIT Delhi">
+      <v>IIT Delhi</v>
+      <v>Indian Inst. of Tech. Delhi</v>
+      <v>Indian Institute of Technology Delhi</v>
+    </i>
+    <i key="IIT Gandhinagar">
+      <v>IIT Gandhinagar</v>
+      <v>Indian Inst. of Tech. Gandhinagar</v>
+      <v>Indian Institute of Technology Gandhinagar</v>
+    </i>
+    <i key="IIT Guwahati">
+      <v>IIT Guwahati</v>
+      <v>Indian Inst. of Tech. Guwahati</v>
+      <v>Indian Institute of Technology Guwahati</v>
+    </i>
+    <i key="IIT Kanpur">
+      <v>IIT Kanpur</v>
+      <v>Indian Inst. of Tech. Kanpur</v>
+      <v>Indian Institute of Technology Kanpur</v>
+    </i>
+    <i key="IIT Kharagpur">
+      <v>IIT Kharagpur</v>
+      <v>Indian Inst. of Tech. Kharagpur</v>
+      <v>Indian Institute of Technology Kharagpur</v>
+    </i>
+    <i key="IIT Mumbai">
+      <v>IIT Mumbai</v>
+      <v>Indian Inst. of Tech. Mumbai</v>
+      <v>Indian Institute of Technology Mumbai</v>
+    </i>
+    <i key="IIT Roorkee">
+      <v>IIT Roorkee</v>
+      <v>Indian Inst. of Tech. Roorkee</v>
+      <v>Indian Institute of Technology Roorkee</v>
+    </i>
+    <i key="IMI Delhi">
+      <v>IMI Delhi</v>
+    </i>
+    <i key="IMT Ghaziabad">
+      <v>IMT Ghaziabad</v>
+    </i>
+    <i key="Indian Business Academy">
+      <v>Indian Business Academy </v>
+    </i>
+    <i key="Indian Institute of Bankers">
+      <v>Indian Institute of Bankers </v>
+    </i>
+    <i key="Indian Institute of Finance">
+      <v>Indian Institute of Finance </v>
+    </i>
+    <i key="Indian Institute of Foreign Trade">
+      <v>Indian Institute of Foreign Trade</v>
+    </i>
+    <i key="Indian Institute Of Hardware Technology">
+      <v>Indian Institute Of Hardware Technology </v>
+    </i>
+    <i key="Indian Institute of Hotel Management">
+      <v>Indian Institute of Hotel Management </v>
+    </i>
+    <i key="Indian Institute of Mass Communication">
+      <v>Indian Institute of Mass Communication </v>
+    </i>
+    <i key="Indian Institute of Materials Management">
+      <v>Indian Institute of Materials Management </v>
+      <v>IIMM</v>
+    </i>
+    <i key="Indian Institute of Export &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Import Management">
+      <v>Indian Institute of Export &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Import Management</v>
+      <v>IIEIM</v>
+    </i>
+    <i key="Indian Institute of Modern Management">
+      <v>Indian Institute of Modern Management </v>
+    </i>
+    <i key="Indian Institute Of Packaging">
+      <v>Indian Institute Of Packaging </v>
+    </i>
+    <i key="Indian Institute of Planning And Management">
+      <v>Indian Institute of Planning And Management </v>
+    </i>
+    <i key="Indian Institute of Science">
+      <v>Indian Institute of Science</v>
+    </i>
+    <i key="Indian Institute of Social Welfare and Business Management">
+      <v>Indian Institute of Social Welfare and Business Management </v>
+    </i>
+    <i key="Indian Law Society Law College">
+      <v>Indian Law Society Law College </v>
+    </i>
+    <i key="Indian School of Business">
+      <v>Indian School of Business </v>
+    </i>
+    <i key="Indian School of Mines">
+      <v>Indian School of Mines </v>
+    </i>
+    <i key="Indian Statistical Institute">
+      <v>Indian Statistical Institute</v>
+    </i>
+    <i key="Indira Gandhi National Open University">
+      <v>Indira Gandhi National Open University </v>
+    </i>
+    <i key="Industrial Training Institute">
+      <v>Industrial Training Institute </v>
+    </i>
+    <i key="Institute for Technology and Management">
+      <v>Institute for Technology and Management </v>
+    </i>
+    <i key="Institute of Business Management and Research">
+      <v>Institute of Business Management and Research </v>
+    </i>
+    <i key="Institute of Chartered Accountants of India">
+      <v>Institute of Chartered Accountants of India</v>
+      <v>ICAI</v>
+      <v>I.C.A.I</v>
+      <v>I.C.A.I.</v>
+    </i>
+    <i key="Institute of Chartered Financial Analysts of India">
+      <v>Institute of Chartered Financial Analysts of India </v>
+    </i>
+    <i key="Institute of Company Secretaries of India">
+      <v>Institute of Company Secretaries of India </v>
+    </i>
+    <i key="Institute of Cost and Works Accountants of India">
+      <v>Institute of Cost and Works Accountants of India </v>
+    </i>
+    <i key="Institute of Hotel Management">
+      <v>Institute of Hotel Management </v>
+    </i>
+    <i key="Institute of Management Education">
+      <v>Institute of Management Education </v>
+    </i>
+    <i key="Institute of Management Studies">
+      <v>Institute of Management Studies </v>
+    </i>
+    <i key="Institute of Management Technology">
+      <v>Institute of Management Technology </v>
+    </i>
+    <i key="Institute of Marketing and Management">
+      <v>Institute of Marketing and Management </v>
+    </i>
+    <i key="Institute of Productivity and Management">
+      <v>Institute of Productivity and Management </v>
+    </i>
+    <i key="Institute of Rural Management">
+      <v>Institute of Rural Management </v>
+    </i>
+    <i key="Institute of Technology, Banaras Hindu University">
+      <v>Institute of Technology, Banaras Hindu University</v>
+    </i>
+    <i key="International Institute of Information Technology">
+      <v>International Institute of Information Technology </v>
+    </i>
+    <i key="International Management Institute">
+      <v>International Management Institute </v>
+    </i>
+    <i key="International School of Business and Media">
+      <v>International School of Business and Media </v>
+    </i>
+    <i key="IRM Anand">
+      <v>IRM Anand</v>
+    </i>
+    <i key="IT BHU">
+      <v>IT BHU</v>
+    </i>
+    <i key="Jabalpur University">
+      <v>Jabalpur University</v>
+    </i>
+    <i key="Jadavpur University">
+      <v>Jadavpur University</v>
+      <v>Jadavpur Uni.</v>
+    </i>
+    <i key="JRN Rajasthan Vidyapeeth">
+      <v>JRN Rajasthan Vidyapeeth</v>
+    </i>
+    <i key="Jagan Institute of Management Studies">
+      <v>Jagan Institute of Management Studies </v>
+    </i>
+    <i key="Jaipuria Institute of Management">
+      <v>Jaipuria Institute of Management </v>
+    </i>
+    <i key="Jamia Hamdard">
+      <v>Jamia Hamdard</v>
+    </i>
+    <i key="Jamia Millia Islamia">
+      <v>Jamia Millia Islamia</v>
+    </i>
+    <i key="Jammu University">
+      <v>Jammu University</v>
+    </i>
+    <i key="Jamnalal Bajaj Institute of Management Studies">
+      <v>Jamnalal Bajaj Institute of Management Studies </v>
+      <v>Jamnalal Bajaj Institute of Mgmt Studies</v>
+    </i>
+    <i key="Jawaharlal Nehru Technological University">
+      <v>Jawaharlal Nehru Technological University </v>
+    </i>
+    <i key="Jawaharlal Nehru University">
+      <v>Jawaharlal Nehru University</v>
+      <v>Jawaharlal Nehru Uni.</v>
+    </i>
+    <i key="Jetking">
+      <v>Jetking</v>
+    </i>
+    <i key="Jipmer, Pondicherry">
+      <v>Jipmer, Pondicherry</v>
+    </i>
+    <i key="Jiwaji University">
+      <v>Jiwaji University</v>
+      <v>Jiwaji Uni.</v>
+    </i>
+    <i key="JJ Institute of Applied Art">
+      <v>JJ Institute of Applied Art </v>
+    </i>
+    <i key="JNTU Hyderabad">
+      <v>JNTU Hyderabad</v>
+    </i>
+    <i key="K.J. Somaiya Institute of Management Studies and Research">
+      <v>K.J. Somaiya Institute of Management Studies and Research </v>
+    </i>
+    <i key="Kakatiya University">
+      <v>Kakatiya University</v>
+      <v>Kakatiya Uni.</v>
+    </i>
+    <i key="Kalyani University">
+      <v>Kalyani University</v>
+    </i>
+    <i key="Kannur University">
+      <v>Kannur University</v>
+    </i>
+    <i key="Kanpur University">
+      <v>Kanpur University</v>
+      <v>Kanpur Uni.</v>
+    </i>
+    <i key="Karanataka University">
+      <v>Karanataka University</v>
+      <v>Karanataka Uni.</v>
+    </i>
+    <i key="Karnataka State Open University">
+      <v>Karnataka State Open University </v>
+    </i>
+    <i key="Karunya University">
+      <v>Karunya University</v>
+    </i>
+    <i key="Kashmir University">
+      <v>Kashmir University</v>
+    </i>
+    <i key="Kasturba Medical College">
+      <v>Kasturba Medical College </v>
+    </i>
+    <i key="Kerala University">
+      <v>Kerala University</v>
+      <v>Kerala Uni.</v>
+    </i>
+    <i key="King Edward Medical College">
+      <v>King Edward Medical College </v>
+    </i>
+    <i key="Kota University">
+      <v>Kota University</v>
+    </i>
+    <i key="Kumaun University">
+      <v>Kumaun University</v>
+    </i>
+    <i key="Kurukshetra University">
+      <v>Kurukshetra University</v>
+      <v>Kurukshetra Uni.</v>
+    </i>
+    <i key="Kuvempu University">
+      <v>Kuvempu University</v>
+      <v>Kuvempu Uni.</v>
+    </i>
+    <i key="Lady Hardinge Medical College">
+      <v>Lady Hardinge Medical College </v>
+    </i>
+    <i key="Lal Bahadur Shastri Institute of Management">
+      <v>Lal Bahadur Shastri Institute of Management </v>
+    </i>
+    <i key="Lovely Professional University">
+      <v>Lovely Professional University </v>
+    </i>
+    <i key="Loyola College Chennai">
+      <v>Loyola College Chennai</v>
+    </i>
+    <i key="Loyola Institute of Business Administration">
+      <v>Loyola Institute of Business Administration </v>
+    </i>
+    <i key="LSR College Delhi">
+      <v>LSR College Delhi</v>
+    </i>
+    <i key="Lucknow University">
+      <v>Lucknow University</v>
+      <v>Lucknow Uni.</v>
+    </i>
+    <i key="M.D. Univ">
+      <v>M.D. Univ</v>
+    </i>
+    <i key="M.G University">
+      <v>M.G University</v>
+      <v>M. G Uni.</v>
+      <v>M. G University</v>
+      <v>M.G Uni.</v>
+      <v>M.G. Uni.</v>
+      <v>M.G. University</v>
+    </i>
+    <i key="Madan Mohan Malaviya Engineering College">
+      <v>Madan Mohan Malaviya Engineering College </v>
+    </i>
+    <i key="Madras Christian College">
+      <v>Madras Christian College </v>
+    </i>
+    <i key="Madras Medical College">
+      <v>Madras Medical College </v>
+    </i>
+    <i key="Madras Medical College Chennai">
+      <v>Madras Medical College Chennai</v>
+    </i>
+    <i key="MATS School of Business &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; IT">
+      <v>MATS School of Business &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; IT</v>
+      <v>MATS</v>
+    </i>
+    <i key="Madras University">
+      <v>Madras University</v>
+      <v>University Of Madras</v>
+    </i>
+    <i key="Madurai Kamaraj University">
+      <v>Madurai Kamaraj University</v>
+      <v>Madurai Kamaraj Uni.</v>
+    </i>
+    <i key="Magadh University">
+      <v>Magadh University</v>
+    </i>
+    <i key="Maharaja Sayajirao University">
+      <v>Maharaja Sayajirao University</v>
+    </i>
+    <i key="Maharana Pratap University of Agriculture and Technology">
+      <v>Maharana Pratap University of Agriculture and Technology </v>
+    </i>
+    <i key="Maharishi Dayanand Saraswati University">
+      <v>Maharishi Dayanand Saraswati University </v>
+    </i>
+    <i key="Maharishi Dayanand University">
+      <v>Maharishi Dayanand University </v>
+    </i>
+    <i key="Maharishi Institute of Management">
+      <v>Maharishi Institute of Management </v>
+    </i>
+    <i key="Mahatma Gandhi University">
+      <v>Mahatma Gandhi University</v>
+      <v>Mahatma Gandhi Uni.</v>
+    </i>
+    <i key="Mahatma Jyotiba Phule Rohilkhand University">
+      <v>Mahatma Jyotiba Phule Rohilkhand University </v>
+    </i>
+    <i key="Malviya National Institute of Technology">
+      <v>Malviya National Institute of Technology </v>
+    </i>
+    <i key="Management Development Institute">
+      <v>Management Development Institute </v>
+    </i>
+    <i key="Mangalore University">
+      <v>Mangalore University</v>
+    </i>
+    <i key="Manipal Academy of Higher Education">
+      <v>Manipal Academy of Higher Education </v>
+    </i>
+    <i key="Manipal Institute of Management">
+      <v>Manipal Institute of Management </v>
+    </i>
+    <i key="Manipal Institute of Technology">
+      <v>Manipal Institute of Technology </v>
+    </i>
+    <i key="Manipal University">
+      <v>Manipal University</v>
+    </i>
+    <i key="Manipur University">
+      <v>Manipur University</v>
+    </i>
+    <i key="Manonmaniam Sundaranar University">
+      <v>Manonmaniam Sundaranar University </v>
+    </i>
+    <i key="Maulana Azad Medical College">
+      <v>Maulana Azad Medical College </v>
+      <v>Maulana Azad Medical College Delhi</v>
+    </i>
+    <i key="Maulana Azad National Institute of Technology">
+      <v>Maulana Azad National Institute of Technology </v>
+    </i>
+    <i key="MDI Gurgaon">
+      <v>MDI Gurgaon</v>
+    </i>
+    <i key="Mds University">
+      <v>Mds University</v>
+      <v>Mds Uni.</v>
+    </i>
+    <i key="Meerut University">
+      <v>Meerut University</v>
+      <v>Meerut Uni.</v>
+    </i>
+    <i key="Miranda House Delhi">
+      <v>Miranda House Delhi</v>
+    </i>
+    <i key="Mizoram University">
+      <v>Mizoram University</v>
+      <v>Mizoram Uni.</v>
+    </i>
+    <i key="Motilal Nehru Institute National Institute of Technology">
+      <v>Motilal Nehru Institute National Institute of Technology </v>
+    </i>
+    <i key="Mudra Institute of Communications">
+      <v>Mudra Institute of Communications </v>
+    </i>
+    <i key="Mumbai University">
+      <v>Mumbai University</v>
+      <v>Mumbai Uni.</v>
+    </i>
+    <i key="Nagaland University">
+      <v>Nagaland University</v>
+      <v>Nagaland Uni.</v>
+    </i>
+    <i key="Nagarjuna University">
+      <v>Nagarjuna University</v>
+      <v>Nagarjuna Uni.</v>
+    </i>
+    <i key="Nagpur University">
+      <v>Nagpur University</v>
+      <v>Nagpur Uni.</v>
+    </i>
+    <i key="Narsee Monjee Institute Of Management Studies">
+      <v>Narsee Monjee Institute Of Management Studies </v>
+    </i>
+    <i key="National Institute of Business Management">
+      <v>National Institute of Business Management </v>
+    </i>
+    <i key="National Institute of Construction Management and Research">
+      <v>National Institute of Construction Management and Research </v>
+    </i>
+    <i key="National Institute of Design">
+      <v>National Institute of Design </v>
+    </i>
+    <i key="National Institute of Design Ahmedabad">
+      <v>National Institute of Design Ahmedabad</v>
+    </i>
+    <i key="National Institute of Engineering">
+      <v>National Institute of Engineering</v>
+    </i>
+    <i key="National Institute of Fashion Technology">
+      <v>National Institute of Fashion Technology</v>
+    </i>
+    <i key="National Institute of Financial Management">
+      <v>National Institute of Financial Management </v>
+    </i>
+    <i key="National Institute of Industrial Engineering">
+      <v>National Institute of Industrial Engineering </v>
+    </i>
+    <i key="National Institute of Management">
+      <v>National Institute of Management </v>
+    </i>
+    <i key="National Institute of Sales">
+      <v>National Institute of Sales </v>
+    </i>
+    <i key="National Institute of Technology">
+      <v>National Institute of Technology </v>
+    </i>
+    <i key="National Law Institute University">
+      <v>National Law Institute University </v>
+    </i>
+    <i key="National Law School of India University">
+      <v>National Law School of India University </v>
+    </i>
+    <i key="National Law University">
+      <v>National Law University </v>
+    </i>
+    <i key="National Power Training Institute">
+      <v>National Power Training Institute </v>
+    </i>
+    <i key="Nehru University">
+      <v>Nehru University</v>
+      <v>Nehru Uni.</v>
+    </i>
+    <i key="Netaji Subhas Institute of Technology">
+      <v>Netaji Subhas Institute of Technology </v>
+    </i>
+    <i key="Nettur Technical Training Foundation">
+      <v>Nettur Technical Training Foundation </v>
+    </i>
+    <i key="New Delhi Institute of Management">
+      <v>New Delhi Institute of Management </v>
+    </i>
+    <i key="NIFT">
+      <v>NIFT</v>
+    </i>
+    <i key="NIILM School of Business">
+      <v>NIILM School of Business </v>
+    </i>
+    <i key="NIIT">
+      <v>NIIT</v>
+    </i>
+    <i key="Nirma Institute of Management">
+      <v>Nirma Institute of Management </v>
+    </i>
+    <i key="NIT">
+      <v>NIT</v>
+    </i>
+    <i key="NIT/RECs">
+      <v>NIT/RECs</v>
+    </i>
+    <i key="NMIMS Mumbai">
+      <v>NMIMS Mumbai</v>
+    </i>
+    <i key="North Bengal University">
+      <v>North Bengal University </v>
+    </i>
+    <i key="North Eastern Hill University">
+      <v>North Eastern Hill University </v>
+    </i>
+    <i key="North Gujarat University">
+      <v>North Gujarat University </v>
+    </i>
+    <i key="North Maharashtra University">
+      <v>North Maharashtra University</v>
+      <v>North Maharashtra Uni.</v>
+    </i>
+    <i key="North Orissa University">
+      <v>North Orissa University </v>
+    </i>
+    <i key="Oberoi Centre for Learning And Development">
+      <v>Oberoi Centre for Learning And Development</v>
+    </i>
+    <i key="Osmania University">
+      <v>Osmania University</v>
+      <v>Osmania Uni.</v>
+    </i>
+    <i key="Panjab University">
+      <v>Panjab University</v>
+    </i>
+    <i key="Pt. Ravi Shankar Shukla University">
+      <v>Pt. Ravi Shankar Shukla University</v>
+      <v>Pt.Ravi Shankar Shukla University</v>
+      <v>Pt.Ravi Shankar Shukla Uni.</v>
+      <v>Pt. Ravi Shankar Shukla Uni.</v>
+    </i>
+    <i key="Patna University">
+      <v>Patna University</v>
+      <v>Patna Uni.</v>
+    </i>
+    <i key="Periyar University">
+      <v>Periyar University</v>
+    </i>
+    <i key="Pondicherry University">
+      <v>Pondicherry University</v>
+      <v>Pondicherry Uni.</v>
+    </i>
+    <i key="Pragathi Mahavidyalaya, Hyderabad">
+      <v>Pragathi Mahavidyalaya, Hyderabad</v>
+    </i>
+    <i key="Presidency College">
+      <v>Presidency College</v>
+      <v>Presidency College Chennai</v>
+      <v>Presidency College Kolkatta</v>
+    </i>
+    <i key="PSG Coimbatore">
+      <v>PSG Coimbatore</v>
+    </i>
+    <i key="Pune University">
+      <v>Pune University</v>
+      <v>Pune Uni.</v>
+    </i>
+    <i key="Punjab Technical University">
+      <v>Punjab Technical University</v>
+      <v>Punjab Technical Uni.</v>
+    </i>
+    <i key="Punjab University">
+      <v>Punjab University</v>
+      <v>Punjab Uni.</v>
+    </i>
+    <i key="Rai Business School">
+      <v>Rai Business School </v>
+    </i>
+    <i key="Rai University">
+      <v>Rai University</v>
+    </i>
+    <i key="Rajasthan University">
+      <v>Rajasthan University</v>
+      <v>Rajasthan Uni.</v>
+    </i>
+    <i key="Rajiv Gandhi Proudyogiki Vishwavidyalaya">
+      <v>Rajiv Gandhi Proudyogiki Vishwavidyalaya </v>
+    </i>
+    <i key="Ranchi University">
+      <v>Ranchi University</v>
+      <v>Ranchi Uni.</v>
+    </i>
+    <i key="Rani Durgavati Vishwavidyalaya">
+      <v>Rani Durgavati Vishwavidyalaya </v>
+    </i>
+    <i key="REC">
+      <v>REC</v>
+    </i>
+    <i key="RECs">
+      <v>RECs</v>
+    </i>
+    <i key="RV College Of Engineering">
+      <v>RV College Of Engineering</v>
+    </i>
+    <i key="S.P University">
+      <v>S.P University</v>
+      <v>S. P Uni.</v>
+      <v>S. P University</v>
+      <v>S.P Uni.</v>
+      <v>S.P. Uni.</v>
+      <v>S.P. University</v>
+      <v>Sardar Patel Uni.</v>
+      <v>Sardar Patel University</v>
+    </i>
+    <i key="Sambalpur University">
+      <v>Sambalpur University</v>
+      <v>Sambalpur Uni.</v>
+    </i>
+    <i key="Sardar Vallabhbhai National Institute of Technology">
+      <v>Sardar Vallabhbhai National Institute of Technology </v>
+    </i>
+    <i key="Sastra University">
+      <v>Sastra University</v>
+    </i>
+    <i key="Sathyabama University">
+      <v>Sathyabama University</v>
+    </i>
+    <i key="Saurashtra University">
+      <v>Saurashtra University</v>
+      <v>Saurashtra Uni.</v>
+    </i>
+    <i key="School Of Planning and Architecture">
+      <v>School Of Planning and Architecture </v>
+    </i>
+    <i key="Shivaji University">
+      <v>Shivaji University</v>
+      <v>Shivaji Uni.</v>
+    </i>
+    <i key="Shreemati Nathibai Damodar Thackersey Women's University">
+      <v>Shreemati Nathibai Damodar Thackersey Women's University </v>
+    </i>
+    <i key="Siddaganga Institute of Technology">
+      <v>Siddaganga Institute of Technology </v>
+    </i>
+    <i key="SIES College of Management Studies">
+      <v>SIES College of Management Studies </v>
+    </i>
+    <i key="Sikkim Manipal University">
+      <v>Sikkim Manipal University </v>
+    </i>
+    <i key="Siliguri Institute Of Technology">
+      <v>Siliguri Institute Of Technology </v>
+    </i>
+    <i key="South Gujarat University">
+      <v>South Gujarat University</v>
+      <v>South Gujarat Uni.</v>
+    </i>
+    <i key="South Gujarat University Surat">
+      <v>South Gujarat University Surat</v>
+    </i>
+    <i key="SP Jain Institute of Management Research">
+      <v>SP Jain Institute of Management Research </v>
+    </i>
+    <i key="SP Jain Institute of Management Studies">
+      <v>SP Jain Institute of Management Studies</v>
+    </i>
+    <i key="SRCC Delhi">
+      <v>SRCC Delhi</v>
+    </i>
+    <i key="Sri Jayachamarajendran College of Engineering">
+      <v>Sri Jayachamarajendran College of Engineering </v>
+    </i>
+    <i key="Sri Krishnadevaraya University">
+      <v>Sri Krishnadevaraya University </v>
+    </i>
+    <i key="Sri Venkateshwara College Delhi">
+      <v>Sri Venkateshwara College Delhi</v>
+    </i>
+    <i key="Sri Venkateshwara University">
+      <v>Sri Venkateshwara University</v>
+      <v>Sri Venkateshwara Uni.</v>
+    </i>
+    <i key="SRM university">
+      <v>SRM university </v>
+    </i>
+    <i key="St Stephens College Delhi">
+      <v>St Stephens College Delhi</v>
+    </i>
+    <i key="St.Xaviers College">
+      <v>St.Xaviers College</v>
+      <v>St.Xaviers College Kolkatta</v>
+      <v>St.Xaviers College Mumbai</v>
+    </i>
+    <i key="State Institute of Education Technology">
+      <v>State Institute of Education Technology </v>
+    </i>
+    <i key="Stella Maris College">
+      <v>Stella Maris College </v>
+    </i>
+    <i key="Stella Maris College Chennai">
+      <v>Stella Maris College Chennai</v>
+    </i>
+    <i key="Swami Ramanand Teerth Marathawada University">
+      <v>Swami Ramanand Teerth Marathawada University </v>
+    </i>
+    <i key="Symbiosis">
+      <v>Symbiosis</v>
+      <v>Symbiosis Centre for Distance Learning </v>
+      <v>Symbiosis Centre For Management and HRD </v>
+      <v>Symbiosis Institute of Business Management </v>
+      <v>Symbiosis Institute of Management Studies </v>
+      <v>Symbiosis Pune</v>
+      <v>Symbiosis Society Law College </v>
+    </i>
+    <i key="TA Pai Management Institute">
+      <v>TA Pai Management Institute</v>
+    </i>
+    <i key="Tamil Nadu Open University">
+      <v>Tamil Nadu Open University </v>
+    </i>
+    <i key="TASMAC">
+      <v>TASMAC</v>
+    </i>
+    <i key="Tata Institute of Social Sciences">
+      <v>Tata Institute of Social Sciences</v>
+    </i>
+    <i key="Tezpur University">
+      <v>Tezpur University</v>
+    </i>
+    <i key="Thapar Institute of Engineering and Technology">
+      <v>Thapar Institute of Engineering and Technology </v>
+    </i>
+    <i key="The National Law School Bangalore">
+      <v>The National Law School Bangalore</v>
+    </i>
+    <i key="The Times School of Journalism">
+      <v>The Times School of Journalism</v>
+    </i>
+    <i key="The Times School of Marketing">
+      <v>The Times School of Marketing</v>
+    </i>
+    <i key="Thiruvalluvar University">
+      <v>Thiruvalluvar University</v>
+    </i>
+    <i key="Tripura University">
+      <v>Tripura University</v>
+    </i>
+    <i key="University Business School">
+      <v>University Business School </v>
+    </i>
+    <i key="University College of Law">
+      <v>University College of Law </v>
+    </i>
+    <i key="University of Mysore">
+      <v>University of Mysore</v>
+    </i>
+    <i key="University of North Bengal">
+      <v>University of North Bengal </v>
+    </i>
+    <i key="University Vishveshvaraya College of Engineering">
+      <v>University Vishveshvaraya College of Engineering </v>
+    </i>
+    <i key="Utkal University">
+      <v>Utkal University</v>
+      <v>Utkal Uni.</v>
+    </i>
+    <i key="Uttar Pradesh Technical University">
+      <v>Uttar Pradesh Technical University </v>
+    </i>
+    <i key="Veer Bahadur Singh Purvanchal University">
+      <v>Veer Bahadur Singh Purvanchal University </v>
+    </i>
+    <i key="Veer Narmad South Gujarat University">
+      <v>Veer Narmad South Gujarat University </v>
+    </i>
+    <i key="Vellore Engineering College">
+      <v>Vellore Engineering College</v>
+    </i>
+    <i key="Vellore Institute of Technology">
+      <v>Vellore Institute of Technology </v>
+    </i>
+    <i key="Vidyasagar University">
+      <v>Vidyasagar University</v>
+    </i>
+    <i key="Vishwa Bharati University">
+      <v>Vishwa Bharati University</v>
+    </i>
+    <i key="Vikram University, Ujjain">
+      <v>Vikram University, Ujjain</v>
+    </i>
+    <i key="Vinayaka Mission University">
+      <v>Vinayaka Mission University </v>
+    </i>
+    <i key="Vinoba Bhave University">
+      <v>Vinoba Bhave University </v>
+    </i>
+    <i key="Visveshwaraiah University">
+      <v>Visveshwaraiah University</v>
+      <v>Visveshwaraiah Uni.</v>
+    </i>
+    <i key="Visvesvaraya National Institute of Technology">
+      <v>Visvesvaraya National Institute of Technology </v>
+    </i>
+    <i key="Visveswaraiah Technological University">
+      <v>Visveswaraiah Technological University </v>
+    </i>
+    <i key="Welcomgroup Graduate School of Hotel Administration">
+      <v>Welcomgroup Graduate School of Hotel Administration </v>
+      <v>Welcome Group Grad. Sch. of Hotel Admin Manipal</v>
+    </i>
+    <i key="Welingkar Institute of Management Development and Research">
+      <v>Welingkar Institute of Management Development and Research </v>
+    </i>
+    <i key="West Bengal University of Technology">
+      <v>West Bengal University of Technology </v>
+    </i>
+    <i key="Wigan and Leigh College">
+      <v>Wigan and Leigh College </v>
+    </i>
+    <i key="Wildlife Institute of India">
+      <v>Wildlife Institute of India </v>
+    </i>
+    <i key="Xavier Institute of Social Service">
+      <v>Xavier Institute of Social Service</v>
+    </i>
+    <i key="Xavier Labour Relations Institute">
+      <v>Xavier Labour Relations Institute</v>
+    </i>
+    <i key="Xavier's Institute of Management">
+      <v>Xavier's Institute of Management</v>
+    </i>
+    <i key="XIM Bhubaneswar">
+      <v>XIM Bhubaneswar</v>
+    </i>
+    <i key="XISS Ranchi">
+      <v>XISS Ranchi</v>
+    </i>
+    <i key="XLRI Jamshedpur">
+      <v>XLRI Jamshedpur</v>
+    </i>
+    <i key="Yashwantrao Chavan Maharashtra Open University">
+      <v>Yashwantrao Chavan Maharashtra Open University </v>
+    </i>
+    <i key="YMCA">
+      <v>YMCA</v>
+    </i>
+    <i key="Young Men Christian Association">
+      <v>Young Men Christian Association </v>
+    </i>
+    <i key="Young Womens Christian Association">
+      <v>Young Womens Christian Association </v>
+    </i>
+  </institutes>
+</lists>

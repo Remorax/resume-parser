@@ -1,0 +1,87 @@
+
+
+
+Address:		H.No-57, Haturlim Mayem,
+Bicholim-Goa.
+Pin code- 403 504.
+Mobile:		+919823698147
+Phone:			0832-2387189
+E-mail:			naikdiptesh22@gmail.com
+Date of Birth:		22ndOctober 1990
+Gender: 		Male
+Nationality: 		Indian
+Marital Status: 	Single
+Employment 
+Registration no.:	X0140
+
+
+WORK EXPERIENCE
+
+Working in O Pescador Dona Paula Beach Resort for the last two and a half year as 
+	•	Receptionist. 
+	•	H R Assistant for Scheduling.
+	•	Maintenance Assistant, trouble shooting IT and electronic issue.
+	•	System maintenance.
+	•	Resolving software issues.
+	•	Soldering/ De-soldering techniques. 
+	•	Expert in soft skills (word, Excel & power point).
+
+summary of Qualifications
+
+2014	Completed 2Yr Course in M.Sc (Electronics) from Goa University. B+ Grade
+
+2011	Completed 3Yr Course in B.Sc(Computer Science) from Govt. College Of Arts Science and Commerce Sanquelim, securing  63 %.                  
+
+2008	Completed Higher Secondary Certificate from Govt. Higher Secondary
+	 under Goa Board, securing  46%.
+
+2006	Completed Secondary School Certificate from New Goa G.S Amonkar Vidhya Mandir Mapusa, under Goa Board, securing  49%.
+
+
+COMPUTING AND OTHER SKILLS
+
+Programming in C, C#
+Knowledge  in Sql & DBMS
+Worked with 8085, 8086 microprocessor.
+Worked with ARM LPC21XX, PIC16F877, 89C51,89C52 microcontrollers.
+Worked with Texas Instruments TMS320XX DSP.
+Worked with EDA tools like Matlab, Proteus,Pspice,Microwind,MPLAB, Keil for ARM and C51,NI Labview.
+Worked with FPGA namely the Altera Cyclone 2 and Quartus II software.
+Knowledge in Microelectronics and VLSI Design
+B.Sc Level Project Information:  Online Classified System (Website)
+In this project, we have developed a website which allows online user to buy/sell goods or their asset like bike, cars, dogs, etc. Plus they can get latest news updates. Even there was a provision for the advertisement.
+
+
+
+M.Sc Level Project Information: Image processing Algorithm on FPGA
+
+This project is about implementation of Image processing algorithms such as filtering, scaling, edge detection and clipping on Altera Video development board having target as CYCLONE III (EP3C120F780C7). Here the input image is taken from Terasic DVI daughter card interfaced to Video development board. The designed algorithm on FPGA platform gives best and quick results
+
+PERSONAL STRENGTHS
+
+A Performance & Result oriented person. Strong will power, good learning capacity, quick grasping Power, positive frame of mind, easily adaptive & adjustable with all types of working environment and have the ability to function well in a team as well as independently, self-motivated and committed to my work and responsibilities.
+
+LINGUAL SKILLS
+
+Language
+ENGLISH
+HINDI
+KONKANI
+Read
+	•	
+	•	
+	•	
+Write
+	•	
+	•	
+	•	
+Speak
+	•	
+	•	
+	•	
+
+EXTRA CURRICULAR ACTIVITIES AND INTERESTS
+
+I like to listen to music. I love watching movies.
+I am interested in sports and I play cricket
+

@@ -1,0 +1,399 @@
+<functionalareas>
+  <fa name="Accounts / Auditing / Taxation">
+    <k>Accounts</k>
+    <k>Branch Accounting</k>
+    <k>Costing</k>
+    <k>Direct Taxation</k>
+    <k>Indirect Taxation</k>
+    <k>Internal Audit</k>
+    <k>Sales Accounting</k>
+    <k>Statutory Audit</k>
+    <k>Tax Audit</k>
+    <k>Transfer Pricing</k>
+    <k>Treasury</k>
+    <k>Cost Accounting</k>
+  </fa>
+  <fa name="Administration / Facilities Management">
+    <k>Administration</k>
+    <k>Facilities</k>
+    <k>Security</k>
+    <k>Housekeeping</k>
+    <k>Transport</k>
+    <k>Despatch</k>
+  </fa>
+  <fa name="Airline / Reservations / Ticketing / Travel">
+  </fa>
+  <fa name="ana Test">
+    <k>aa</k>
+    <k>temp</k>
+  </fa>
+  <fa name="Architects / Interior Design / Naval Arch.">
+    <k>designer</k>
+  </fa>
+  <fa name="Architecture / Interior Design">
+    <k>Architect</k>
+    <k>Designer</k>
+    <k>Draughtsman</k>
+    <k>Town Planner</k>
+  </fa>
+  <fa name="Art Director / Graphic Designer / Web Designer">
+  </fa>
+  <fa name="Back Office(Secretarial / Office Assistants )">
+    <k>Secretarial</k>
+    <k>Clerical</k>
+    <k>Assistants</k>
+    <k>Personal assistants</k>
+    <k>Stenographer</k>
+    <k>Data Entry</k>
+  </fa>
+  <fa name="Banking &amp;amp; Insurance - Technical">
+    <k>Branch Accounting</k>
+    <k>Clearing</k>
+    <k>Consumer Banking</k>
+    <k>Investment Banking</k>
+    <k>Corporate Banking</k>
+    <k>Consumer Finance</k>
+    <k>Retail Liabilities</k>
+    <k>Cash Management</k>
+    <k>Retail Assets</k>
+    <k>Foreign Exchange</k>
+    <k>Fixed Income</k>
+    <k>Securities</k>
+    <k>Broking</k>
+    <k>Trade Finance</k>
+    <k>Wholesale Banking</k>
+    <k>Wealth Management</k>
+    <k>Securitiz</k>
+  </fa>
+  <fa name="Banking / Insurance / Financial Services">
+  </fa>
+  <fa name="Billing / Collections / Recovery / Credit / Risk">
+    <k>Billing</k>
+    <k>Collections</k>
+    <k>Recovery</k>
+    <k>Verification</k>
+    <k>Assesment</k>
+    <k>Debt Management</k>
+    <k>Revenue Assurance</k>
+    <k>Market Risk</k>
+    <k>Product Risk</k>
+    <k>Operational Risk</k>
+    <k>Credit Analysis</k>
+  </fa>
+  <fa name="Business Development / Sales">
+    <k>Retail</k>
+    <k>Corporate</k>
+    <k>Key Accounts</k>
+    <k>Institutional</k>
+    <k>Government</k>
+    <k>Rural</k>
+    <k>SME</k>
+    <k>B2B</k>
+    <k>Enterprise</k>
+    <k>Global</k>
+    <k>Channel</k>
+    <k>Dealer</k>
+    <k>Distributor</k>
+    <k>Pre Sales</k>
+    <k>Sales Coordination</k>
+    <k>Modern Trade</k>
+    <k>Merchandising</k>
+  </fa>
+  <fa name="Client Servicing">
+    <k>Account Director</k>
+    <k>Client Servicing</k>
+    <k>Creative</k>
+    <k>Media buying</k>
+    <k>Media Planning</k>
+  </fa>
+  <fa name="Construction">
+  </fa>
+  <fa name="Corporate Planning / Consulting / Strategy">
+  </fa>
+  <fa name="Creative / Studio">
+    <k>Visualiser</k>
+    <k>Editing</k>
+    <k>Copywriting</k>
+    <k>Graphic Designing</k>
+    <k>Production</k>
+  </fa>
+  <fa name="Customer Care">
+    <k>Customer care</k>
+    <k>Customer Services</k>
+    <k>Telecalling</k>
+    <k>Tele Marketing</k>
+    <k>Call Center</k>
+    <k>Guest Relations</k>
+    <k>Service Delivery</k>
+    <k>Process Leader</k>
+    <k>Transition</k>
+    <k>Migration</k>
+    <k>Retention</k>
+    <k>Store Operations</k>
+    <k>Data Processing</k>
+  </fa>
+  <fa name="Customer Support - Technical&#xD;">
+  </fa>
+  <fa name="Distribution &amp; Delivery / Courier">
+  </fa>
+  <fa name="Doctors/ Medical Professionals / Paramedical functions / Clinical Research &#xD;">
+  </fa>
+  <fa name="Engineering / Manufacturing / Production / Maintenance&#xD;">
+  </fa>
+  <fa name="Entertainment / Media / Journalism / Editors / Content">
+  </fa>
+  <fa name="Entrepreneur / Businessman / Management Consultant">
+  </fa>
+  <fa name="Export / Import">
+  </fa>
+  <fa name="Fashion">
+  </fa>
+  <fa name="Finance">
+    <k>Working Capital Mgmt</k>
+    <k>Budgeting</k>
+    <k>Costing</k>
+    <k>International Finance</k>
+    <k>Planning</k>
+    <k>Financial MIS</k>
+    <k>Project Financing</k>
+    <k>Financial Analysis</k>
+    <k>Mergers and Acquisition</k>
+    <k>Investor Relations</k>
+    <k>IPO</k>
+    <k>Transfer Pricing</k>
+    <k>Corporate Planning</k>
+    <k>Business Planning</k>
+    <k>Business analysis</k>
+  </fa>
+  <fa name="Finance / Accounting / Tax / Company Secretary / Audit">
+    <k>Finance</k>
+    <k>Accounting</k>
+    <k>sdfd</k>
+    <k>Chartered Accountants of India</k>
+  </fa>
+  <fa name="Front Office / Receptionist">
+    <k>Front Office</k>
+    <k>Reception</k>
+    <k>Guest Relations</k>
+  </fa>
+  <fa name="Front Office / Secretarial / Computer Operator">
+  </fa>
+  <fa name="General Management">
+    <k>Profit Centre</k>
+  </fa>
+  <fa name="Hotels / Restaurant Management">
+  </fa>
+  <fa name="HR / Recruitment / Admin / PM / IR / Training">
+  </fa>
+  <fa name="Human Resource / Personnel / IR">
+    <k>Recruitment</k>
+    <k>Performance Management</k>
+    <k>Compensation &amp; Benefits</k>
+    <k>Talent Management</k>
+    <k>OB</k>
+    <k>OD</k>
+    <k>Psychometric Assessment</k>
+    <k>Employee Relations</k>
+    <k>Payroll</k>
+    <k>SAP HR</k>
+    <k>Personnel</k>
+    <k>Industrial Relations</k>
+  </fa>
+  <fa name="International Trade - Import / Export">
+    <k>Export</k>
+    <k>Import</k>
+    <k>Documentation</k>
+    <k>Shipping</k>
+    <k>Liaison</k>
+    <k>Trading</k>
+    <k>Sales</k>
+    <k>Business Development</k>
+  </fa>
+  <fa name="ITES / BPO / Operations / Customer Service / Telecalling">
+  </fa>
+  <fa name="Legal / Law">
+  </fa>
+  <fa name="Legal / Law / Company Secretary">
+    <k>Practitioner</k>
+    <k>Lawyer</k>
+    <k>Attorney</k>
+    <k>Patent</k>
+    <k>Solicitor</k>
+    <k>Regulatory</k>
+    <k>Documentation</k>
+    <k>Vetting</k>
+    <k>Due diligence</k>
+    <k>Company Secretary</k>
+    <k>Mergers and Acquisition</k>
+    <k>Arbitration</k>
+  </fa>
+  <fa name="Marketing / Product Management / Brand Management / Corporate Communication / PR &#xD;">
+  </fa>
+  <fa name="Medical / Healthcare">
+  </fa>
+  <fa name="Mktg / Advtg / PR / MR / Media Plng / Evnt Mgmt / Corp Comm">
+  </fa>
+  <fa name="Oil &amp; Gas">
+  </fa>
+  <fa name="Oil &amp;amp; Gas - Technical">
+    <k>Drilling</k>
+    <k>Desalination</k>
+    <k>Gas Turbine</k>
+    <k>Safety</k>
+    <k>HVAC</k>
+    <k>Siesmic</k>
+    <k>Thermal</k>
+    <k>Geosciences</k>
+    <k>Geophysicist</k>
+    <k>Reservoir</k>
+    <k>Geologist</k>
+    <k>Petrophysicist</k>
+    <k>Offshore</k>
+    <k>Onshore</k>
+    <k>field</k>
+    <k>Rotating equipment</k>
+    <k>Pipline</k>
+    <k>Well engineering</k>
+    <k>HSE Management</k>
+    <k>Upstream</k>
+    <k>Downstream</k>
+    <k>Draughtsman</k>
+    <k>ForeMan</k>
+    <k>EPC</k>
+    <k>Data Ma</k>
+  </fa>
+  <fa name="Others">
+  </fa>
+  <fa name="Packaging Development">
+  </fa>
+  <fa name="Pharmaceutical / Biotechnology">
+  </fa>
+  <fa name="Power &amp;amp; Energy - Technical">
+    <k>Transmission</k>
+    <k>Distribution</k>
+    <k>Thermal</k>
+    <k>Solar</k>
+    <k>Coal</k>
+    <k>Gas</k>
+    <k>Combined</k>
+    <k>Hydro</k>
+    <k>Wind</k>
+    <k>Biomass</k>
+    <k>EPC</k>
+    <k>Operations</k>
+  </fa>
+  <fa name="Prod. or Service Engg. / Manufacturing / Maintenance / R&amp;D">
+  </fa>
+  <fa name="Project Management / Site Engineers">
+  </fa>
+  <fa name="Projects / Project Management&#xD;">
+  </fa>
+  <fa name="Purchase / Supply Chain Management">
+  </fa>
+  <fa name="Purchase / Vendor Development / Materials / Stores / Logistics / Distribution / Supply Chain / Comme">
+  </fa>
+  <fa name="Quality &#xD;">
+  </fa>
+  <fa name="R &amp;amp; D / Engineering Design">
+    <k>R and D</k>
+    <k>Product Development</k>
+    <k>Drug Regulatory</k>
+    <k>Documentation</k>
+    <k>Regulatory Affairs</k>
+    <k>Design</k>
+    <k>Medical Writing</k>
+    <k>Quality Assuarance</k>
+    <k>Quality Control</k>
+  </fa>
+  <fa name="Real Estate /Property">
+  </fa>
+  <fa name="Retail Chains">
+  </fa>
+  <fa name="Safety, Health, Environment&#xD;">
+  </fa>
+  <fa name="Sales / Business Development / Client Servicing">
+  </fa>
+  <fa name="Security">
+  </fa>
+  <fa name="Senior Management">
+  </fa>
+  <fa name="Software Development&#xD;">
+  </fa>
+  <fa name="Software Development - Application Programming">
+  </fa>
+  <fa name="Software Development - Client Server">
+  </fa>
+  <fa name="Software Development - Database Administration">
+  </fa>
+  <fa name="Software Development - e-commerce / Internet Technologies">
+  </fa>
+  <fa name="Software Development - Embedded Technologies">
+  </fa>
+  <fa name="Software Development - ERP / CRM">
+  </fa>
+  <fa name="Software Development - Mainframe">
+  </fa>
+  <fa name="Software Development - Middleware">
+  </fa>
+  <fa name="Software Development - Mobile">
+  </fa>
+  <fa name="Software Development - Network Administration">
+  </fa>
+  <fa name="Software Development - Others">
+  </fa>
+  <fa name="Software Development - QA and Testing">
+  </fa>
+  <fa name="Software Development - System Programming">
+  </fa>
+  <fa name="Software Development - Systems / EDP / MIS">
+  </fa>
+  <fa name="Software Development - Telecom Software">
+  </fa>
+  <fa name="Software, Hardware, EDP">
+  </fa>
+  <fa name="Teaching / Education / Language Specialist">
+  </fa>
+  <fa name="Telecom - Technical">
+    <k>RF</k>
+    <k>Switch</k>
+    <k>Transmission</k>
+    <k>BSS</k>
+    <k>NSS</k>
+    <k>Optimization</k>
+    <k>Planning</k>
+    <k>Design</k>
+    <k>Core NSS</k>
+    <k>Packet Core</k>
+    <k>Soft Switch</k>
+    <k>MSC</k>
+    <k>MSS</k>
+    <k>BTS</k>
+    <k>IN</k>
+    <k>NPI</k>
+    <k>KPI</k>
+    <k>GSM</k>
+    <k>GPRS</k>
+    <k>Embedded Technologies</k>
+    <k>Router</k>
+    <k>CDMA</k>
+    <k>Network Planning</k>
+    <k>Installation</k>
+    <k>Network Administration</k>
+    <k>System Security</k>
+    <k>Customer Support</k>
+    <k>Solution A</k>
+  </fa>
+  <fa name="Telecom / ISP / IT-Hardware / Tech. Staff / Support">
+  </fa>
+  <fa name="Test">
+  </fa>
+  <fa name="Textile - Technical">
+    <k>Dyeing</k>
+    <k>Spinning</k>
+    <k>Weaving</k>
+    <k>Bleaching</k>
+    <k>Merchandising</k>
+  </fa>
+  <fa name="Training / Learning &amp; Development&#xD;">
+  </fa>
+</functionalareas>

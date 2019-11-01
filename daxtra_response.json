@@ -1,0 +1,481 @@
+{
+   
+   "Resume" : {
+      "StructuredResume" : {
+         "Competency" : [
+            {
+               "skillLevel" : 90,
+               "skillName" : "Network Management",
+               "description" : "Skill",
+               "auth" : true,
+               "skillUsed" : {
+                  "value" : 9,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT",
+               "skillAliasArray" : [
+                  "manage the network"
+               ]
+            },
+            {
+               "skillLevel" : 88,
+               "skillName" : "Software Development",
+               "description" : "Skill",
+               "auth" : false,
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "auth" : false,
+               "skillLevel" : 88,
+               "skillName" : "rigorous testing",
+               "lastUsed" : "2014",
+               "description" : "Skill",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "skillLevel" : 87,
+               "skillName" : "Web Application Development",
+               "description" : "Skill",
+               "auth" : true,
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT",
+               "skillAliasArray" : [
+                  "Web Development"
+               ]
+            },
+            {
+               "skillLevel" : 86,
+               "skillName" : "Drupal",
+               "description" : "Skill > IT",
+               "auth" : true,
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT",
+               "skillAliasArray" : [
+                  "Drupal 7 7"
+               ]
+            },
+            {
+               "skillLevel" : 85,
+               "skillName" : "Framework",
+               "description" : "Skill > IT",
+               "auth" : true,
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "AngularJS",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it > progr-tool"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "Angular"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "C Programming Language",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it > ccplusplus > progr-lang"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "C"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "C++",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it > ccplusplus"
+               },
+               "description" : "Skill > IT"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "Cascading Style Sheets",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "CSS"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "HTML",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "description" : "Skill > IT"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "JScript",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "JS"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "Java",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it > java > progr-tool"
+               },
+               "description" : "Skill > IT"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "MySQL",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "description" : "Skill > IT"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "Personal Home Page",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "PHP"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 14,
+               "skillName" : "Python Programming",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it > progr-lang"
+               },
+               "description" : "Skill > IT",
+               "skillAliasArray" : [
+                  "Python"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 33,
+               "skillName" : "Japanese",
+               "description" : "Skill > Language"
+            },
+            {
+               "skillLevel" : 100,
+               "skillName" : "OVERALL COORDINATOR",
+               "description" : "Held Position",
+               "auth" : false,
+               "skillUsed" : {
+                  "value" : 7,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "secretarial"
+               },
+               "lastUsed" : "2015",
+               "skillProficiency" : "EXCELLENT",
+               "skillAliasArray" : [
+                  "the Overall Coordinator"
+               ]
+            },
+            {
+               "skillLevel" : 90,
+               "skillName" : "SYSTEM ADMINISTRATOR",
+               "description" : "Held Position",
+               "auth" : false,
+               "skillUsed" : {
+                  "value" : 9,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "skillLevel" : 90,
+               "skillName" : "WEB MANAGER",
+               "description" : "Held Position",
+               "auth" : false,
+               "skillUsed" : {
+                  "value" : 12,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "it"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "skillLevel" : 88,
+               "skillName" : "Research Intern",
+               "description" : "Held Position",
+               "auth" : false,
+               "skillUsed" : {
+                  "value" : 2,
+                  "type" : "Months"
+               },
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "medicine"
+               },
+               "lastUsed" : "2014",
+               "skillProficiency" : "EXCELLENT"
+            },
+            {
+               "auth" : false,
+               "skillLevel" : 14,
+               "skillName" : "Production Head",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "engineering"
+               },
+               "description" : "Held Position"
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 92,
+               "skillName" : "Masters Degree > Master of Technology",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "masters"
+               },
+               "description" : "Degree/Qualification",
+               "skillAliasArray" : [
+                  "M.Tech."
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 91,
+               "skillName" : "Bachelors Degree > Bachelor of Technology",
+               "TaxonomyId" : {
+                  "idOwner" : "DAXTRA",
+                  "description" : "bachelors"
+               },
+               "description" : "Degree/Qualification",
+               "skillAliasArray" : [
+                  "B.Tech"
+               ]
+            },
+            {
+               "auth" : true,
+               "skillLevel" : 100,
+               "skillName" : "industry~it",
+               "skillCount" : 3,
+               "description" : "Industry"
+            }
+         ],
+         "EmploymentHistory" : [
+            {
+               "employerOrgType" : "soleEmployer",
+               "EndDate" : "2015-04",
+               "MonthsOfWork" : 7,
+               "LocationSummary" : {
+                  "Municipality" : "Mumbai",
+                  "Region" : "Maharashtra",
+                  "CountryCode" : "IN"
+               },
+               "EmployerOrgName" : "Helios & Energy Day IITB",
+               "Title" : [
+                  "OVERALL COORDINATOR"
+               ],
+               "OrgName" : "Helios & Energy Day IITB",
+               "PositionType" : "CONTRACT",
+               "JobArea" : "secretarial",
+               "StartDate" : "2014-10",
+               "Description" : "Helios & Energy Day IITB    [ Nominated as the Overall Coordinator of department festival of Energy Science Department\n* Led a team of 12 core members and more than 50 volunteers to organize one day event of Helios and Energy Day ; \n* Gathered 70+ Professionals from different energy sectors and students from more than 20 colleges across Mumbai ; \n* Handled a budget of 300k for the operations, logistics, media, events and competitions of the festival"
+            },
+            {
+               "employerOrgType" : "soleEmployer",
+               "EndDate" : "2014-06",
+               "MonthsOfWork" : 2,
+               "EmployerOrgName" : "THERMAL ENERGY SOLUTIONS",
+               "Title" : [
+                  "Research Intern"
+               ],
+               "OrgName" : "THERMAL ENERGY SOLUTIONS",
+               "PositionType" : "CONTRACT",
+               "JobArea" : "it",
+               "StartDate" : "2014-05",
+               "Description" : "Programmed a first of its kind PHP MySQL based online application to do the cold storage calculations of the Thermal\nEnergy Storages Designed by the company, \n* Automated the cold storage design calculations of system, achieved 80% reduction in time (15 hours to 3 hours) ; \n* Verified thermal stability of 3 PlugnChill Systems each worth Rs 500k by performing 8 hours of live rigorous testing ; \n* Integrated modules to the application to design cold storage for the flagship product of company- `PlugnChill' ; \n* Applied cold storage calculations on 23 existing designs, successfully verified data with accuracies greater than 90%\nFREELANCING \t Web Development\nProject Opportunities seized due to unprecedented skill set\n* Redeveloped and Redesigned the Energy Science Department website www.ese.iitb.ac.in, using Drupal 7 Framework ; \n* Developed the website of Helios 2014, one of the key factors for receiving the responsibility of Overall Coordinator ;"
+            },
+            {
+               "employerOrgType" : "soleEmployer",
+               "EndDate" : "2014-03",
+               "MonthsOfWork" : 9,
+               "EmployerOrgName" : "Hostel 6",
+               "Title" : [
+                  "SYSTEM ADMINISTRATOR"
+               ],
+               "OrgName" : "Hostel 6",
+               "PositionType" : "PERMANENT",
+               "JobArea" : "it",
+               "StartDate" : "2013-07",
+               "Description" : "Elected by an electorate of over 500 people to hold the responsibility of entire network of hostel 6\n* Led a team of 3 to manage the network and Computer room of the hostel, increased the approval rating by 60% \n* Procured 4 new desktops for the hostel's computer room worth 100k of investment, raised from Alumni funds ; \n* Developed an online food ordering portal based on PHP MySQL, grabbed 1000+ orders in 20 visits by KFC/McDonalds"
+            },
+            {
+               "employerOrgType" : "soleEmployer",
+               "EndDate" : "2014-03",
+               "MonthsOfWork" : 12,
+               "EmployerOrgName" : "Team Shunya",
+               "Title" : [
+                  "WEB MANAGER"
+               ],
+               "OrgName" : "Solar Decathlon",
+               "PositionType" : "PERMANENT",
+               "JobArea" : "it",
+               "JobGrade" : "joblevel-management-low",
+               "StartDate" : "2013-04",
+               "Description" : "Led a team of 6 to develop the website of Team Shunya\n* Organized events to promote team's motto of Sustainable housing and increase awareness about solar powered house ; \n* Organized, Developed and hosted PHP MySQL based online crypt hunt Decipher, registered more than 500 participants ; \n* Secured Numerous deals with newspapers and magazines to publish 20 articles and coverage by 2 media channels"
+            }
+         ],
+         "PersonName" : {
+            "FormattedName" : "Anshul Mehra",
+            "FamilyName" : "Mehra",
+            "GivenName" : "Anshul",
+            "sex" : "Male"
+         },
+         "RevisionDate" : "2015-12-01",
+         "lang" : "en",
+         "DOB" : "1994-02-22",
+         "Languages" : [
+            {
+               "Speak" : true,
+               "LanguageCode" : "ja",
+               "Write" : true,
+               "Read" : true
+            }
+         ],
+         "EducationHistory" : [
+            {
+               "schoolType" : "university",
+               "Major" : "Energy Systems",
+               "Degree" : {
+                  "degreeType" : "intermediategraduate"
+               },
+               "SchoolName" : "Indian Institute of Technology Bombay"
+            },
+            {
+               "EndDate" : "2016",
+               "Comments" : "POSITIONS OF RESPONSIBILITY",
+               "LocationSummary" : {
+                  "Municipality" : "Bombay",
+                  "Region" : "Maharashtra",
+                  "CountryCode" : "IN"
+               },
+               "schoolType" : "unknown",
+               "StartDate" : "notKnown",
+               "SchoolName" : "IIT"
+            }
+         ]
+      },
+      "ExperienceSummary" : {
+         "HighestEducationalLevel" : "masters",
+         "TotalYearsOfManagementWorkExperience" : 1,
+         "TotalYearsOfLowLevelManagementWorkExperience" : 1,
+         "TotalMonthsOfWorkExperience" : 30,
+         "ExecutiveBrief" : "Anshul Mehra has been working in the IT occupational sector for more than 2 years. Anshul has extensive knowledge of Drupal, Framework. Anshul has some experience in management (12 months).",
+         "TotalMonthsOfLowLevelManagementWorkExperience" : 12,
+         "TotalMonthsOfManagementWorkExperience" : 12,
+         "TotalYearsOfWorkExperience" : 2,
+         "ManagementRecord" : "Since 2013-04, for a total duration of 12 months, this candidate had experience at a lower grade management level working as a WEB MANAGER at Team Shunya.\n"
+      },
+      "FileStruct" : {
+         "attachment" : [
+            {
+               "conv" : "yes",
+               "lang" : "EN",
+               "doc_type" : "cv",
+               "fname" : "0292405029662714",
+               "content" : "/tmp/0.854603038941608",
+               "ftype" : "pdf"
+            }
+         ],
+         "filename" : "/tmp/0.854603038941608"
+      },
+      "src" : "DAXTRA-CVX schema:2.0.34 release:0.21.0.46617 rdate:2016-12-02",
+      "TextResume" : "\n\n\n\n\n\n\n\n{{DOCUMENT_DATESTAMP}} 2015-12-01 15:14:24 {{END_DOCUMENT_DATESTAMP}}\n\n\n\n\n\n\nAnshul Mehra\nEnergy Science and Engineering\nIndian Institute of Technology Bombay\nSpecialization: Energy Systems Engineering\n\n\n\n11D170021\nDual Degree (B.Tech+M.Tech.)\nMale\nDOB: 22-02-1994\n\n\nExamination         University                           Institute                                     Year      CPI / %\n\nGraduation          IIT Bombay                           IIT Bombay                                    2016      6.26\n                                         POSITIONS OF RESPONSIBILITY\nOVERALL COORDINATOR \t Helios & Energy Day IITB                                                    [Oct '14 -April '15]\nNominated as the Overall Coordinator of department festival of Energy Science Department\n* Led a team of 12 core members and more than 50 volunteers to organize one day event of Helios and Energy Day ; \n* Gathered 70+ Professionals from different energy sectors and students from more than 20 colleges across Mumbai ; \n* Handled a budget of 300k for the operations, logistics, media, events and competitions of the festival\nSYSTEM ADMINISTRATOR \t Hostel 6                                                                        [Jul '13 - Mar '14]\nElected by an electorate of over 500 people to hold the responsibility of entire network of hostel 6\n* Led a team of 3 to manage the network and Computer room of the hostel, increased the approval rating by 60% \n* Procured 4 new desktops for the hostel's computer room worth 100k of investment, raised from Alumni funds ; \n* Developed an online food ordering portal based on PHP MySQL, grabbed 1000+ orders in 20 visits by KFC/McDonalds\nWEB MANAGER \t Team Shunya, Solar Decathlon, Europe                                                      [Apr '13 - Mar `14]\nLed a team of 6 to develop the website of Team Shunya\n* Organized events to promote team's motto of Sustainable housing and increase awareness about solar powered house ; \n* Organized, Developed and hosted PHP MySQL based online crypt hunt Decipher, registered more than 500 participants ; \n* Secured Numerous deals with newspapers and magazines to publish 20 articles and coverage by 2 media channels\n\n                                           PROFESSIONAL EXPERIENCE\nTHERMAL ENERGY SOLUTIONS \t Research Intern, Software Development                                      [May '14 - Jun '14]\nProgrammed a first of its kind PHP MySQL based online application to do the cold storage calculations of the Thermal\nEnergy Storages Designed by the company, \n* Automated the cold storage design calculations of system, achieved 80% reduction in time (15 hours to 3 hours) ; \n* Verified thermal stability of 3 PlugnChill Systems each worth Rs 500k by performing 8 hours of live rigorous testing ; \n* Integrated modules to the application to design cold storage for the flagship product of company- `PlugnChill' ; \n* Applied cold storage calculations on 23 existing designs, successfully verified data with accuracies greater than 90%\nFREELANCING \t Web Development\nProject Opportunities seized due to unprecedented skill set\n* Redeveloped and Redesigned the Energy Science Department website www.ese.iitb.ac.in, using Drupal 7 Framework ; \n* Developed the website of Helios 2014, one of the key factors for receiving the responsibility of Overall Coordinator ; \n* Designed the website using Foundation Framework for an Australia based business start-up www.decoroma.com.au\n                                             KEY ACADEMIC PROJECTS\nCARTESIAN CUT CELL METHODOLOGY \t Master's Project, Guide: Prof. Suneet Singh                           [July '15 - Present]\nDevelopment of a New Cartesian Cut Cell Methodology for solving non rectangular boundary cells\n* Proposed a new methodology for the Nodal Integral Calculations of non-rectangular cells in irregular meshes ; \n* Currently working on applying the proposed methodology to Heat transfer problems with complex geometries\nCOAL MANAGEMENT \tCourse Project \t Guide: Prof. Rangan Banerjee                                          [Jul '13 - Nov`13]\nDeveloped a linear regression model to predict future production of new coal blocks allocations for different sectors \n* Obtained Linear regression equations and predicted coal production data till 2030 for given allocation trends ; \n* Used Linear Transformation techniques to transform the year wise allocation data of all sectors in linear form\n\n                                        EXTRA-CURRICULAR ACTIVITIES\n  PROGRAMMING        C, C++, HTML, JS, CSS, Angular, Python, R, Mat Lab, Arduino, Java, PHP, MySQL\n      SKILLS\n     HOSTEL          Winner of Performance Arts Festival, handled the stage production as the Production Head         `14\n    ACTIVITIES       Awarded Technical Color(1 out of 4) for exemplary contribution to hostel's technical activities `13\n    LANGUAGE         Cleared basic proficiency course in Japanese certified by the Kyo International             `13\n   PROFICIENCY       Cleared basic proficiency course in Spanish, conducted as a part of Non-tech Summer School `13\n MISCELLANEOUS       Worked in National Service Scheme, organized events including cloth collection campaign    `11\n\n",
+      "ParserInfo" : {
+         "ConverterRelease" : "0.14.0.46617",
+         "ParserConfiguration" : "{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=0} {keep_span=1} {complex=0} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=} {pers_only=0} {projects_off=0} {tree_search_on=0} {all_skills=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {debug=0} {ocr_allowed=1} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=1}{spool=} {docID=} {user=zinghr} ",
+         "ParserRelease" : "0.21.0.46617",
+         "ParserReleaseDate" : "2016-12-02",
+         "ConverterReleaseDate" : "2016-12-02",
+         "ParserSchema" : "2.0.34"
+      }
+   }
+}

@@ -1,0 +1,92 @@
+Arun Goyal
+Citizenship : Indian ▪ Date of birth : 04-02-1988
+
+Contact
+Tel : +91 8591156653
+e-Mail :yuva2009arun@gmail.com
+
+
+Address
+Goyal medicos,near co-operative bank, narwana road patran
+
+
+Profile
+Objective
+To apply my exceptional communication, interpersonal, and organizational skills, as well as knowledge acquired through a bachelor’s degree in baking sector.
+
+
+
+
+
+Key Skills
+Familiar with a vast array of programming languages, concepts and technologies, including:
+C++,Core Java (J2SE).
+Mysql,db2.
+Windows (98/XP/Vista, 7).
+MS word,MS office.
+
+
+
+
+
+
+
+Education
+2010 to 2013
+Bachelor of Technology in Computer Science with 77%. 
+Punjabi University, Patiala.
+2007 to 2010
+Diploma  With 72% in PSBTE, Thapar Polytechnic College Patiala.
+2003 to 2004
+10th  With 72% in PSEB 
+
+
+
+Experience
+Jan 2013 to april 2013
+Coustmer care executive in competent synergies mohali
+July 2013 to april 2014
+Worked as lecturer in T.I.M.T college patran
+
+ 
+
+
+Projects
+         
+          Online Shopping mall—
+                 The main objective of online shopping site to manage the items in the shop and also help customers purchase them online without having to visit the shop physically .The system must maintain central data for all customers, sales bills, payments and visitors of the site  at the Admin site only.  
+           Some of its features are:
+             1. Better interface of daily processes in retail store.
+2. Holds features like stock entry, stock details.
+3. In assembled PC purchasing it helps in implicit calculation of prices as according to accessories are chosen.
+4. Bill is calculated and thus saved in the record.
+This project has been developed mainly with IBM Technologies. The various technologies on which project has been built upon  is as below— 
+Hardware:-
+	•	Processor  :  Intel(Core2Duo)
+	•	RAM           : 1 GB
+	•	HDD           :  40 GB
+
+
+
+
+Software:-
+	•	Frontend                 :  JDK6.
+	•	Backend                  :  DB2 Express C.
+	•	Operating System  :  All.
+	•	Software                 : Eclipse
+	•	Web Server             :  Apache Tomcat Server 6.1 
+
+
+Activities and Interests
+1. Sports: Football, Badminton, Volley-ball .
+2. PC games: Counter Strike 1.6, Need for Speed (Hot Pursuit).
+3. Chess, Cards.
+
+
+Declaration:
+I hereby declare that all the information provided by me is true and up to best of my cognizance.
+Date: 27/09/2014                                                                                                                                        Arun Goyal
+Place: Patran
+
+
+

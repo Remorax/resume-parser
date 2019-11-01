@@ -1,0 +1,141 @@
+Nishita Sahni
+Email: nish_sahni@yahoo.com
+Contact: 9711966528
+OBJECTIVE
+To work with an organization that can provides me meaningful and challenging position for my professional as well as personal growth by exploring my capabilities.
+
+PROFESSIONAL SUMMARY
+	•	4.5+ years of experience as Software Engineer in Microsoft Technologies.
+	•	Expertise in software design, analysis, development, testing and implementation of web and client server applications. 
+	•	Experienced ASP.NET professional for application development.
+	•	Proficient in writing codes and development of new programs. Also, well versed in writing advance & optimised SQL queries & stored procedures.
+	•	Experience in debugging using Visual Studio.
+
+TECHNICAL KNOW-HOW 
+
+Hands On Experience
+Additional Knowledge
+Technology
+ASP.NET, MVC 4.0, ADO.NET
+.NET Class Libraries, Razor Engine.
+Programming/Languages
+C#, HTML, XML, JavaScript,  JQuery, AJAX, JSON, .NET 2.0, 3.5, 4.0
+.NET 4.5
+IDE
+Visual Studio 2005, 2010, 2012, 2013 , IIS 7.0, IIS 8.0, Dreamweaver
+Visual Studio 2015
+DBMS / RDBMS
+SQL Server 2000/2005/2008. MS Access
+Oracle, MySQL
+Middle Tier
+Web Services, WCF, WEB API
+Java Web Service, SOAP/REST Services, Entity Framework
+Others
+Ajax Toolkit , MS Office, CSS, Manual Testing
+Fiddler, Typescript, UML(Visio), Design Patterns, Agile Methodologies, LINQ, Unit testing
+Reporting Tools
+SQL Server Reporting Services (SSRS)
+Crystal Report.
+Version Control Tools
+Microsoft VSS, Microsoft TFS , SVN
+
+
+ACADEMIC- PROFESSIONAL QUALIFICATION
+	•	Masters in Computer Application (MCA) in 2016 from Sikkim Manipal University.
+	•	Bachelor’s Degree in Political Science in 2011 from University of Delhi.
+	•	3 years Diploma in IT, GNIIT from NIIT.
+
+PROFESSIONAL EXPERIENCE
+Company Name
+Designation
+Tenure
+Domain
+EXL Services(I).com
+Software Engineer Senior Executive (.Net Developer)
+Jan’15 – till date (+1.5 Yr.(s))
+USA Healthcare
+NIIT Limited
+Software Developer (.Net Developer
+Jan’13 to Dec’14. (2 Yr.(s))
+Education
+Ranee Perfumer
+Web Developer (.Net Developer)
+Dec’11 to Jan’13. (1 Yr.(s))
+Manufacturing
+
+ROLE & RESPONSIBILITIES
+	•	To design, develop, test and deliver web applications using IIS, ASP.NET, C# and .Net framework. 
+	•	Implementation of Object Oriented Design (OOAD) and Programming (OOP) concepts. Used OOPs concepts for class development to streamline efficiency and ensure a scalable and reusable architecture.
+	•	To provide training(s) to new team members to make them job ready/productive for projects. Support ongoing applications and provide troubleshooting.
+	•	To implement styles on web pages using CSS to ensure compliance standards.
+	•	Involved in re-designing and development of MVC application for project enhancement.
+	•	To interact with the Onsite team and coordinate with them for changes required on regular basis.
+	•	Used Java Web Services as a middle tier for interacting with database, also participated in debugging it and use it in asp.net web application. Develop service-oriented applications using WCF and Web API.
+	•	Involved in the complete database and data access layer design. In-depth knowledge of SQL Server with experience in designing and implementing databases, writing queries, stored procedures, functions, triggers and views. 
+	•	Engage in requirements gathering and prepare use-cases in UML using MS Visio. Implemented Encryption/hashing and Regular expressions for efficient pattern matching and data extraction.
+	•	Create window services as per requirement for automating the daily manual tasks. 
+	•	Developed test strategies, test plans and test cases and performed Unit testing to identify and resolve integration, functional and usability issues before deployment. 
+
+PROJECT(s) UNDERTAKEN
+
+EXL Services.com
+Project Name: Care Radius Suite
+Tools and Technology: C#, Asp.net, Oracle 10g, Typescript, XML, JQuery, MVC 4.0, JSON, Java Web Service, WCF, Web Services, Ajax, SVN
+Project Synopsis
+	•	Care Radius is the renowned and trusted application used by leading Health Insurance brands in USA. The application is suitable for providers, hospital and health insurance Company for providing quick access to medical history of patients.
+	•	Care Radius Suite consists of various applications; Care Radius (Web Forms) and Care Affiliate (MVC) are two applications on which I have worked simultaneously.
+	•	Project is in compliance with HIPPA and ICD guidelines of USA Healthcare, which requires extensive and continuous learning to incorporate the appropriate functionality in the application.
+	•	Experienced working on multiple technical platforms (Java, Dot Net) simultaneously.
+	•	Multiple versions of the application (some in different framework) are at the exposure of different clients which gives me opportunity to work on different frameworks of .Net at the same time.
+
+NIIT Limited
+Project Name: Encore Vista
+Tools and Technology: C#, Asp.net, SQL Server 2005, Web Service, WCF, MVC 4.0, SSRS, VSS
+Project Synopsis
+	•	Encore Vista is a centralised application which supports day to day role based activities of many departments. All the different applications, business requirements of the organisation are dependent on Encore Vista.
+	•	Created customised reports, in SSRS technology, required for analysis by the management and users. 
+	•	Integrated two technologies to create a communication bridge between inventory module and finance module. Supported and maintained all the other modules also.
+	•	Initiated a team effort to migrate few pages of the application to MVC framework and WCF.
+
+Project Name: Academic Record Verification Service
+Tool and Technologies: C#, Asp.net, SQL Server, XML, TFS
+Project Synopsis: 
+	•	This is a web based application used for verifying the certificates issued by NIIT to the students. This is created to support the Verification teams of college and companies to easily verify student’s certificate.
+	•	Worked independently on various sections of the website, like implemented privacy to the certificates, provided role based logins, integrated the application with Encore Vista and migrated certification details from different database(s) to centralised certification database.
+	•	Implemented QR code on certificates for storing large amount of data in smaller space and providing common access for maximum information sharing/storing.
+
+Project Name: Campaigns (BJS, NITAT)
+Tool and Technologies: C#, Asp.net, SQL Server, VSS
+Project Synopsis: 
+	•	Supported and maintained the backend processes, for campaigning events held for various scholarships schemes introduced periodically. 
+	•	Independently monitored & controlled the end to end backend process which includes generating leads, enquiries, creating hall tickets and results processing as per the norms of the marketing team.
+
+Project Name: www.Niitstudent.com
+Tools and Technology: C#, Asp.net, SQL Server 2005, WCF, Web Services, RADPDF Control, VSS
+Project Synopsis
+	•	Stay connected while you learn and grow is the motive of the interactive digital online classroom for students at NIIT. Application’s key highlights are digital library for online videos and Pdf(s), study material, recorded lectures, social networking, and sharing knowledge with peers, reviewing personal educational assessment.
+	•	Experienced working with technology to deliver online videos with access control to the audience as per their role and integration with SharePoint.
+
+Ranee Perfumer
+Project Name: www.RaneePerfumer.com
+Tools and Technology: C#, Asp.net, HTML, JavaScript, SQL Server, CSS
+Project Synopsis
+	•	Ranee Perfumer is a product based company of fragrances – Perfumes manufacturer / dealer.
+	•	Created the company’s website with HTML, CSS and JavaScript as front end and ASP.NET, C# as the Backend.  
+	•	Experienced good exposure to website development as the start of my career. Individually created company’s website. Great exposure to web world and handled SEO for company’s business.
+	•	Also monitored/generated company’s sales with various ecommerce websites (Amazon, Flipkart and more) by maintaining stock, pricing and product listing.
+
+ACHEIVEMENTS
+	•	Microsoft Certified Technology Specialist (MCTS) in .Net Framework 3.5, Asp.net Applications. 
+	•	Designed Template Website on Travel Portal in Visual Studio 2008 as project in GNIIT.
+
+PERSONAL DETAILS 
+Date of Birth  		 :        17 November 1989
+Languages Known 	 :        English, Hindi and Punjabi
+Nationality 		 :        Indian
+Marital Status 		 :        Single
+
+DECLARATION
+I hereby declare that the above given information are true to the best of my knowledge and belief.
+
+									Nishita Sahni
